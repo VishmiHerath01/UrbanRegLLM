@@ -41,6 +41,6 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-cleaned_legal_doc*.txt
-cleaned_legal_doc*.json
+# cleaned_legal_doc*.txt
+# cleaned_legal_doc*.json
 Legal Doc/

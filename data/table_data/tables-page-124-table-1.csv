@@ -1,0 +1,8 @@
+"Building Height(m)","All Rooms","","Utility Rooms (eg: Toilets, Store Rooms, Garage, Washing Areas)",""
+"","Minimum Clear width (meters)","Minimum Area of space (square meters)","Minimum Clear Width (meters)","Minimum Area of Space (square meters)"
+"less than 7","2.3","5.0","1.0","1"
+"7  to 15","3.0","9.0","1.0","2.0"
+"15 to 30","4.0","16.0","1.0","2.0"
+"30 to 50","5.0","25.0","1.0","2.25"
+"50 to 75","6.0","36.0","1.5","2.25"
+"75 and above","6.0","*","1.5","2.25"

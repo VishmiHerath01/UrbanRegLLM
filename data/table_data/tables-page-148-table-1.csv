@@ -1,0 +1,6 @@
+"Nominal Voltages","Vertical Distance","Horizontal Distance"
+"Not exceeding 1000 Volts","2.40 m","1.50 m"
+"Exceeding 1000 Volts but not exceeding 11,000 Volts","2.70 m","1.50 m"
+"Exceeding 11,000 Volts but not exceeding 33,000 Volts","3.00 m","2.00 m"
+"Exceeding 33,000 Volts but not exceeding 132,000 Volts","4.10 m","4.10 m"
+"Exceeding 132,000 Volts but not exceeding 220,000 Volts","5.18 m","5.18 m"

@@ -1,0 +1,7 @@
+"Minimum Width of Access Road/ Street (meters)","Maximum Length of Access Road/ Street (meters)","Maximum Number of Lots Served (Excluding the once those are facing the main road)","Maximum Dwelling Units per Lot"
+"3.0","up to 50 m","4","2"
+"","At a distance of 100m or less, but both ends connected to public roads where width is 6 m or more","8","2"
+"4.5","up to 100 m","6","2"
+"","At a distance of 200 m or less, but both ends connected to public roads where width is 6 m or more","12","2"
+"6.0","-","20","Permissible Floor Area applies"
+"9.0 or more","-","unlimited","Permissible Floor Area applies"
