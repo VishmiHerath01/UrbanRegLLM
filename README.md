@@ -49,15 +49,12 @@ The processed legal documents follow a standardized structure:
    - Header: "TABLES AND SCHEDULES"
    - Contains formatted table data
    - Clear separation from main text
->>>>>>> 7f6f21a (Committing the pipelines and updated README)
+
 
 ## Dependencies
 
 - PyMuPDF (fitz)
 - Python 3.x
-<<<<<<< HEAD
-=======
-- openai
 - transformers
 - huggingface_hub
 - torch
@@ -76,4 +73,4 @@ The processed legal documents follow a standardized structure:
 - requests
 - llama-cpp-python
 - matplotlib
->>>>>>> 7f6f21a (Committing the pipelines and updated README)
+
