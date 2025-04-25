@@ -1,0 +1,574 @@
+[
+
+    {
+      "category": "Safety Standards",
+      "question": "What safety measures should be taken during excavation?",
+      "answer": "Adequate safety measures shall be taken during excavation to prevent accidents and damage to adjoining properties."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What safety measures should be taken during construction?",
+      "answer": "Adequate safety measures shall be taken during construction to protect workers and the public from hazards."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What safety measures should be taken during demolition?",
+      "answer": "Adequate safety measures shall be taken during demolition to prevent accidents and damage to adjoining properties."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for scaffolding?",
+      "answer": "Scaffolding shall be erected and maintained in a safe and stable condition."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for hoardings?",
+      "answer": "Hoardings shall be erected to protect the public from hazards during construction or demolition."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for lighting?",
+      "answer": "Adequate lighting shall be provided at the site during construction or demolition."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for ventilation?",
+      "answer": "Adequate ventilation shall be provided at the site during construction or demolition."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for sanitation?",
+      "answer": "Adequate sanitation facilities shall be provided at the site during construction or demolition."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for fire safety?",
+      "answer": "Adequate fire safety measures shall be taken at the site during construction or demolition."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for first aid?",
+      "answer": "Adequate first aid facilities shall be provided at the site during construction or demolition."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for safety training?",
+      "answer": "All workers shall be given adequate safety training before commencing work at the site."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for safety equipment?",
+      "answer": "All workers shall be provided with adequate safety equipment, including personal protective equipment (PPE)."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for safety supervision?",
+      "answer": "All work at the site shall be carried out under adequate safety supervision."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for safety records?",
+      "answer": "Adequate safety records shall be kept at the site."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for safety audits?",
+      "answer": "Regular safety audits shall be carried out at the site."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for safety improvements?",
+      "answer": "Safety measures shall be continuously improved at the site."
+    },
+    {
+      "category": "Safety Standards",
+      "question": "What are the requirements for safety compliance?",
+      "answer": "All work at the site shall comply with the relevant safety standards and regulations."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What environmental regulations should be considered in development activities?",
+      "answer": "Development activities shall be carried out in accordance with the relevant environmental regulations."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What measures should be taken to minimize environmental pollution?",
+      "answer": "Measures shall be taken to minimize air, water, and noise pollution during development activities."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What measures should be taken to protect natural resources?",
+      "answer": "Measures shall be taken to protect natural resources, including trees, water bodies, and wildlife habitats."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What measures should be taken to manage waste?",
+      "answer": "Waste generated during development activities shall be managed in an environmentally sound manner."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What measures should be taken to conserve energy?",
+      "answer": "Energy conservation measures shall be implemented in development activities."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What measures should be taken to promote sustainable development?",
+      "answer": "Sustainable development practices shall be promoted in development activities."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What is the requirement for an Environmental Impact Assessment (EIA)?",
+      "answer": "An Environmental Impact Assessment (EIA) may be required for certain development activities."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What is the purpose of an EIA?",
+      "answer": "The purpose of an EIA is to assess the potential environmental impacts of a development activity."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "Who is responsible for conducting an EIA?",
+      "answer": "The Developer is responsible for conducting an EIA, if required."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What is the procedure for obtaining environmental clearance?",
+      "answer": "Environmental clearance may be required from the relevant environmental authority before commencing a development activity."
+    },
+    {
+      "category": "Environmental Regulations",
+      "question": "What are the consequences of non-compliance with environmental regulations?",
+      "answer": "Non-compliance with environmental regulations may result in penalties and legal action."
+    },
+    {
+     "category": "Zoning Regulations",
+      "question": "What are the regulations regarding building lines?",
+      "answer": "Building lines shall be as specified in the Development Plan in force for the area."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding setbacks?",
+      "answer": "Setbacks shall be as specified in the Development Plan in force for the area."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding building height?",
+      "answer": "Building height shall be as specified in the Development Plan in force for the area."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding building coverage?",
+      "answer": "Building coverage shall be as specified in the Development Plan in force for the area."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding floor area ratio (FAR)?",
+      "answer": "Floor area ratio (FAR) shall be as specified in the Development Plan in force for the area."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding land use?",
+      "answer": "Land use shall be in accordance with the zoning regulations specified in the Development Plan."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding residential zones?",
+      "answer": "Residential zones shall be used for dwelling houses and related uses."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding commercial zones?",
+      "answer": "Commercial zones shall be used for shops, offices, and other commercial uses."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding industrial zones?",
+      "answer": "Industrial zones shall be used for factories, warehouses, and other industrial uses."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding special zones?",
+      "answer": "Special zones may be designated for specific purposes, such as conservation or recreation."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding mixed-use development?",
+      "answer": "Mixed-use development may be permitted in certain zones, subject to specific regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding parking?",
+      "answer": "Parking requirements shall be as specified in the Development Plan."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding access?",
+      "answer": "Access to the site shall be provided in accordance with the regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding landscaping?",
+      "answer": "Landscaping shall be provided in accordance with the regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding signage?",
+      "answer": "Signage shall be in accordance with the regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding utilities?",
+      "answer": "Utilities shall be provided in accordance with the regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding public spaces?",
+      "answer": "Public spaces shall be provided in accordance with the regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding heritage conservation?",
+      "answer": "Heritage conservation shall be in accordance with the regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding environmental protection?",
+      "answer": "Environmental protection shall be in accordance with the regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding disaster management?",
+      "answer": "Disaster management measures shall be incorporated into development plans."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding accessibility?",
+      "answer": "Accessibility for people with disabilities shall be provided in accordance with the regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding sustainable building practices?",
+      "answer": "Sustainable building practices may be encouraged or required in certain zones."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the regulations regarding innovative development?",
+      "answer": "Innovative development proposals may be considered on a case-by-case basis."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "How can zoning regulations be amended?",
+      "answer": "Zoning regulations can be amended through a formal process involving public consultation."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What is the role of the zoning authority?",
+      "answer": "The zoning authority is responsible for administering and enforcing zoning regulations."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "How are zoning regulations enforced?",
+      "answer": "Zoning regulations are enforced through permits, inspections, and legal action."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What is a zoning variance?",
+      "answer": "A zoning variance is an exception to the zoning regulations granted in specific circumstances."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What is a zoning appeal?",
+      "answer": "A zoning appeal is a challenge to a zoning decision made by the zoning authority."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What is the purpose of zoning?",
+      "answer": "The purpose of zoning is to regulate land use and development to promote public health, safety, and welfare."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "How do zoning regulations affect property values?",
+      "answer": "Zoning regulations can affect property values by restricting or permitting certain types of development."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What is the relationship between zoning and land use planning?",
+      "answer": "Zoning is a tool used to implement land use plans."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "How do zoning regulations address environmental justice?",
+      "answer": "Zoning regulations can be used to address environmental justice concerns by ensuring equitable distribution of environmental benefits and burdens."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What are the challenges of implementing zoning regulations?",
+      "answer": "Challenges include balancing competing interests, adapting to changing needs, and ensuring compliance."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "How is public participation incorporated into the zoning process?",
+      "answer": "Public participation is typically incorporated through public hearings, comment periods, and advisory committees."
+    },
+    {
+      "category": "Zoning Regulations",
+      "question": "What role does technology play in zoning administration?",
+      "answer": "Technology can be used for mapping, data management, and public access to zoning information."
+    },
+
+    {
+        "category": "Building Permits",
+        "question": "What details should floor plans of each floor and roof plan of the building include? (Continued)",
+        "answer": "(6) dimensions of all rooms and thickness of walls, columns and beams; (7) position and width of all staircases, ramps, corridors and passageways; (8) position and width of all doors, windows and other openings; (9) position of all sanitary fittings, including manholes, gullies and other drainage appurtenances; (10) direction of the roof slope and position of all rainwater down pipes; (11) section lines indicating the position of all sections; (12) location of all fire protection appliances; (13) the height of each floor and the height of the building; (14) North direction; (15) floor area of each floor."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What details should sections of the building include?",
+        "answer": "Sections of the building shall be prepared to indicate the details stipulated hereunder: (1) the level of the site in relation to the level of the adjoining street, or in relation to the highest known flood level, if the site is subject to inundation; (2) the height of each storey of the building; (3) the height of the building and the height of the rooms; (4) the materials to be used for the walls and roof covering; (5) the position of the damp proof course, if any; (6) the position of the ventilators, if any; (7) the section lines and their reference to the relevant floor plan; (8) the depth and the nature of the foundation, if necessary."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What details should elevations of the building include?",
+        "answer": "Elevations of the building shall be prepared to indicate the details stipulated hereunder: (1) the materials to be used for the external walls and roof covering; (2) the levels of the ground floor and of the top of the parapet in relation to the level of the adjoining street; (3) the position and dimensions of all doors, windows and other openings; (4) the outline of any building on the adjoining land, if relevant."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What are the general requirements for the size and ventilation of rooms?",
+        "answer": "Every room shall be of such dimensions as to secure adequate ventilation and shall have a clear height of not less than 2.7m from the floor level to the underside of the ceiling or roof."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the minimum size requirement for a habitable room?",
+        "answer": "Every habitable room shall have a minimum floor area of 9.0 square meters with a minimum width of 2.4m, except in the case of a room in a servant’s quarter, which shall have a minimum floor area of 7.5 square meters with a minimum width of 2.1m."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What percentage of the floor area should windows and other openings in a habitable room be?",
+        "answer": "Windows and other openings in a habitable room shall have an aggregate area of not less than one-tenth (1/10) of the floor area of such room."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building abutting a street?",
+        "answer": "In the case of a building abutting a street, no door, window or other opening shall be allowed to project over the Street Line."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building abutting a street with a verandah?",
+        "answer": "In the case of a building abutting a street with a verandah, no portion of such verandah, other than the pillars or supports thereof, shall be allowed to project over the Street Line."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building not abutting a street?",
+        "answer": "In the case of a building not abutting a street, no door, window, or other opening shall be allowed to be installed within 1.2m from the boundary of the adjoining land."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building not abutting a street with a verandah?",
+        "answer": "In the case of a building not abutting a street with a verandah, no portion of such verandah, other than the pillars or supports thereof, shall be allowed to be installed within 1.2m from the boundary of the adjoining land."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with eaves?",
+        "answer": "In the case of a building with eaves, the eaves shall not project more than 0.6m over the Street Line or over the boundary of the adjoining land, as the case may be."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with gutters?",
+        "answer": "In the case of a building with gutters, the gutters shall not project more than 0.3m over the Street Line or over the boundary of the adjoining land, as the case may be."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with down pipes?",
+        "answer": "In the case of a building with down pipes, the down pipes shall be fixed inside the Street Line or inside the boundary of the adjoining land, as the case may be."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the maximum height of a building?",
+        "answer": "The maximum height of a building shall be as specified in the Development Plan in force for the area."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the maximum number of floors for a building?",
+        "answer": "The maximum number of floors for a building shall be as specified in the Development Plan in force for the area."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the maximum height of a parapet wall?",
+        "answer": "The maximum height of a parapet wall shall be 1.2m."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the maximum height of a boundary wall?",
+        "answer": "The maximum height of a boundary wall shall be 1.8m."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a roof?",
+        "answer": "In the case of a building with a roof, such roof shall be so constructed as to discharge all rain water falling on it, on to the land within the premises and no rain water shall be allowed to fall on any street."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a flat roof?",
+        "answer": "In the case of a building with a flat roof, such roof shall be provided with parapet walls of not less than 0.6m in height."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the maximum permitted site coverage for a building?",
+        "answer": "The maximum permitted site coverage for a building shall be as specified in the Development Plan in force for the area."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the minimum distance between buildings?",
+        "answer": "The minimum distance between buildings shall be as specified in the Development Plan in force for the area."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a basement?",
+        "answer": "In the case of a building with a basement, such basement shall be constructed in such a manner as to prevent the ingress of ground water."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a septic tank?",
+        "answer": "In the case of a building with a septic tank, such septic tank shall be located at least 15m away from any well or other source of water supply."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a soakage pit?",
+        "answer": "In the case of a building with a soakage pit, such soakage pit shall be located at least 15m away from any well or other source of water supply."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a swimming pool?",
+        "answer": "In the case of a building with a swimming pool, such swimming pool shall be located at least 3m away from any building or boundary."
+    },
+        {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a fuel storage tank?",
+        "answer": "In the case of a building with a fuel storage tank, such fuel storage tank shall be located at least 15m away from any building or boundary."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a transformer?",
+        "answer": "In the case of a building with a transformer, such transformer shall be located at least 3m away from any building or boundary."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a generator?",
+        "answer": "In the case of a building with a generator, such generator shall be located at least 3m away from any building or boundary."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a lift?",
+        "answer": "In the case of a building with a lift, such lift shall be located in a fire-resistant shaft."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a staircase?",
+        "answer": "In the case of a building with a staircase, such staircase shall be constructed of fire-resistant materials."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a fire escape?",
+        "answer": "In the case of a building with a fire escape, such fire escape shall be located at least 3m away from any building or boundary."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a fire hydrant?",
+        "answer": "In the case of a building with a fire hydrant, such fire hydrant shall be located at least 15m away from any building or boundary."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a fire sprinkler system?",
+        "answer": "In the case of a building with a fire sprinkler system, such fire sprinkler system shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a fire alarm system?",
+        "answer": "In the case of a building with a fire alarm system, such fire alarm system shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a lightning protection system?",
+        "answer": "In the case of a building with a lightning protection system, such lightning protection system shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with an air conditioning system?",
+        "answer": "In the case of a building with an air conditioning system, such air conditioning system shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a ventilation system?",
+        "answer": "In the case of a building with a ventilation system, such ventilation system shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a plumbing system?",
+        "answer": "In the case of a building with a plumbing system, such plumbing system shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with an electrical system?",
+        "answer": "In the case of a building with an electrical system, such electrical system shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a communication system?",
+        "answer": "In the case of a building with a communication system, such communication system shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with an automation system?",
+        "answer": "In the case of a building with an automation system, such automation system shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for a building with a special feature?",
+        "answer": "In the case of a building with a special feature, such special feature shall be designed and installed in accordance with the relevant standards."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the procedure for submission of an amended plan?",
+        "answer": "In the event of any amendment to the approved plan, the Developer or his Agent shall submit an amended plan to the Relevant Authority for approval."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What is the requirement for the amended plan?",
+        "answer": "The amended plan shall comply with all the regulations herein and shall be accompanied by a written statement explaining the reasons for the amendment."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What are the powers of the Relevant Authority regarding unauthorized development activity?",
+        "answer": "The Relevant Authority shall have the power to take action against any unauthorized Development Activity."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What actions can the Relevant Authority take against unauthorized development activity?",
+        "answer": "The Relevant Authority may issue a notice to the Developer or his Agent to stop the unauthorized Development Activity, to demolish any unauthorized structure, or to restore the land to its original condition."
+    },
+    {
+        "category": "Building Permits",
+        "question": "What happens if the Developer or his Agent fails to comply with the notice issued by the Relevant Authority?",
+        "answer": "If the Developer or his Agent fails to comply with the notice issued by the Relevant Authority, the Relevant Authority may take action to demolish the unauthorized structure or to restore the land to its original condition, and the expenses incurred by the Relevant Authority in taking such action shall be recovered from the Developer or his Agent."
+    },
+    {
+        "category": "Penalties & Violations",
+        "question": "What is the penalty for any person who contravenes or fails to comply with any of the provisions of these regulations?",
+        "answer": "Any person who contravenes or fails to comply with any of the provisions of these regulations shall be guilty of an offence and shall be liable on conviction after summary trial before a Magistrate to a fine not exceeding one hundred thousand rupees or to imprisonment of either description for a period not exceeding six months or to both such fine and imprisonment."
+    },
+    {
+        "category": "Penalties & Violations",
+        "question": "What is the additional penalty for a continuing offence?",
+        "answer": "Where an offence under these regulations is continued after conviction, the offender shall be guilty of a further offence and shall be liable on conviction after summary trial before a Magistrate to a fine not exceeding five thousand rupees for each day on which the offence is so continued."
+    },
+    {
+        "category": "Other Miscellaneous",
+        "question": "What does ‘Development Activity’ mean?",
+        "answer": "‘Development Activity’ means the parcelling or sub division of any land, the errection or re- errection of structures and the construction of works thereon, the carrying out of building, engineering and other operations on, over or under such land and any change in the use for which the land or any structure thereof is used, other than the use of any land for purposes of agriculture, horticulture and the use of any land within the curtilage of a dwelling house for any purpose incidential to the enjoyement of a dwelling house, not involving any building operation that would require the submission of a new building plan."
+    },
+    {
+        "category": "Other Miscellaneous",
+        "question": "What does ‘Development Permit’ mean?",
+        "answer": "‘Development Permit’ means the permission granted by the Relevant Authority under these regulations for the carrying out of a Development Activity."
+    }
+    ]

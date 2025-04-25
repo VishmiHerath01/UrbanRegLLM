@@ -1,0 +1,422 @@
+[
+  {
+    "category": "Zoning Regulations",
+    "question": "How is the road frontage calculated when a land is facing multiple roads?",
+    "answer": "When a land is facing multiple roads: 1) For land facing two or more independent roads of 6m or more width, road frontage is the sum of frontage on the main access road plus portions of other road frontages calculated proportionately to width ratios. 2) For land facing multiple roads each less than 6m wide, road frontage is the sum of frontage on the main access road plus the widths of other roads. 3) For land facing one or more by-roads of the main access road, road frontage is the sum of frontage on the main access road plus the widths of such by-roads."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the requirement for a corner lot at an intersection of roads?",
+    "answer": "When a lot is located adjacent to an intersection of two roads, the corner of such lot shall be rounded off or splayed, maintaining a half of the width of each road respectively to either sides from the corner point of the lot, as may be necessary for ensuring the safety of the users of the roads."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the restrictions on maximum height for buildings on small lots?",
+    "answer": "Unless otherwise specified in a Gazetted Development Plan or Draft Development Plan or Development Guide Plan, the maximum height of a building in an Existing Lot shall not exceed 10.0m where: a) the extent of the land is less than 150m\u00b2, or b) the land gets access from a road where the width is less than 3.0m, or c) the road frontage of the land is less than 6.0m."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the setback requirement from the edge of a road when no Building Line is prescribed?",
+    "answer": "In cases where a Building Line, a Street Line, or any other road reservation is not prescribed for a particular road to which a plot of land is adjoining, the proposed building development in such plot of land shall maintain a 1.0m setback from the edge of such road."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the requirements for overhangs, canopies, and sun-shading devices?",
+    "answer": "Overhangs, canopies, wings or other sun-shading devices of a building may be permitted to a maximum of 1.2m beyond the Building Line, or towards the rear space, provided that it does not project beyond the Street Line."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How is the rear of a building determined when the building has access from multiple roads?",
+    "answer": "Where the building has access from more than one road, unless otherwise directed by the Relevant Authority, the side which is furthest from the widest road from which the plot of land has right of way shall be considered as the rear of such building."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the specific restrictions for balconies facing adjacent properties?",
+    "answer": "Where a Balcony or a terrace is faced to an adjacent property, a minimum of 1.0m distance shall be maintained from the outer edge of such Balcony or terrace to the relevant boundary. Where any space provided for a Balcony or a similar use is built up to the boundary of the adjoining property, such boundary shall be considered as a Blind Wall and minimum of 2m height Guard Wall shall be constructed."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What exception exists for Permissible Floor Area calculation when a landowner gifts land within the Street Line?",
+    "answer": "Where the owner agrees to gift the land which falls within the Street Line, the Relevant Authority may consider the full width of the Street Line as the physical width of the road when determining the Permissible Floor Area of the development."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the requirement for the space around buildings with irregular shapes?",
+    "answer": "Where a development is proposed in a plot of land which is in irregular shape or it is impracticable to provide an open space to the entire width of the building in the rear or where the site is abutting several roads, the Relevant Authority may direct the Developer to provide an alternative means of open space at the rear of the site. Additionally, any plot of land with an irregular shape shall have a minimum of 3.0m frontage, and development will be permitted towards inside of the land beyond the point where the width of land becomes 6.0m wide."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What conditions must be met for early piling works before obtaining a Development Permit?",
+    "answer": "Constructions of a proposed development may be allowed to commence with a prior approval for early piling works before obtaining the Development Permit. However, the Development Permit shall be obtained prior to commencement of the foundation work."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What are the requirements for Post-permit follow-up and observation reports?",
+    "answer": "The Authority shall carry out inspections during the construction period, once in six months, for buildings that exceed a floor area of 900m\u00b2 or G+4 story buildings from the date of the development permit being issued. This is to confirm that the development work is being carried out according to the approved design. A Post-permit follow-up and observation report is issued to the Developer or Agent. If the Developer doesn't respond within 14 days, the Authority forwards the report for further action. Written requests for interim and final reports must be submitted, and fees paid according to Schedule 2."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What are the special requirements for Public Building permits?",
+    "answer": "For Public Buildings (buildings providing access to the general public or accommodating more than 500 persons), applications must be made using Form C in Schedule 1 with written declarations in Annexure I to VI endorsed by Relevant Qualified Persons. Applications must include a certificate from a Qualified Person confirming the building is structurally sound for the maximum anticipated occupancy, and a statement of intended use. A CoC for a Public Building is valid for five years maximum and may be renewed for up to two years upon request made two months before expiry."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What fees are required for a Preliminary Planning Clearance application?",
+    "answer": "Every application must be forwarded with the relevant fee as set out in Schedule 2. If the fee exceeds Rs. 10,000, an advance payment of Rs. 5,000 is required when submitting the application, with the balance paid before issuance of the PPC. The Authority may exempt fees for Religious Places or Government Low-income Housing Projects, charging only Administrative Expenses of Rs. 5,000."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the process for transferring a Development Permit to another party?",
+    "answer": "If a Developer or Agent wishes to transfer a Development Permit along with its privileges to another party during the validity period, they must submit: 1) A written request, 2) An affidavit, 3) Relevant documents, and 4) The transfer fee as specified in Schedule 2. This request must be forwarded to the Relevant Authority by the Developer or Agent to whom the permit was originally issued."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What happens if a Development Permit expires after the maximum validity period?",
+    "answer": "The validity period of a Development Permit expires after three years. If the Developer wishes to further extend it, they must apply for a fresh Development Permit, submitting copies of the previous permit and approved building plan, along with the relevant fee as set out in Schedule 2. The application must be made according to Regulation 28(2)."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What are the requirements for structural design documentation?",
+    "answer": "A Structural Design Brief for the proposed building works must be prepared and certified by a Relevant Qualified Person and submitted to the Relevant Authority. If deemed necessary, detailed structural engineering design must be submitted in the form of plans and sections, with design calculations including forces exerted by lifts and escalators. This should include superimposed load information, soil test results, foundation type, and piling details if applicable. Electronic copies must also be submitted."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What progress reporting is required during construction?",
+    "answer": "All construction works (excluding single unit private residential buildings not in Category 'B') must be examined by the Relevant Qualified Person every six months until completion. After each examination, a progress report of the building work must be submitted to the Relevant Authority until completion of the building works."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What special considerations exist for condominium property development?",
+    "answer": "The Relevant Authority may grant approval for condominium properties developed in stages or parts under the Apartment Ownership Law No. 11 of 1973. Approval must be obtained for the entire development proposal at the first stage, with all regulatory requirements assessed for the total development. If changes are made to the Approved Plan, the entire plan with amendments must be resubmitted. No further subdivision or separation of a unit in a condominium is permitted unless it meets the regulations."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the minimum ceiling height requirements for different types of rooms?",
+    "answer": "Minimum ceiling heights vary by room type: 1) Residential living rooms, bedrooms, kitchens: 2.8m average with minimum 2.4m at lowest point, 2) Bathrooms, toilets, verandas, balconies, garages: 2.2m minimum, 3) Shop ground floors: 3.0m, upper floors: 2.8m average with minimum 2.4m, 4) School classrooms: 3.5m average with minimum 2.5m, 5) Hospital patient rooms: 3.5m average with minimum 2.8m, 6) Factories: 3.5m average with minimum 2.8m, 7) Other buildings: 2.8m on ground floor, 2.4m on upper floors, 8) Covered gardens on roof terraces: maximum 2.6m, 9) Basements for parking: minimum 2.4m clear height."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the special requirements for car parking areas and ramps?",
+    "answer": "For car parking: 1) Maximum ramp gradient is 1:8 for ramps of 12.0m or less, 1:10 for longer ramps, 2) For upward ramps entering streets, a flat space of at least 6.0m from the Street Line is required, 3) For downward ramps approaching streets, a flat space of at least 3.0m is needed, 4) Clear width of ramps must be at least 3.5m for separate entry/exit or 6.0m for combined, 5) Multi-storied parking areas need minimum 2.4m clear height, 6) Security and parking control must be at least 6.0m from street edge, 7) Inclined parking floors cannot exceed 1:20 gradient, 8) Minimum inner and outer turning radius requirements specified in Form C Schedule 11."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for mechanical ventilation and air conditioning?",
+    "answer": "Where Air-Conditioning, Mechanical Ventilation, or artificial lighting is installed: 1) A minimum of one-third of the area on every floor must have openings for natural ventilation, 2) Underground constructions must have 100% mechanical ventilation and artificial lighting, with emergency power generators, 3) Air conditioning outlets/outdoor units must be at least 2.3m from adjacent property boundaries, 4) 24-hour exhaust fans must be at least 2.3m from the boundary, 5) Where fresh air is supplied mechanically at three air changes per hour in residential rooms, natural ventilation openings may be reduced to half but not less than 0.5m\u00b2."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for indoor mobile communication in buildings?",
+    "answer": "Infrastructure for indoor mobile communication within buildings shall be provided adequately to cover the entire premises, considering the use of such buildings, and shall conform to the recommendations and guidelines of the Relevant Institute."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What emergency power requirements exist for buildings over 15m in height?",
+    "answer": "A space dedicated for a generator shall be provided in every building which is more than 15.0m in height or in any other building for which the Relevant Authority may direct to do so, considering the use of such building."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the rules for blind walls and boundary walls?",
+    "answer": "For blind walls (construction on the boundary): 1) A Development Permit is required, 2) Written declaration from a Qualified Person stating construction won't damage adjoining properties, 3) Insurance Policy for buildings over 4 floors if requested, 4) Letter of Indemnity as per Annexure VII of Form C. For boundary walls: Height shall not exceed 2.0m from existing ground level excluding gates, unless specified in development plans. Live fences, iron fences, or wire mesh are permitted."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What is required for basement excavations near property boundaries?",
+    "answer": "A minimum of 1.0m distance shall be maintained between the boundary of a lot and the excavation line of the Basement, subject to: 1) This distance may increase upon recommendation of a structural/geo-technical engineer, 2) If a Building Line, Street Line or other road reservation applies, excavation can only be up to such line/reservation, 3) If piling works for a basement are required, clearances must be obtained from the National Building Research Organization."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the special provisions for elevators in hospitals?",
+    "answer": "Every hospital (irrespective of the height of the building) having more than one floor level shall be provided with one or more bed lifts."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What testing is required for lifts and escalators?",
+    "answer": "Every passenger and goods lift, escalator, or moving walk must be tested for safety according to safety regulations and manufacturer's instructions. Commissioning tests for buildings exceeding 30m in height must be conducted in the presence of a Qualified Person, and a certificate must be forwarded with the application for Certificate of Conformity."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the Green Building Rating levels and their score requirements?",
+    "answer": "The Green Building Rating system has four levels: 1) Green Platinum: 70+ marks, 2) Green Gold: 60-69 marks, 3) Green Silver: 50-59 marks, and 4) Green Certified: 40-49 marks. The rating is based on scores in categories including Energy Efficiency (27 points), Sustainable Site Planning and Management (23 points), Materials and Resource Management (20 points), Quality of Building Environment (13 points), Water Efficiency (10 points), Green Innovation (5 points), and Socio-Cultural Compatibility (2 points)."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the restrictions on rainwater disposal?",
+    "answer": "With respect to rainwater disposal, the following are prohibited: 1) Connection to an on-site wastewater collection and disposal system, open trench, or public sewerage system, and 2) Discharge into an adjacent property."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What is required in a drainage management plan for properties?",
+    "answer": "Every Developer must submit a drainage management plan with building plans for approval. For land development without building work, this must include: 1) Details of existing drainage system location and dimensions (if any), and 2) The proposed drainage system including rainwater harvesting with dimensions and flow directions. For developments with building work, it must include: 1) Sketch of surrounding area with existing drains and water courses, 2) Roof plan and floor plan showing rainwater drainage paths, storage locations, and outlet drains, and 3) Cross and longitudinal sections of the building showing storage tanks, downpipes, and related appurtenances."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the sanitary facility requirements for different building types?",
+    "answer": "Sanitary facility requirements vary by building type: 1) Restaurants/Hotels: 1 toilet per 100m\u00b2 (female), 1 per 200m\u00b2 (male), 1 urinal per 200m\u00b2 (male), with washbasins, 2) Cinemas/Theaters: 1 toilet per 40 seats (female), 1 per 120 seats (male), 1 urinal per 40 seats, with washbasins, 3) Shopping Complexes: 1 toilet per 800m\u00b2 (female), 1 per 1000m\u00b2 (male), with urinals and washbasins, 4) Offices: 1 toilet per 100m\u00b2 (female), 1 per 200m\u00b2 (male), with urinals and washbasins, 5) Schools: 1 toilet per 40 students or per 60m\u00b2, 6) Hospitals: 3 toilets per 50 beds for each gender, and other specific requirements for public spaces, industries, etc."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What is the requirement for wastewater treatment plants in condominium developments?",
+    "answer": "An appropriately designed wastewater treatment plant shall be provided for a condominium housing development that exceeds fifteen units (15) and shall be in conformity with Regulation 74(5-b), which requires treatment systems with appropriate primary, secondary, and tertiary treatment, designed and certified by a relevant Qualified Person."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the special considerations for housing schemes without public sewerage?",
+    "answer": "In housing schemes located in areas where public sewerage systems are not available and individual septic tanks or package treatment plants cannot be provided, on-site collection and on-site and/or off-site disposal shall be provided in clusters. Number of housing units in such a cluster shall be limited to a maximum of five (5). However, the Relevant Authority or Institute may consider alternative systems if recommended by a Relevant Qualified Person."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What design standards apply to waste storage areas in non-residential buildings?",
+    "answer": "For non-residential buildings: 1) Waste storage areas must have impervious floors with provision for washing down and draining into a system suitable for polluted effluent, 2) Gullies must incorporate traps that maintain seals during prolonged disuse, 3) Open storage compounds for waste must be secure to prevent access by vermin, birds, or animals unless waste is stored in secure containers with close-fitting lids, 4) For high-density developments, local authorities should be consulted for guidance on design of waste storage and collection areas."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the provisions for high-rise residential waste management?",
+    "answer": "In high-rise residential developments: 1) Dwellings may share a waste container for non-recyclable waste fed by a chute or conveyed manually to a container in a dedicated area, 2) Separate storage for recyclable and compostable waste is required, 3) Storage areas must be provided according to local authority requirements, 4) A satisfactory management arrangement for conveying refuse to the storage area must be assured, 5) Waste collection points must be accessible to waste collection vehicles, 6) Dedicated parking for waste collection vehicles is required, 7) If waste storage is inside the building, minimum ceiling height must comply with Relevant Authority specifications."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What requirements exist for hazardous and special waste handling?",
+    "answer": "Separate and appropriately designed safe spaces shall be allocated in building designs, together with proper access for collection, storage, processing, treatment, and disposal of wastes other than municipal solid waste. These include construction and demolition waste, industrial waste and sludges, scheduled waste as defined in national environmental regulations, hazardous waste (reactive, toxic, corrosive, etc.), electronic waste, and others."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What happens if unauthorized temporary advertisements are not removed after an event?",
+    "answer": "Where any advertisement, billboard, or hoarding erected on a temporary basis for a special event exists after completion of such event, the Relevant Authority may direct removal within fourteen days of prior notice. If not removed within this period, the Relevant Authority may remove such items and the owner shall reimburse the Authority for any costs or expenses associated with the removal."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What are the consequences of occupying a public building without a valid CoC?",
+    "answer": "No person shall occupy, use, or permit any other person to occupy a Public Building or part thereof in the absence of a valid Certificate of Conformity (CoC). A person who contravenes this requirement commits an offense under Section 28 of the Urban Development Authority Act, No. 41 of 1978."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "When can the Authority revoke a Certificate of Conformity for a Public Building?",
+    "answer": "The Authority may revoke a Certificate of Conformity of a Public Building that has been issued or renewed under these regulations in the event of: a) a breach of any term or condition of the Development Permit; b) a failure to comply with the provisions of these regulations; or c) any misrepresentation of particulars in the application, plans, or documents."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What are the consequences of terminating a Qualified Person's services without notifying the Authority?",
+    "answer": "If the services of a Relevant Qualified Person are terminated, the Developer must notify the Authority in writing within 14 days. After such termination, building work shall not be commenced, carried out, or resumed unless another Qualified Person has been appointed by the Developer and the Relevant Authority notified in writing. Failure to comply with this notification requirement would be a violation of the regulations."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What are the criteria for rejecting an application for a Development Permit?",
+    "answer": "An application for a Preliminary Planning Clearance, Development Permit, or CoC shall not be accepted if: a) the information and the particulars provided in the application are incomplete or inaccurate; b) the application is not duly certified by the Developer or Agent and Relevant Qualified Person. Where approval is not granted, the Relevant Authority shall inform the Developer of the reasons for refusal and return copies of the relevant plan while retaining one copy."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What are the appeal options if a development application is refused?",
+    "answer": "Where a Developer or Agent is aggrieved by the refusal of an application for a Preliminary Planning Clearance, Development Permit, or Certificate of Conformity, an appeal may be made in writing to the Minister within thirty days of the communication of such decision."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What conditions can prevent approval of a development application?",
+    "answer": "A development application may not be approved if: a) the information required by the Relevant Authority is not provided or the particulars in the application are not duly completed; b) the proposed development faces objections from any Government Institution or private party; or c) the proposed development may affect the proceedings of an ongoing litigation, an investigation by the Commission to Investigate Allegations of Bribery and Corruption, Human Rights Commission, or any other statutory body."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What permits are needed for alterations to buildings of architectural or archaeological value?",
+    "answer": "Where any provision of any other Law requires or where the Authority has identified Buildings or places of architectural, environmental, aesthetic, or archaeological value, any addition or alteration to such buildings or places shall not be carried out by the owner or occupier without the prior approval of the Relevant Institutions or Authority."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What conditions apply to the display of commercial advertisements?",
+    "answer": "Permission shall not be granted for the display of advertisements which: 1) Contain messages detrimental to the inherent qualities and characteristics of the proposed development zones, 2) Contain nude or obscene pictures, 3) Disturb vehicular movements or misguide road users (colors, shapes, font types, and symbols shall not be similar to traffic signs), 4) Obstruct pedestrian and vehicular movement by being placed on boundary limits of access roads, 5) Obstruct doors, windows, emergency exits, staircases, or means of obtaining light and ventilation of a building, 6) Cover more than 25% of the frontage of a commercial or public building, or 7) Are erected with support from trees, utility posts, rocks, bridges, walls, vehicles, or traffic signs."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What approvals are required for new religious developments?",
+    "answer": "Where any new development for religious purposes is required, consent shall be obtained from the general public who reside within a 500m radius of such development through the Grama Niladhari of the Division. A certificate from the Divisional Secretary and the Relevant Government Institution shall be submitted."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What are the limitations on solar panel installations?",
+    "answer": "Where solar energy is used for a building, the maximum height for installation of solar panels on a Flat Roof shall be 1.2m."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "How are areas with no pipe-borne water supply regulated?",
+    "answer": "In areas where there are no pipe-borne water supply systems installed, the minimum plot size shall be 250m\u00b2."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What restrictions apply to projections over streets?",
+    "answer": "No part of any Building or a fixture shall project: a) over a street; or b) beyond a Street Line/acquisition line specified in the gazetted Development Plan, Draft Development Plan or Development Guide Plan or as prescribed by the Relevant Authority or any other Relevant Institution."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What are the regulations for footways and arcades?",
+    "answer": "Any covered/uncovered footway, arcade, or veranda of a building shall: a) be located only within the lot; and b) continue along the entire portion of the building abutting the street or be as directed by the Relevant Authority. The minimum height of any covered footway shall be not less than 2.8m, below which only beams, stairways and landings, screens, signboards or advertisements, or light bulbs, fans and similar elements may project if their underside is not less than 2.5m above the footway paving."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What requirements apply to buildings at street junctions?",
+    "answer": "Where a building is erected at a junction of two streets and where the degree of splay or rounding off is not specified in the gazetted Development Plan or Draft Development Plan or Development Guide Plan, the corner of such Building shall be splayed or rounded off to a height not less than 6.0m above the street level, following the specifications in Regulation 22 (maintaining half of the width of each road to either side from the corner point)."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What procedures exist for development in 'Prescribed Projects'?",
+    "answer": "An application for approval of construction in any development related to the 'Prescribed Projects' under Part IV(c) of the National Environmental Act No. 47 of 1980 and its amendments shall be in compliance with the requirements of the UDA regulations."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "How does the language interpretation of regulations work?",
+    "answer": "In the event of any inconsistency between the Sinhala and English texts pertaining to the interpretation of these regulations, the Sinhala Language shall prevail."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What insurance is required for building works involving excavation?",
+    "answer": "An insurance coverage shall be obtained where building works of a proposed development involved with piling or ground excavation."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum plot size of a lot in a land subdivision?",
+    "answer": "The minimum plot size of a lot shall be not less than 150 in extent, unless otherwise specified by the Development Plan in effect for the particular Urban Development Area."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What should a survey plan for a proposed subdivision indicate?",
+    "answer": "The survey plan shall indicate the proposed lots and the corresponding dimensions, direction, widths and levels of all streets, open spaces and space for other amenities and the proposed use of every lot."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "Under what conditions can a land be subdivided without reserving ten per centum (10%) of the land for community, recreation and open space uses?",
+    "answer": "When a land is subdivided for the purpose of commercial or industrial uses, if the plot size of each subdivided lot is not less than 2,024  and all the road widths are not less than 9.0m, the land may be subdivided without reserving ten per centum (10%) of the land for community, recreation and open space uses."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What factors determine the Permissible Floor Area for a development?",
+    "answer": "The Permissible Floor Area depends on: 1) the extent of land, 2) the length of the boundary of the land directly abutting the road (road frontage), 3) width of the road providing access to the land, 4) the Zone Factor indicating development density for the area, and 5) other conditions imposed by relevant laws or regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How should the proposed plan comply when subdivision, amalgamation or development of land is proposed for a site which adjoins a road, drain, river, any other water body or water source?",
+    "answer": "The proposed plan for such activity shall comply with the reservations and other conditions imposed by the Relevant Authority and Relevant Institutions."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the requirement for a site or lot abutting a street less than nine meters (9m) in width?",
+    "answer": "No site or lot abutting a street less than nine meters (9) in width shall be used for non-residential use or construction of any building for such use."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the condition for a street meant to serve one or more lots for non-residential use or for construction of any building for such use with access less than 9m in width?",
+    "answer": "It may be permitted with access less than 9m in width subject to be in conformity with the specifications as set out in Form A in Schedule 4."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How is the width of an Access Road determined?",
+    "answer": "The width of an Access Road shall be decided on the aggregate Lots served by such Access Road as specified under Form B in Schedule 4 herein."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the requirement for the carriageway of a road, which is 6.0m or less in width?",
+    "answer": "Any carriageway of a road, which is 6.0m or less in width, shall have the same carriageway width throughout and the drains and other road infrastructure requirements incidental thereto shall be provided in addition to the said carriageway width and shall be reserved from abutting land."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the regulation for lots or sites that are adjacent to the dead end of a road?",
+    "answer": "Every lot or site that is adjacent to the dead end of a road may have frontage less than the width specified in the regulations herein, essentially with a minimum width of 3.0m."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is considered when Street Lines or Proposed Road Widths are not applicable for any Access Road of a land?",
+    "answer": "Subdivision of such land shall be made considering the existing physical width of the Access Road."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the condition when a land is accessed by a road having a specified Street Line or Proposed Road Width?",
+    "answer": "The number of Lots in a subdivision of such land shall be decided based on the width of the Street Line or Proposed Road Width of the Access Road."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "Under what condition can the width of a road be reduced, where the Authority is of the opinion that undue hardship may be caused to any party, due to compliance with the minimum requirement of the width of a road for a residential lot?",
+    "answer": "The width of such road may be reduced, subject to the recommendation of the Planning Committee, if: a. the minimum width of 3.0 m is available in the access road; orb. the proposal is to improve the status of an underserved settlement. Provided that, every such street shall connect to a public or private road which has a width of not less than 6.0m and of which the owner possesses the right of way from such private road. The above reduction shall not apply for new land sub divisions."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum width of an Access Road to a Lot in a new subdivision for residential uses?",
+    "answer": "The minimum width of an Access Road to a Lot in a new subdivision shall be in accordance with the Form B in Schedule 4 herein for residential uses."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the requirements for an Access Road which is less than 9.0 m in width and more than 30.0 m in length in the subdivision of a land?",
+    "answer": "It shall be provided with a turning circle of not less than 9.0 m in diameter or a T-turn with a 9.0m span at a suitable location on the road to turn the vehicles."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the requirements for an Access Road which is 9.0m or more in width in the subdivision of a land?",
+    "answer": "It shall be provided with a turning circle of 12.0m in diameter or a T-turn with a 12.0m span at a suitable location on the road to turn the vehicles."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the requirement for a lot located adjacent to an intersection of two roads?",
+    "answer": "The corner of such lot shall be rounded off or splayed, maintaining a half of the width of each road respectively to either sides from the corner point of the lot as may be necessary for the purpose of ensuring the safety of the users of the roads."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the requirement when a parcel of land or site to be sub divided exceed 1.0 hectare or more?",
+    "answer": "An area of not less than ten per centum (10%) of the land or site excluding roads and drains shall be reserved for community, recreation and open space uses in an appropriate location for the purpose of such community."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "Under what condition is a reserved space used as a reservation of a road, a landscaping area or a walking track etc.?",
+    "answer": "If the portion of land required to be reserved for community, recreation and open space uses mentioned in Regulation 23 (1) is less than 300 , that particular reserved space shall be used as a reservation of a road, a landscaping area or a walking track etc. and it shall be maintained by the community served by such reserved space."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "When a land is subdivided for the purpose of commercial or industrial uses, under what condition may the land be subdivided without reserving ten per centum (10%) of the land for community, recreation and open space uses?",
+    "answer": "If the plot size of each subdivided lot is not less than 2,024  (80 perches) and all the road widths are not less than 9.0m, the land may be subdivided without reserving ten per centum (10%) of the land for community, recreation and open space uses."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "In a residential land sub division, under what condition may the land be subdivided without reserving ten per centum (10%) of the land for community, recreation and open space uses?",
+    "answer": "If the minimum land parcel of subdivision is not less than (40 perches) and the development is limited to two housing units per lot, the land may be subdivided without reserving ten per centum (10%) of the land for community, recreation and open space uses."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "In the event that a lake, public playground or seashore etc. which is accessible to the public and which exceeds a land extent of 4047 m² (1 acre), is located within 0.  5 km radius circling the land to be subdivided, what is the obligation of the Developer?",
+    "answer": "Where the Relevant Authority so demands, the Developer shall be obliged to deposit a sum equivalent to the open market value of the portion of land which would have been reserved for community, recreation and open space uses, as at the date of request evaluated by a Qualified Person as set out in Schedule 3 herein at the designated account held by the Relevant Authority in lieu of providing such space physically within the site."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the permissible use of a public open space which is allocated for community and recreational activities?",
+    "answer": "A public open space which is allocated for community and recreational activities may be used for the construction of indoor pavilion, swimming pool and building for sports and recreational activities and community halls, subject to a maximum plot coverage of 25% and the maximum height of 5.0 m of such buildings."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What options does the Relevant Authority have if a land has been subdivided without providing the ten per centum (10%) open space?",
+    "answer": "The Relevant Authority may permit development or further subdivision of such individual land parcel subject to depositing a sum equivalent to the open market value of ten per centum (10%) portion of land which would have been reserved for community, recreation and open space uses, as at the date of request evaluated by a Qualified Person as set out in Schedule 3 herein with an additional twenty-five per centum (25%) of service charge in the designated account of the Relevant Authority."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the procedure to obtain a Development Permit?",
+    "answer": "To obtain a Development Permit, a Developer or his Agent shall make an application to the Relevant Authority according to Form C as set out in Schedule 1 herein, together with Annexure I and II of Form C and written declarations as prescribed in Annexure III to VI of Form C endorsed by a Qualified Person as set out in Schedule 3 herein. An application with the relevant documents shall be forwarded to the Relevant Authority online wherever possible. Every application shall be forwarded to the Relevant Authority with the relevant fee as specified under Schedule 2 herein."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the validity period of a Development Permit?",
+    "answer": "A Development Permit issued under these regulations shall be valid for a period of one year. The Relevant Authority on request by the Developer or his Agent, may extend the validity period of a permit for a further period not exceeding 2 years if the Relevant Authority is satisfied that the Development Activity referred to in the Development Permit has been commenced but not been completed due to unforeseeable circumstances. The validity period of the Development Permit shall expire after a lapse of three (3) years."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What plans should the Developer or Agent retain at the site?",
+    "answer": "The Developer or his Agent shall retain copies of the approved survey plan, approved building plan and relevant Development Permits at the site and shall present such copies to an officer of the Relevant Authority where necessary."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What are the building types defined for the purpose of these regulations?",
+    "answer": "The building types are defined in the following table: Type A: A building consisting of G+4 floors or more or a building exceeding 15.0m in height. Type B: A building having walls or columns located bordering the boundary line; A building having a basement; A building having any type of deep foundations including piles, cylinders, caissons or soil improvement involving excavation and backfills or raft and strip foundations; A building with a roof span exceeding 10.0m A place of public assembly or a public building; Building which is wind sensitive such as warehouse or factory; Building construction on a ground where the maximum slope is between 20 to 45 degrees; Buildings for which dynamic response need to be considered. Type C I: Residential building up to 500m2 and Non-residential buildings up to 400m2 which do not fall within Category B A building without a basement or a building having a foundation excavation not exceeding 2.0m depth; Having retaining walls with earth retaining height less than 3.0m Building construction on a ground where the maximum slope is less than 20 degrees. Type C II: Residential buildings up to 400m2 and Non-residential buildings up to 300m2 which do not fall within Category B A building without a basement or a building having a foundation excavation not exceeding 2.0m depth; Having retaining walls with earth retaining height less than 3.0m. Building construction on a ground where the maximum slope is less than 20 degrees. Type C III: Residential or Non-residential buildings up to 100m2 which do not fall within Category B Maximum G + 1 floors; Having retaining walls with earth retaining height less than 2.0m. Building construction on a ground where the maximum slope is less than 10 degrees"
+  },
+  {
+    "category": "Building Permits",
+    "question": "What are the details that a plan corresponding to any development in relation to building works submitted for the purpose of obtaining a Development Permit shall include?",
+    "answer": "The details set out in Regulations 34, 35, 36, 37 and 38 in recommended colours and symbols."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What details should a site plan include?",
+    "answer": "A site plan shall be prepared to indicate the details stipulated hereunder: (1) boundaries of the development premises, the length and the width of the premises and distance between the proposed and existing building to the boundary with dimensions in figures; (2) the scale of the plan, the north-line and the assessment numbers of premises relating to adjoining lots or buildings, as may be stipulated in the approved survey plan; (3) the means of access to the site; (4) all Street Lines, Building Lines, road widening lines, service roads, drainage and other reservations and such other details as may be stipulated in the gazetted Development Plan or imposed by the Relevant Authority or Relevant Institutions; (5) distance from the proposed building to all existing drains, watercourses, sewer lines, manholes, fences, Retaining Walls and slopes within the Lot and in adjoining Lots with dimensions in figures; (6) the highest known flood level of the site as recorded by the Irrigation Department, Sri Lanka Land Development Corporation or any other institution if such land is subject to inundation; (7) all existing contours or spot levels of the site and of adjoining roads and lands, clearly indicating the slopes steeper than 45 degrees and exceeding one and a half meters (1.5m) in height; (8) any formation of a new slope or embankment and the provision of a Retaining Wall or other structure to stabilize such slope or embankment, if such slope or embankment is taller than the prevailing; (9) proposed surface or ground drain and its point of discharge or connection to an existing drain or a watercourse; (10) proposed sewer line and manhole and their respective connecting point to an existing sewer line or manhole; (11) proposed landscape arrangements; (12) all parking arrangements for the proposed development."
+  }
+  ]

@@ -1,0 +1,1172 @@
+[
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the requirements for the distance between windows and opposite boundaries for natural light and ventilation?",
+    "answer": "The distance between means for natural light and ventilation in a Room and the opposite boundary of the open space must be maintained as specified in Form E of Schedule 6. For water-closets, toilets, or bathrooms, the minimum distance shall not be less than 1.0m. This ensures adequate light, air, and privacy for all habitable spaces while allowing more compact arrangements for utility spaces."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the maximum dimensions allowed for shops that access streets less than 9 meters wide?",
+    "answer": "No site or lot abutting a street less than nine meters (9m) in width shall be used for non-residential use or construction of any building for such use. However, a street meant to serve one or more lots for non-residential use may be permitted with access less than 9m in width subject to conformity with specifications in Form A in Schedule 4. This ensures commercial activities have adequate access while allowing flexibility for smaller-scale enterprises."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How do floor area calculations differ when a building has access from multiple roads of different widths?",
+    "answer": "When a building has access from multiple roads of different widths, the floor area calculation considers the Permissible Floor Area from the widest road. Additionally, road frontage can be enhanced by: 1) For multiple independent roads \u22656m wide: adding portions of frontage from other roads proportionate to width ratios, 2) For multiple roads <6m wide: adding the full widths of other roads, 3) For by-roads: adding the widths of such by-roads. This approach rewards sites with multiple access points while prioritizing the primary access."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What open space requirements apply to terrace houses with depths exceeding 12m?",
+    "answer": "A Terrace House of depth greater than 12.0m shall have permanent means of ventilation from front to rear by suitable vents in all front, back and cross walls at each floor. Such vents shall have a net opening area of not less than 0.5m\u00b2. This requirement ensures adequate cross-ventilation in deep terrace houses that might otherwise have interior spaces far from natural light and air sources."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How does the development of an underserved settlement affect road width requirements?",
+    "answer": "Where the Authority determines that undue hardship may be caused due to minimum road width requirements, the width may be reduced if: 1) A minimum width of 3.0m is available in the access road, or 2) The proposal is to improve the status of an underserved settlement. The street must connect to a public or private road of at least 6.0m width where the owner has right of way. This reduction does not apply to new land subdivisions. This provision allows for practical upgrading of existing informal settlements."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What restrictions apply to buildings on land plots with irregular shapes?",
+    "answer": "For plots with irregular shapes: 1) The minimum frontage must be at least 3.0m, 2) Development is permitted toward the inside of the land beyond the point where the width becomes 6.0m wide, 3) The Relevant Authority may direct alternative means of providing open space if it's impractical to provide open space to the entire width of the building in the rear. These provisions allow reasonable development of non-standard plots while maintaining minimum standards for access and open space."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the particular zoning considerations for lands adjacent to environmentally sensitive areas?",
+    "answer": "When the rear side of a plot is adjacent to a reservation of a river, canal, wetland, forest, or similar natural feature prescribed in development plans or by relevant authorities, such reservation may be considered for calculating the rear space requirement. Additionally, in subdivisions where the land is located adjacent to environmentally sensitive features, the community/recreation reserved space should preferably be located adjacent to these features. This approach creates buffer zones and enhances ecological connectivity."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What special provisions exist for corner lots at road intersections?",
+    "answer": "When a lot is at the intersection of two roads, the corner must be splayed or rounded off by maintaining half the width of each road from the corner point. For buildings at junctions where the degree of splay is not specified in development plans, the corner shall be splayed or rounded to a height of at least 6.0m above street level. This ensures visibility at intersections for traffic safety while establishing a consistent architectural treatment of corner buildings."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How does the authority determine the maximum permitted building height in relation to land area and access?",
+    "answer": "Maximum building height is restricted to 10.0m when: 1) The land area is less than 150m\u00b2, 2) The access road is less than 3.0m wide, or 3) The road frontage is less than 6.0m. For other situations, height limits are determined by the permissible floor area ratio, which increases with larger land parcels and wider access roads. Zone factors also influence permitted height, with higher zone factors allowing taller buildings. This graduated approach ensures building height is proportionate to plot size and infrastructure capacity."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What documents must be submitted specifically for Public Building permits?",
+    "answer": "Public Building permit applications require: 1) Form C from Schedule 1 with Annexures I-VI endorsed by Qualified Persons, 2) A certificate from a Qualified Person confirming the building is structurally sound for maximum anticipated occupancy, 3) A statement of intended use, 4) For Certificate of Conformity: certificates from Qualified Persons confirming compliance with all systems and regulations, including fire precautions, 5) Details of the designated Safety Officer. A CoC for Public Buildings is valid for 5 years maximum and may be renewed for up to 2 years, with renewal requiring structural stability certificates and updated fire certificates."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What documents are required specifically for Preliminary Planning Clearance for industrial developments?",
+    "answer": "For industrial developments requiring approval under Part IV(C) of the National Environmental Act, a Preliminary Planning Clearance application must include: 1) Completed Form A from Schedule 1 with Annexures I & II, 2) Environmental approvals from the Central Environmental Authority, 3) Details of manufacturing processes, waste generation, and treatment methods, 4) Clearances from relevant government agencies as specified in the PPC, 5) Any additional information required based on the development scale. These requirements ensure industrial developments meet both urban planning and environmental standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What specific documentation is required for developments on slopes exceeding 10 degrees?",
+    "answer": "For developments on slopes exceeding 10 degrees: 1) Existing contours or spot levels must be shown on site plans, 2) A geotechnical investigation is required even for single-story buildings on slopes over 10 degrees or unstable soil, 3) Clearance must be obtained from the National Building Research Organization, 4) Details of any new slopes, embankments, or retaining walls must be shown on plans, 5) For slopes between 20-45 degrees, the building is classified as Category B requiring certification by Chartered Engineers. These requirements address the higher risks associated with hillside construction."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What specific documentation is required for alterations or additions to existing buildings?",
+    "answer": "For alterations or additions to existing buildings: 1) A certificate from a Qualified Person stating they've examined the building and it can bear any increased loads, 2) Plans showing all extensions clearly indicated and new additions marked in red, 3) Parts to be removed marked in black dotted lines, 4) If an existing building is divided due to subdivision, a copy of the approved plan of such building may be requested. These requirements ensure structural integrity is maintained when modifying existing structures."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What specific information must be included in the elevation drawings for a Development Permit?",
+    "answer": "Elevation drawings must show: 1) All External Walls, columns, parapet walls, doors, windows, canopies, balconies, and roof with dimensions and materials, 2) Part elevations of existing buildings within or adjoining the premises (when required) showing height, floor levels, external features, and materials, 3) Levels of adjoining Footways, Veranda Ways, streets, and ground levels, 4) Levels of all proposed counterfort walls of the Footway, Veranda Way, street, and ground. These detailed requirements ensure proper evaluation of aesthetic impact and integration with surrounding structures."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What specific requirements apply to condominium property development permits?",
+    "answer": "For condominium developments: 1) Approval must be obtained for the entire development at the first stage, 2) All regulatory requirements are assessed for the total development, 3) Where changes are made to the Approved Plan, the entire plan with amendments must be resubmitted, 4) The plan must comply with requirements of the Apartment Ownership Law No. 11 of 1973, 5) No further subdivision of units is permitted unless meeting regulations, 6) For condominiums exceeding 15 units, an appropriately designed wastewater treatment plant is required. These requirements ensure comprehensive planning and infrastructure adequacy for multi-owner developments."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What specific requirements apply to section drawings for building permit applications?",
+    "answer": "Section drawings must show: 1) Materials and thickness of walls, floors, roofs, foundations, pillars, beams, and other structural parts, 2) Existing ground level and any proposed changes, including measures to safeguard adjoining lands, 3) Dimensions of distances from Retaining Walls or slopes to the proposed building, boundaries, and nearby structures, 4) Dimensions of doors, windows, ventilation openings, floor heights, ceiling heights, Ground Floor level relative to existing ground and street level, 5) Clear distances between Lot boundaries and External Walls. These detailed requirements ensure structural adequacy and proper site relationships."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What inspection requirements apply during the construction process after obtaining a Development Permit?",
+    "answer": "During construction: 1) For buildings exceeding 900m\u00b2 or G+4 stories, the Authority conducts inspections every six months to issue Post-permit follow-up reports, 2) Developers must respond to these reports within 14 days, 3) All construction (except single-unit private residential buildings not in Category B) must be examined by a Qualified Person every six months with progress reports submitted, 4) If a Qualified Person's services are terminated, the Authority must be notified within 14 days and work cannot continue until a replacement is appointed, 5) A notice board (2.5m \u00d7 1.5m) must display development details for projects exceeding 900m\u00b2 or G+4 stories."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What specific documentation is required for Certificate of Conformity applications?",
+    "answer": "Certificate of Conformity applications require: 1) Form F from Schedule 1, 2) Certificates from Qualified Persons confirming the development complies with approved plans and permit conditions, 3) For structural elements: certification from a Chartered Civil/Structural Engineer, 4) For mechanical/electrical/plumbing systems: certification from relevant Qualified Persons, 5) Certificates for fire services, electricity, water supply, sewage disposal, and solid waste management from relevant authorities, 6) Green Building Certification compliance confirmation, 7) Landscape Plan implementation certificate if applicable, 8) Final Post-Permit follow-up report. These comprehensive requirements ensure all aspects of the development meet approved standards."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the specific minimum dimensions required for different room types in residential buildings?",
+    "answer": "Minimum room dimensions are: 1) For a single-room dwelling unit: 11.0m\u00b2 area, 3.0m width, 2) For multi-room dwellings: first room 9.5m\u00b2 area, 2.5m width; additional rooms 8.5m\u00b2 area, 2.5m width, 3) Kitchen: 5.5m\u00b2 area, 1.8m width, 4) Bathroom: 1.7m\u00b2, 1.0m width, 5) Toilet: 1.7m\u00b2, 1.0m width, 6) Combined bath and toilet: 2.0m\u00b2, 1.5m width. These standards ensure habitable spaces provide adequate room for furniture and movement, while allowing more compact utility spaces."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific requirements apply to fire safety requirements in buildings exceeding 15.0m in height?",
+    "answer": "For buildings exceeding 15.0m in height: 1) Fire certificates with evacuation route plans must be displayed on each floor, 2) Fireman's lifts and Firefighting lifts are required for emergency evacuation and firefighter transportation, 3) These lifts must be installed in 2-hour rated fire lobbies accessible to firemen, 4) Lift materials must be fire-retarded with 1-hour fire-rated landing doors, 5) At least one Fireman's lift is required per 900m\u00b2 floor area, 6) Generator backup is required, 7) Fire requirements must comply with specifications from the Fire Services Department. These comprehensive measures ensure rapid response capability and occupant safety during fire emergencies."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific requirements apply to natural light and ventilation for different building types?",
+    "answer": "Natural light and ventilation requirements vary by building type: 1) All buildings need windows/openings of at least 1/5 of floor area with 50% openable, 2) For factories/warehouses: no part of a room can be more than 12.0m perpendicular or 5.0m parallel to openings, or more than 9.0m vertically from roof ventilation, 3) For other buildings: no part can be more than 10.0m perpendicular or 3.0m parallel to openings, 4) When openings face balconies/verandas: room depth cannot exceed 10.0m from enclosure wall, and balcony fronts must have 75% openings, 5) For deep terrace houses (>12.0m): permanent vents of at least 0.5m\u00b2 in all front, back, and cross walls. These tailored requirements recognize different functional needs."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific dimensions are required for Air Wells at different building heights?",
+    "answer": "Air Well dimensions increase with building height: 1) Buildings <7m: 2.3m minimum width, 5.0m\u00b2 minimum area, 2) 7-15m: 3.0m width, 9.0m\u00b2 area, 3) 15-30m: 4.0m width, 16.0m\u00b2 area, 4) 30-50m: 5.0m width, 25.0m\u00b2 area, 5) 50-75m: 6.0m width, 36.0m\u00b2 area, 6) >75m: 6.0m width, with area increasing by 1m\u00b2 for every additional 3m height. For utility rooms (toilets, stores, etc.), smaller dimensions apply: 1.0m minimum width and 1-2.25m\u00b2 minimum area depending on building height. These progressive requirements ensure adequate light and air as buildings grow taller."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific safety requirements apply to excavations and basement constructions?",
+    "answer": "For basements and excavations: 1) Minimum 1.0m distance must be maintained between lot boundaries and excavation lines, which may be increased based on structural/geotechnical engineer recommendations, 2) Excavations cannot extend beyond Building Lines, Street Lines, or reservations, 3) Clearances for piling works must be obtained from the National Building Research Organization, 4) Basement floors need minimum 2.4m clear height for parking/utilities, 5) Insurance coverage is mandatory for developments involving piling or ground excavation, 6) Basements must have 100% mechanical ventilation, artificial lighting, and emergency power, 7) Early piling approval may be granted before the Development Permit, but the permit must be obtained before foundation work begins."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific requirements apply to car parking area dimensions and layouts?",
+    "answer": "Car parking areas must meet specific dimensional requirements: 1) Parking stalls: 2.4m \u00d7 4.8m (angle parking) or 2.4m \u00d7 5.5m (parallel) for cars, with different dimensions for other vehicle types, 2) Aisle widths depend on parking angle: 3.6-6.0m for one-side bays and 3.6-6.0m for two-side bays, 3) Minimum turning radii: 4.2m inner/7.3m outer for cars, larger for commercial vehicles, 4) For mechanical systems: specific dimensions for car lobbies, platforms, headroom clearance, and holding bays, 5) Entrance widths: 3.0-4.5m for separate entry/exit or 6.0m for combined, 6) Ramp gradients: maximum 1:8 for ramps \u226412.0m or 1:10 for longer ramps, with flat sections of 3.0-6.0m before meeting streets."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific requirements apply to handicap accessibility in public buildings?",
+    "answer": "Public Buildings must comply with the Protection of Rights of Persons with Disabilities Act, No. 28 of 1996 and provisions of Extra Ordinary Gazette Notification No. 1467/15 dated 17.10.2006. These requirements cover: 1) Accessible entrances and pathways, 2) Accessible toilets and facilities, 3) Appropriate signage and wayfinding, 4) Lifts with appropriate dimensions and controls, 5) Parking spaces designated for persons with disabilities. All lifts installed at Public Buildings must meet these accessibility requirements regardless of building height. These provisions ensure equal access for persons with disabilities to all public facilities."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific requirements apply to buildings with complex roof structures or large spans?",
+    "answer": "Buildings with roof spans exceeding 10.0m are classified as Category B, requiring: 1) Certification by Chartered Structural or Civil Engineers, 2) Detailed structural calculations and designs, 3) Regular monitoring reports during construction, 4) Specialized inspections for wind-sensitive structures like warehouses or factories. Wind loading and structural integrity require particular attention for large-span roofs, with dynamic response factors considered in the design. These additional requirements recognize the greater engineering challenges and safety implications of long-span structures."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific requirements apply to buildings constructed on sloped terrain?",
+    "answer": "For sloped terrain: 1) For slopes >10 degrees: contours or spot levels must be shown on site plans, 2) For slopes >10 degrees or unstable soil: geotechnical investigation required even for single-story buildings, 3) For slopes 20-45 degrees: building classified as Category B requiring certification by Chartered Engineers, 4) New slopes or embankments must be shown on plans with Retaining Walls or stabilization measures, 5) NBRO clearance required for developments on slopes, 6) All formation of new slopes must be examined for stability, 7) Floor area ratio may be restricted based on slope conditions. These requirements address the higher risks of landslides, soil instability, and drainage issues in hillside construction."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What specific measures are required for solid waste management in commercial developments?",
+    "answer": "Commercial developments must: 1) Obtain clearance for collection and disposal if exceeding 300m\u00b2 floor area, 2) Submit a solid waste management proposal to the Local Authority if required, 3) Design waste storage areas with impervious floors, washing provisions, and drainage systems for polluted effluent, 4) Incorporate gullies with traps maintaining seals during disuse, 5) Secure open storage to prevent vermin access, 6) Separate recyclable materials, 7) Allocate specific spaces for different waste types, 8) Consult local authorities for guidance on high-density developments, 9) Ensure waste collection points are accessible to collection vehicles, 10) Provide dedicated parking for waste collection vehicles. These comprehensive requirements prevent waste-related public health issues."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What detailed scoring criteria are used in the Green Building Rating system?",
+    "answer": "The Green Building Rating system awards points across seven categories: 1) Energy Efficiency (27 points): for zoning lighting sources, electricity sub-metering, renewable energy (8 points), efficiency measures, etc., 2) Sustainable Site Planning (23 points): for site selection (4 points), density, environmental management, green cover, transportation, etc., 3) Materials & Resources (20 points): for material reuse, recycled content, sustainable timber, etc., 4) Building Environment Quality (13 points): for indoor air quality, thermal comfort, lighting, etc., 5) Water Efficiency (10 points): for rainwater harvesting, recycling, metering, etc., 6) Green Innovation (5 points), and 7) Socio-Cultural Compatibility (2 points). These detailed criteria provide a comprehensive assessment of environmental performance."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What specific requirements apply to rainwater harvesting storage structures?",
+    "answer": "Rainwater harvesting storage structures must: 1) Be designed by qualified persons, 2) Be constructed competently to discharge first flush rain, 3) Be sized appropriately based on rainfall band and building type (from Schedule 14), 4) Be covered and protected against accidents, 5) Be structurally sound and built under Qualified Person supervision, 6) Include methods to eliminate dust and contaminants, 7) Comply with aesthetic considerations and not conflict with other regulations, 8) Be located for maximum water use, 9) Have backflow prevention devices if common storage is used, 10) Avoid direct cross connections with public or drinking water systems, 11) Use pipes and appurtenances clearly differentiated by color and markings. These comprehensive requirements ensure safety, functionality, and water quality."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What specific wastewater treatment requirements apply to different types of developments?",
+    "answer": "Wastewater treatment requirements vary by development type: 1) All developments must discharge to public sewers if available, 2) Where sewers aren't available, appropriate treatment systems with primary, secondary, and tertiary treatment are required, 3) For housing schemes without sewers, cluster solutions for maximum 5 units are required, 4) For condominiums exceeding 15 units, an appropriately designed treatment plant is mandatory, 5) All wastewater must be pre-treated before disposal to public sewers, 6) Treatment systems must not harm human health, contaminate water sources, limit maintenance access, or lack contingency measures for power failures, 7) All designs must be by Qualified Persons and comply with National Environmental Act provisions. These graduated requirements balance development needs with environmental protection."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the detailed landscape requirements for different types of developments?",
+    "answer": "Landscape requirements include: 1) 50% of required open space must be unpaved, preferably maintained as green turf or with soft landscape materials, 2) A Landscape Plan by a Qualified Landscape Architect is required for developments exceeding 10,000m\u00b2 floor area, on land exceeding 1.0 hectare, or in zones with special landscape requirements, 3) Internal courtyards must be paved or turfed and maintained as gardens with proper drainage, 4) Reserved community spaces should preferably be located adjacent to environmental features like wetlands or waterways, 5) For public open spaces allocated for community activities, indoor facilities are limited to 25% plot coverage and 5.0m maximum height. These requirements ensure adequate green space and environmental quality."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What specific requirements apply to water supply systems in developments?",
+    "answer": "Water supply systems must provide: 1) Safe, adequate, dependable, reliable water to drinking points, washbasins, bathrooms, and food preparation areas, 2) Suitable quality water to flushing devices and non-consumption uses, 3) For alternative sources: dependable yield and quality, protection from pollution (18m from wastewater sites), appropriate treatment if needed, minimized impact during failures or power outages, 4) For domestic buildings: 36-hour storage capacity, 5) For non-domestic buildings: storage based on function plus 36-hour potable reserve, 6) Protection from cross-contamination and backflow, 7) Water-efficient fittings to prevent undue consumption, 8) In areas without pipe-borne systems: minimum 250m\u00b2 plot size. These comprehensive requirements ensure water security, quality, and conservation."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What specific drainage requirements apply to developments in areas prone to flooding?",
+    "answer": "For flood-prone areas: 1) The highest known flood level must be indicated on site plans based on records from the Irrigation Department or other institutions, 2) Rainwater must be diverted to harvesting systems, soakaways, or infiltration systems rather than sewers or trenches, 3) Discharge to adjacent properties is prohibited, 4) A drainage management plan must show existing and proposed systems with dimensions and flow directions, 5) For large subdivisions, a 10% open space reservation preferably located adjacent to waterways can serve flood management functions, 6) The floor of internal courtyards must be properly paved or turfed with drainage systems, 7) Common rainwater holding facilities between properties may be permitted with owner consent. These requirements mitigate flood risks while promoting sustainable water management."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What specific sanitary facility requirements apply to different types of public buildings?",
+    "answer": "Sanitary facility requirements vary by building type: 1) Restaurants/Hotels: 1 toilet per 100m\u00b2 (female), 1 per 200m\u00b2 (male), plus urinals and washbasins, 2) Cinemas/Theaters: 1 toilet per 40 seats (female), 1 per 120 seats (male), urinals per 40 seats, washbasins, 3) Shopping Complexes: 1 toilet per 800m\u00b2 (female), 1 per 1000m\u00b2 (male), plus fixtures, 4) Offices: 1 toilet per 100m\u00b2 (female), 1 per 200m\u00b2 (male), plus fixtures, 5) Schools: 1 toilet per 40 students or per 60m\u00b2, 6) Hospitals: 3 toilets per 50 beds for each gender, 7) Public spaces: 1 toilet per 100 persons. These tailored requirements reflect different occupancy patterns and usage intensities across building types."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What specific green space requirements apply to different types of subdivisions?",
+    "answer": "Green space requirements vary by subdivision type: 1) For subdivisions exceeding 1.0 hectare: 10% must be reserved for community/recreation/open space, gifted to the Authority, 2) For commercial/industrial subdivisions with lots \u22652,024m\u00b2 and roads \u22659.0m: no reservation required initially, but if further subdivided, either 10% must be reserved or equivalent value deposited, 3) For residential subdivisions with lots \u22651,012m\u00b2 and \u22642 units per lot: no reservation required initially, but if further subdivided, equivalent value must be deposited, 4) If a public open space \u22654,047m\u00b2 exists within 0.5km: equivalent value may be deposited instead of physical space, 5) For small reservations (<300m\u00b2): may be used as road reservations, landscaping, or walking tracks. These varied requirements balance development needs with community amenities."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What progressive penalties apply for different stages of occupying a building without a Certificate of Conformity?",
+    "answer": "Occupying without a Certificate of Conformity incurs a penalty of Rs. 100 per day, accumulating for as long as the violation continues. This progressive structure means that longer periods of illegal occupation face increasingly severe financial consequences, incentivizing prompt regularization. Additionally, Public Buildings (those providing public access or accommodating over 500 persons) face stricter enforcement due to higher safety implications, with violators committing an offense under Section 28 of the Urban Development Authority Act, potentially leading to prosecution beyond financial penalties."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What specific penalties apply for beginning construction before obtaining necessary approvals?",
+    "answer": "Starting construction without approvals incurs graduated charges: 1) For foundation works up to plinth level: Rs. 200/m\u00b2 (residential) or Rs. 500/m\u00b2 (non-residential), 2) For construction up to roof level (excluding roof): Rs. 300/m\u00b2 (residential) or Rs. 1,000/m\u00b2 (non-residential), 3) For walls with roof: Rs. 400/m\u00b2 (residential) or Rs. 1,500/m\u00b2 (non-residential), 4) For completed constructions: Rs. 500/m\u00b2 (residential) or Rs. 2,000/m\u00b2 (non-residential), 5) For parapet/retaining walls: Rs. 200/linear meter (residential) or Rs. 500/linear meter (non-residential), 6) For telecom towers: Rs. 150,000 (ground base) or Rs. 100,000 (roof top). These charges constitute service charges for covering approval, not legitimizing the violation."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What specific violations can result in rejection of Certificate of Conformity applications?",
+    "answer": "Certificate of Conformity applications may be rejected for: 1) Not fulfilling conditions specified in the Development Permit, 2) Not paying all relevant fees, 3) Missing required certificates from Qualified Persons confirming compliance, 4) Lacking structural certificates for buildings requiring them, 5) Missing certificates for mechanical/electrical/plumbing systems, 6) Lacking certificates from relevant authorities for fire services, electricity, water supply, sewage disposal, and solid waste management, 7) Non-compliance with Green Building Certification requirements, 8) Missing Post-Permit follow-up reports, 9) Substantial deviations from approved plans, 10) Unsatisfactory completion of infrastructure or open space requirements. The Authority may grant conditional CoCs for minor non-compliances."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What specific violations can occur related to qualified persons and professional supervision?",
+    "answer": "Violations related to qualified persons include: 1) Terminating a Qualified Person's services without notifying the Authority within 14 days, 2) Continuing construction without appointing a replacement Qualified Person, 3) Not submitting the required six-monthly examination reports for buildings exceeding Category C, 4) Submitting certificates with false or misleading information about construction compliance, 5) Failing to retain a copy of approved plans and permits at the construction site for inspection, 6) Not responding to Post-permit follow-up reports within 14 days, 7) Submitting designs or certifications by persons not qualified for the particular building category. These violations undermine the professional oversight system designed to ensure construction quality and safety."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What specific violations can occur during the construction of large developments?",
+    "answer": "For large developments, specific violations include: 1) Not displaying the required notice board (2.5m \u00d7 1.5m) for projects exceeding 900m\u00b2 or G+4 stories, 2) Not obtaining insurance coverage for piling or ground excavation works, 3) Not adhering to specific requirements for Traffic Impact Assessments for developments exceeding thresholds (50 residential units, 10,000m\u00b2 commercial, etc.), 4) Not implementing approved drainage management plans, 5) Failing to provide the mandated 10% open space reservation for subdivisions exceeding 1.0 hectare, 6) Not responding to the Authority's Post-permit follow-up reports within 14 days, 7) Advertising or selling subdivided land before obtaining a Certificate of Conformity. These specialized requirements reflect the greater impact of larger developments."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What specific penalties apply for not providing required parking in different local authority areas?",
+    "answer": "Parking violation penalties vary by authority type: 1) In Municipal Council areas: Rs. 500,000 per standard car space, Rs. 1,000,000 per lorry, Rs. 2,500,000 per multi-axle vehicle, 2) In Urban Council areas: Rs. 500,000 for all vehicles, 3) In Pradeshiya Sabha areas: Rs. 250,000 for all vehicles. Additionally, changing approved parking to other uses incurs Rs. 20,000 per space with 10% annual increment until converted back. For sites with limited frontage, reducing driveway width to 3.0m may be permitted if traffic holding bays are provided and parking requirements don't exceed 10 spaces. These graduated penalties reflect different urban densities and land values."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How do I calculate the Permissible Floor Area for my property that is 2,500m\u00b2 in area, has a 20m road frontage, faces a 12m wide road, and is located in a zone with factor 1.50?",
+    "answer": "To calculate your Permissible Floor Area, refer to Form A in Schedule 6. For a 2,500m\u00b2 plot with access from a 12m wide road in a zone with factor 1.50, the Permissible Floor Area Ratio is 5.5. Therefore, your Permissible Floor Area is 2,500m\u00b2 \u00d7 5.5 = 13,750m\u00b2. Note that parking facilities required by regulations, air-conditioning plants, and service machinery are excluded from this calculation."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I have a corner lot at the intersection of a 9m road and a 6m road. How should I calculate the required corner splay?",
+    "answer": "For a corner lot at the intersection of a 9m road and a 6m road, you must round off or splay the corner by maintaining half the width of each road from the corner point. This means you need a splay of 4.5m (half of 9m) along one road and 3m (half of 6m) along the other road from the corner point. This requirement ensures visibility at the intersection for traffic safety."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "My property is 400m\u00b2 with a 12m frontage on a 9m wide road, located in a Medium Density Zone. What is the maximum number of floors I can build?",
+    "answer": "For a 400m\u00b2 property with frontage on a 9m wide road in a Medium Density Zone, refer to Form C in Schedule 6. According to the table, your Permissible Floor Area Ratio is 1.6. To determine the maximum number of floors, you must consider other factors like plot coverage (typically 65% for residential zones) and setback requirements from Form E in Schedule 6. With 65% plot coverage on a 400m\u00b2 lot, your building footprint would be 260m\u00b2. With a total permissible floor area of 640m\u00b2 (400m\u00b2 \u00d7 1.6), you could potentially build approximately 2-3 floors depending on your exact layout and setbacks."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I'm planning to develop a land with irregular shape. The site has only 4m frontage on the road but widens to 15m width after 5m depth. What are the special provisions that apply?",
+    "answer": "For your irregularly shaped land with 4m frontage widening to 15m: 1) Since your frontage exceeds the minimum requirement of 3m, development is permitted, 2) You can develop the portion of land beyond the point where the width becomes 6m wide, 3) The Relevant Authority may direct alternative means of providing open space if it's impractical to provide the standard rear space, 4) You must still comply with all other regulatory requirements regarding plot coverage, height limitations, and setbacks. Be aware that buildings on sites with road frontage less than 6m cannot exceed 10m in height unless otherwise specified in a Development Plan."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "My property has frontages on three roads: 20m on a 12m-wide main road, 15m on a 6m-wide side road, and 10m on a 4.5m-wide back road. How do I calculate the road frontage for Permissible Floor Area purposes?",
+    "answer": "For a property with multiple road frontages, calculate as follows: 1) For the main road (12m wide): Use the full frontage of 20m, 2) For the side road (6m wide): Since this is 6m or more in width, calculate the proportionate frontage as 20m \u00d7 (6m \u00f7 12m) = 10m, 3) For the back road (4.5m wide): Since this is less than 6m wide, use the full width of the road itself, which is 4.5m. Your total calculated road frontage would be 20m + 10m + 4.5m = 34.5m. Use this value when determining your Permissible Floor Area from the appropriate table in Schedule 6."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I plan to build a 16m high residential building on my 800m\u00b2 plot that has a 9m wide access road. How much rear space and side spaces do I need to maintain?",
+    "answer": "For a 16m high residential building on an 800m\u00b2 plot with 9m wide access road, refer to Form E in Schedule 6. For buildings between 12.0-18.0m in height: 1) Rear space requirement is 4.0m, 2) Side space requirement is 3.0m on both sides. These open spaces must be maintained to ensure adequate light, ventilation, and safety. Additionally, 50% of these open spaces should not be covered by impermeable material but should be maintained as green turf or soft landscape."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I need to fill the Form B in Schedule 1 for a land subdivision application. What specific information and annexures must I include?",
+    "answer": "For Form B (land subdivision application), you must include: 1) Basic information about yourself (name, address, contact details) and the property (location, deed number, survey plan number), 2) Annexure I: Information about the land (extent, existing/proposed uses, zone, development plan details), 3) Annexure II: Information about existing/proposed infrastructure and services, 4) Annexure III: Declaration by the Qualified Person certifying the development complies with regulations, 5) Annexure IV: Declaration by the applicant, 6) If required, Annexure V: Indemnity for proposed development, 7) Survey plan prepared to scale 1:1000 showing proposed lots, dimensions, streets, open spaces, and proposed uses, 8) Relevant fee as specified in Schedule 2. The application should be submitted online where possible."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I'm developing a residential property with a 20m deep terrace house. What special ventilation requirements apply?",
+    "answer": "For a terrace house deeper than 12.0m, you must provide permanent means of ventilation from front to rear by suitable vents in all front, back, and cross walls at each floor. These vents must have a net opening area of not less than 0.5m\u00b2. This requirement ensures adequate cross-ventilation in deep terrace houses where interior spaces might otherwise be far from natural light and air sources. This is in addition to the standard requirement that the area of windows and openings must not be less than 1/5 of the floor area of each room."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "My property backs onto a river with a 15m reservation. Can I count this reservation toward my required rear space?",
+    "answer": "Yes, when the rear side of your plot is adjacent to a reservation of a river, canal, wetland, forest, or similar natural feature prescribed in development plans or by relevant authorities, such reservation may be considered for calculating the rear space requirement. This means you may not need to provide additional rear space within your property boundary if the river reservation already provides sufficient buffer. However, you must still comply with all other regulatory requirements regarding plot coverage, height limitations, and side setbacks."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I'm filling out Form C for a building permit application. What specific declaration must be included in Annexure III regarding structural design?",
+    "answer": "In Annexure III of Form C, you must include a declaration by the Qualified Person (Chartered Engineer) stating: \"I hereby certify that the structural design of the proposed building has been prepared by me and that I undertake to supervise the construction to ensure structural stability of the building. I further certify that the design and construction comply with all applicable regulations and standards. I am aware that I am fully responsible for the accuracy and validity of this declaration.\" This must be signed with the engineer's name, registration number, and date. Remember to also include contact information and professional qualifications."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to apply for a Preliminary Planning Clearance for a residential development of 1,200m\u00b2 floor area. What specific form should I use, what are the fees, and what details must I provide?",
+    "answer": "For your 1,200m\u00b2 residential development: 1) Use Form A in Schedule 1 with Annexures I & II, 2) Fee calculation: Since your floor area exceeds 1,000m\u00b2, the fee would be Rs. 50,000 + Rs. 500 for every additional 100m\u00b2 (so Rs. 51,000), with Rs. 5,000 advance payment, 3) Required details include: property information (deed, survey plan, extent), proposed development details (floor area, height, units), infrastructure services information, and a site plan showing access, surrounding features, and preliminary layout. Submit online with written declarations from Annexure I & II. Since your development exceeds 1,000m\u00b2 in floor area, it requires PPC per Regulation 1(3)(c)."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to obtain a Development Permit for Category B building with a basement. What specific documents and certifications must be included with Form C?",
+    "answer": "For a Category B building with basement, submit Form C with: 1) Annexures I & II with property and development details, 2) Annexure III: Declaration by Chartered Architect confirming building design compliance, 3) Annexure IV: Declaration by Chartered Structural/Civil Engineer for structural design, 4) Annexure V: Declaration for mechanical/electrical systems by Chartered Engineer, 5) Annexure VI: Applicant's declaration, 6) Annexure VII: Letter of Indemnity for any boundary construction, 7) Site plan (1:1000 scale), 8) Floor plans and sections (1:100 scale), 9) Elevations, 10) Structural Design Brief, 11) Geotechnical investigation report, 12) Building services designs if floor area exceeds 500m\u00b2, 13) Appropriate fee from Schedule 2. For the basement specifically, include plans showing the 1.0m minimum distance from boundaries to excavation lines and any required NBRO clearances."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to apply for a Certificate of Conformity for my newly constructed 4-story commercial building. What form should I use and what specific certificates must I provide?",
+    "answer": "For your 4-story commercial building's Certificate of Conformity: 1) Submit Form F in Schedule 1, 2) Pay fees per Schedule 2 based on floor area, 3) Provide certificates from: a) Chartered Architect confirming development complies with approved plans, b) Chartered Civil/Structural Engineer confirming structural compliance, c) Chartered Engineer for mechanical/electrical/plumbing systems, d) Relevant Authorities for fire services, electricity, water supply, sewage disposal, and solid waste management, e) Green Building Certification compliance (since commercial building exceeds 1,000m\u00b2), f) Final Post-Permit follow-up report, 4) Ensure all conditions in the Development Permit are fulfilled before applying. Submit these documents online where possible. After review, the Authority may inspect the building before issuing the Certificate."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to renew my Development Permit which is expiring next month. What form should I use, what documentation is required, and what are the fees?",
+    "answer": "To renew your Development Permit: 1) Submit Form D in Schedule 1, 2) Include the Post-Permit Follow-up and Observation Report obtained under Regulation 82, 3) Pay renewal fees per Schedule 2: For buildings up to 1000m\u00b2 - Rs. 5,000; For buildings over 1000m\u00b2 - Rs. 10,000, 4) Provide a brief progress report showing that development has commenced but not been completed due to unforeseeable circumstances, 5) Attach a copy of the original Development Permit and approved building plans. Note that permits can only be extended for a maximum of 2 years beyond the original 1-year validity. After a total of 3 years, you must apply for a fresh Development Permit."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I'm preparing site plans for a Development Permit application. What specific information must be shown on the site plan according to Regulation 34?",
+    "answer": "Your site plan must show: 1) Boundaries with dimensions and distances between proposed/existing buildings and boundaries, 2) Scale, north-line, and assessment numbers of adjoining properties, 3) Access means to the site, 4) All Street Lines, Building Lines, road widening lines, service roads, drainage reservations as per Development Plan or authorities, 5) Distances from proposed building to existing drains, watercourses, sewers, manholes, fences, retaining walls, and slopes, 6) Highest known flood level if applicable, 7) Contours/spot levels if slope exceeds 10 degrees, 8) Any new slopes/embankments with retaining walls, 9) Proposed surface drains with discharge points, 10) Proposed sewer lines and manholes with connection points, 11) Proposed landscaping, 12) All parking arrangements. The plan should be drawn to scale 1:1000 or suitable scale depending on land extent."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to transfer my Development Permit to another party who is buying my property. What is the specific process and documentation required?",
+    "answer": "To transfer your Development Permit to another party: 1) Submit a written request to the Relevant Authority stating your intention to transfer the permit and identifying the new owner, 2) Provide an affidavit confirming the transfer arrangement, 3) Submit relevant documents including the sale agreement or deed transfer documents, 4) Pay the transfer fee of Rs. 25,000 as specified in Schedule 2, 5) Include copies of the original Development Permit and approved plans, 6) Provide contact information for both yourself and the new owner. The request must be submitted by you (the original permit holder) and not by the new owner. The transfer preserves all privileges and conditions of the original permit for the remaining validity period."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I'm applying for approval of a condominium development to be built in phases. What specific requirements apply to this type of application?",
+    "answer": "For a phased condominium development: 1) Submit Form C with all annexures for the entire development at the first stage, 2) Provide a master plan showing all phases and their timelines, 3) Ensure the plan complies with requirements of the Apartment Ownership Law No. 11 of 1973, 4) All regulatory requirements will be assessed for the total development, not just the initial phase, 5) If any changes are made to the Approved Plan, the entire plan with amendments must be resubmitted, 6) For condominiums exceeding 15 units, include designs for an appropriately designed wastewater treatment plant, 7) No further subdivision of condominium units will be permitted unless meeting regulations, 8) Include Common Area Management Plans as required by the Apartment Ownership Law. This approach ensures comprehensive planning while allowing staged construction."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to submit a Post-permit follow-up request for my 1200m\u00b2 office building currently under construction. What form should I use and what are the fees?",
+    "answer": "For a Post-permit follow-up report for your 1200m\u00b2 office building: 1) Submit a written request to the Authority requesting the report, 2) Pay the fee of Rs. 3,000 as specified in Schedule 2 for buildings between 900m\u00b2-2000m\u00b2, 3) Provide the Development Permit number and approval date, 4) Include current construction status information, 5) Supply contact details for site access, 6) Attach any previous interim follow-up reports if applicable. The Authority will then conduct an inspection to verify that construction is proceeding according to the approved plans. Remember that for buildings exceeding 900m\u00b2 or G+4 stories, the Authority conducts these inspections every six months, and you should respond to any issues raised within 14 days."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing a staircase for a Public Building. What are the exact minimum dimensions required for width, height clearance, riser, and tread?",
+    "answer": "For a Public Building staircase, you must comply with the following minimum dimensions as specified in Schedule 8: 1) Minimum width: 1050mm, 2) Minimum height clearance: 2.1 meters, 3) Maximum riser height: 150mm, 4) Minimum tread depth: 300mm. These requirements ensure safe egress during emergencies and appropriate accessibility for public use. Additionally, you must comply with requirements of the Protection of Rights of Persons with Disabilities Act, including appropriate handrails at a minimum height of 1.1m and proper tactile warnings at landings."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing an Air Well for natural ventilation in a 40m tall building. What minimum dimensions are required?",
+    "answer": "For a 40m tall building, your Air Well dimensions must comply with Schedule 9 requirements for buildings between 30-50m in height: 1) For rooms requiring natural light and ventilation (living spaces, bedrooms, etc.): Minimum clear width of 5.0m and minimum area of 25.0m\u00b2, 2) For utility rooms (toilets, store rooms, etc.): Minimum clear width of 1.0m and minimum area of 2.0m\u00b2. Additionally, remember that internal Air Wells must not be obstructed, any overhangs into the Air Well must not exceed 0.5m if the shortest side is less than 5.0m, and the floor must be either paved or turfed with proper drainage."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I need to calculate parking requirements for my mixed-use development with 20 residential units (150m\u00b2 each) and 1000m\u00b2 of office space. How many parking spaces are required?",
+    "answer": "For your mixed-use development, calculate parking requirements per Schedule 10: 1) For 20 residential units at 150m\u00b2 each: 2 spaces per unit = 40 spaces, 2) For 1000m\u00b2 office space: 1 space per 100m\u00b2 = 10 spaces. Total required: 50 parking spaces. Each standard car parking space must be 2.4m \u00d7 4.8m (angle parking) or 2.4m \u00d7 5.5m (parallel parking) per Schedule 11. Aisle widths depend on parking arrangement, with 6.0m for perpendicular parking. Since your development exceeds 25 parking stalls, you may need a Traffic Impact Assessment if it meets other criteria in Regulation 73(16)."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "My building is 18m tall with 6 floors. What specific fire safety requirements must I include in my design?",
+    "answer": "For your 18m, 6-floor building, you must include: 1) Fireman's lifts and Firefighting lifts for emergency evacuation and firefighter access, installed in 2-hour rated fire lobbies, 2) Lift materials must be fire-retarded with 1-hour fire-rated landing doors, 3) At least one Fireman's lift per 900m\u00b2 floor area, 4) Fire certificates with evacuation route plans displayed on each floor, 5) Emergency exit signs and evacuation routes clearly marked, 6) Fire engine access and hard standing locations, 7) External pillar hydrants, breeching inlets, and extinguishing equipment, 8) Designated water storage for firefighting, 9) Emergency generator backup, 10) Compliance with specific requirements from the Fire Services Department. Additionally, the building must have a designated Safety Officer if it's a Public Building or has an occupancy load exceeding 500 persons."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing a basement car park. What specific clearances and ventilation requirements apply?",
+    "answer": "For your basement car park: 1) Maintain minimum 1.0m distance from lot boundaries to excavation lines (may be increased based on geotechnical recommendations), 2) Ensure minimum 2.4m clear height from floor to underside of beams/services, 3) Provide 100% mechanical ventilation with minimum three air changes per hour, 4) Install emergency power generator backup, 5) For access ramps: maximum gradient 1:8 for ramps \u226412m and 1:10 for longer ramps, 6) Provide 6.0m flat section before ramp meets street for upward ramps or 3.0m for downward ramps, 7) Ensure 3.5m minimum width for one-way ramps or 6.0m for two-way, 8) Security barriers must be at least 6.0m from street edge, 9) Comply with parking stall dimensions (2.4m \u00d7 4.8m) and aisle widths (6.0m for perpendicular parking) per Schedule 11."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I need to complete a Traffic Impact Assessment for my commercial development. What specific information must be included according to Schedule 12?",
+    "answer": "Your Traffic Impact Assessment per Schedule 12 must include: Part A (General Information): 1) Project name, developer details, nature, location, extent, timeline; Part B (Project Details): 1) Description of project components, 2) Layout plan showing vehicle circulation, entrances/exits, aisle widths, turning radii, ramp details, parking dimensions, drop-off areas, security checkpoints; Part C (Traffic Impact Analysis): 1) Study of 1km radius area, 2) Traffic flow data (collected within past 6 months), 3) Vehicle distributions, 4) Drawings showing road details, building lines, lane configurations, bus stops, median openings, junctions, 5) Analysis of entry/exit movement conflicts, 6) Parking arrangements, 7) Off-site vehicle movement; Part D (Land Transferring requirements if applicable); Part E (Conclusions and recommendations). The study must be prepared by a Chartered Civil Engineer specializing in Traffic, Highway, or Transportation."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing natural ventilation for a deep office building. What are the maximum distances from windows that any part of a room can be located?",
+    "answer": "For your office building: 1) No part of any room should be more than 10.0m away from a window/opening in a direction perpendicular to the plane of the opening, 2) No part should be more than 3.0m away from the edge of the opening in a direction parallel to the plane of the opening, 3) The total area of windows/openings must be at least 1/5 of the floor area of the room, 4) At least 50% of these openings must be able to be opened, 5) If the room extends beyond these distances, mechanical ventilation providing at least three air changes per hour is required, 6) If windows open onto a balcony/veranda, the depth from the outer face of the balcony enclosure wall cannot exceed 10.0m, and the balcony front must have openings for at least 75% of its height."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific electrical safety clearances must I maintain between my building and the 33,000-volt power line that runs near the property?",
+    "answer": "For a 33,000-volt power line (falling in the 11,000-33,000 Volts category per Schedule 16), you must maintain: 1) Vertical clearance: minimum 3.00 meters from any position to which a conductor may swing under wind influence, 2) Horizontal clearance: minimum 2.00 meters from any position to which a conductor may swing. These clearances represent minimum safe distances to prevent electrical arcing or accidental contact. You should also obtain clearances from the relevant electricity authority before commencing construction, as they may have additional requirements based on specific conditions. Remember that these are minimum requirements, and greater clearances are recommended where feasible for additional safety."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific safety requirements must be included for a lift in a 6-story hospital building?",
+    "answer": "For lifts in a 6-story hospital: 1) Provide at least one bed lift regardless of building height, 2) For normal passenger lifts: comply with relevant national/international safety standards, design based on acceptable traffic analysis, 3) Since the building exceeds 4 floors, include fire emergency return operation, 4) Since the building likely serves disabled/elderly people, at least one lift must be a Fireman's lift per 900m\u00b2 floor area, 5) Install lifts in fire lobbies rated for 2 hours, accessible to firemen, 6) Use fire-retarded materials for lift construction with 1-hour fire-rated landing doors, 7) Ensure accessibility compliance with Protection of Rights of Persons with Disabilities Act requirements, 8) Test all lifts according to safety regulations and manufacturer's instructions, 9) Include emergency power backup, 10) Provide certification from a Qualified Person when applying for the Certificate of Conformity."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to calculate the minimum rainwater harvesting capacity for my 500m\u00b2 commercial building with 300m\u00b2 of roof area and 150m\u00b2 of paved area in a region with 2200mm annual rainfall. What capacity is required?",
+    "answer": "To calculate your rainwater harvesting capacity: 1) Identify your annual rainfall band from Schedule 14: 2000-2500mm, 2) For commercial buildings in this rainfall band, the minimum volume required is 3m\u00b3 per 100m\u00b2 of roof and paved area, 3) Calculate total roof and paved area: 300m\u00b2 + 150m\u00b2 = 450m\u00b2, 4) Calculate required capacity: (450m\u00b2 \u00f7 100m\u00b2) \u00d7 3m\u00b3 = 13.5m\u00b3. You must provide at least 13.5m\u00b3 of rainwater holding capacity, which can be distributed between storage (above ground, on ground, below ground) and ground infiltration (wastewater pit, unpaved ground, unlined pond, dug well, borehole) as appropriate for your site conditions and as approved by the local authority."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I'm applying for Green Building Certification for my 1500m\u00b2 office building. What specific criteria must I meet to achieve at least the minimum 'Green Certificate Level'?",
+    "answer": "To achieve minimum 'Green Certificate Level' (40-49 points) per Schedule 5, focus on these key areas: 1) Energy Efficiency (27 available points): Implement zoning of lighting (2pts), electricity sub-metering (2pts), renewable energy (2-8pts), high-performance energy efficiency (2-5pts), efficient illumination (2pts), 2) Sustainable Site Planning (23 available points): Proper site selection (4pts), environmental management plan (1pt), green ground cover (2pts), 3) Materials & Resources (20 available points): Use recycled materials (2pts), local materials (3pts), 4) Building Environment Quality (13 available points): Ensure CO\u2082 monitoring (2pts), daylight optimization (2pts), 5) Water Efficiency (10 available points): Implement rainwater harvesting (2pts), water metering (2pts), 6) Basic Innovation (1-2pts) and Socio-Cultural compatibility (1-2pts). Submit Form E with Form C, detailing how your design meets these criteria, with appropriate fee per Schedule 2."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "How do I calculate the exact minimum number of waste bins required for my 30-unit apartment building, and what specific design requirements apply to the waste storage area?",
+    "answer": "For your 30-unit apartment building: 1) Calculate minimum storage capacity: 0.25m\u00b3 per dwelling for weekly collection = 30 \u00d7 0.25m\u00b3 = 7.5m\u00b3 total capacity, 2) Provide separated containers for: perishable food waste, recyclable waste, and non-recyclable waste, 3) Design storage area requirements: a) Impervious floor with washing and drainage provisions connected to suitable polluted effluent system, b) Gullies with traps that maintain seals during disuse, c) Located away from windows/ventilators, preferably shaded, d) Not interfering with pedestrian/vehicle access, e) Maximum carrying distance for residents: 100m, f) Maximum 3 steps between storage and collection point (slopes not exceeding 1:12), g) For communal areas: minimum 2m height with sufficient ventilation, h) Dedicated parking space for waste collection vehicle. Consult with local authority for specific bin types and sizes required in your area."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to create a drainage management plan for my 2000m\u00b2 commercial development. What specific components must be included according to Regulation 76?",
+    "answer": "Your drainage management plan per Regulation 76 must include: 1) A sketch of the surrounding area showing existing drains and water courses, 2) Roof plan and floor plan showing: a) Areas with flat roofs, balconies, open areas, b) Sizes of all rainwater drainage pipes, c) Sizes and locations of rainwater storage, d) Infiltration areas, e) Outlet drains with flow direction arrows, 3) Cross and longitudinal sections of the building showing storage tanks, downpipes and related appurtenances, 4) Calculations for minimum Equivalent Rainwater Holding Provision based on Schedule 14 rainfall bands, 5) Demonstration that rainwater is diverted to harvesting system, soakaway, or infiltration system (not to sewers or adjacent properties), 6) Details of any common facilities with adjacent properties (if applicable, with owner consent). Remember that 50% of open space must remain unpaved, and design must be by qualified persons with structures covered, protected, and built in a structurally sound manner."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to calculate the exact number of sanitary facilities required for my 200-seat theater. How many toilets, urinals, and washbasins are needed for each gender?",
+    "answer": "For your 200-seat theater, calculate sanitary facilities per Schedule 13: For females: 1) Toilets: 1 per 40 seats = 200 \u00f7 40 = 5 toilets, 2) Washbasins: 1 per 50 seats = 200 \u00f7 50 = 4 washbasins. For males: 1) Toilets: 1 per 120 seats = 200 \u00f7 120 = 1.67 rounded to 2 toilets, 2) Urinals: 1 per 40 seats = 200 \u00f7 40 = 5 urinals, 3) Washbasins: 1 per 120 seats = 200 \u00f7 120 = 1.67 rounded to 2 washbasins. Total required: 7 toilets, 5 urinals, and 6 washbasins. Additionally, you must provide accessible facilities complying with the Protection of Rights of Persons with Disabilities Act, properly ventilated toilet areas, and all fixtures connected to appropriate drainage systems."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I'm subdividing a 12,000m\u00b2 (3-acre) land for a residential development. What are the exact requirements for community, recreation, and open space provision?",
+    "answer": "For your 12,000m\u00b2 (>1.0 hectare) subdivision: 1) Reserve at least 10% (1,200m\u00b2) excluding roads and drains for community, recreation, and open space, 2) This space must be gifted free of charge to the Relevant Authority via deed of gift (Annexure VI of Form B), 3) The space must be: a) Located appropriately with easy access from every lot, b) Not comprised of unusable lots, c) Preferably adjacent to environmental features if applicable, 4) If used for community activities, any buildings (pavilions, pools, halls) must have maximum 25% plot coverage and 5.0m maximum height, 5) If there's a public open space exceeding 4,047m\u00b2 within 0.5km, you may deposit the equivalent land value instead, if the Authority demands it. Alternatively, if the subdivision has lots \u22651,012m\u00b2 with \u22642 housing units per lot, you may be exempted from this requirement, subject to Authority approval."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I own a 1200m\u00b2 property at the intersection of three roads: a 15m-wide main road (20m frontage), a 9m-wide side road (15m frontage), and a 4m-wide back lane (12m frontage). My property is in a zone with factor 2.0. How do I accurately calculate my maximum permissible floor area?",
+    "answer": "To calculate your permissible floor area: 1) Identify your land extent (1200m\u00b2), 2) For road frontage calculation with multiple roads: a) Main road (15m wide): Use full frontage of 20m, b) Side road (9m wide): Since this is \u22656m, calculate proportionate frontage as 20m \u00d7 (9m \u00f7 15m) = 12m, c) Back lane (4m wide): Since this is <6m, use the full width of the road itself (4m), d) Total calculated frontage: 20m + 12m + 4m = 36m, 3) Look up Form A in Schedule 6 for zone factor 2.0, land extent 1000-1500m\u00b2, and access from 15m or wider road: Permissible Floor Area Ratio is 8.0, 4) Calculate: 1200m\u00b2 \u00d7 8.0 = 9,600m\u00b2 maximum permissible floor area, excluding parking facilities, air-conditioning plants, and other service machinery. Your building design must still comply with plot coverage limits and setback requirements."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "My narrow rectangular lot is 6m wide by 50m deep. The front faces a 9m-wide road, and the rear borders a public park with a 15m reservation. How should I calculate my required rear setback, and can I use the park reservation in this calculation?",
+    "answer": "Yes, you can use the park reservation in your rear setback calculation. According to Regulation 56(3), when the rear side of a plot is adjacent to a reservation of a park, river, canal, wetland, forest, or similar natural feature prescribed in development plans or by relevant authorities, such reservation may be considered for calculating the rear space requirement. This means you effectively have a substantial rear buffer due to the 15m park reservation. However, you must still comply with all other regulatory requirements regarding plot coverage, side setbacks (which are determined by your building height according to Form E in Schedule 6), and other applicable provisions. Since your lot has a limited 6m width, ensure that side setbacks don't excessively constrain your buildable area, as the side setback requirements increase with building height."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I'm developing a property on a hillside with a 15-degree slope. What specific regulations apply to my site regarding plot coverage, excavation, and retaining walls?",
+    "answer": "For your hillside property with 15-degree slope: 1) Show existing contours or spot levels on your site plan (required for slopes >10 degrees), 2) Submit a geotechnical investigation report (required for slopes >10 degrees), 3) Indicate any new slopes or embankments with retaining walls on your plans, 4) Since your slope is between 10-20 degrees, your building doesn't automatically fall into Category B, but the Authority may require additional safety measures, 5) For plot coverage: the standard requirements apply, but the Authority may restrict the Permissible Floor Area Ratio based on slope conditions, 6) For excavations: maintain minimum 1.0m from boundaries (may be increased based on geotechnical recommendations), 7) For retaining walls: include detailed structural designs certified by a qualified engineer, 8) The distance between any existing/required retaining wall exceeding 1.5m in height to the proposed building, lot boundaries, and any existing building within 10.0m must be shown on section drawings. Obtain NBRO clearance before commencing construction."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I have a property in a zone with factor 3.5. It's 2000m\u00b2 with a 12m-wide access road and 25m frontage. How many floors can I build if I want to maintain 60% plot coverage?",
+    "answer": "For your property: 1) Zone factor 3.5, land extent 2000m\u00b2, 12m-wide access road: According to Form A in Schedule 6, your Permissible Floor Area Ratio is 8.0, 2) Calculate total permissible floor area: 2000m\u00b2 \u00d7 8.0 = 16,000m\u00b2, 3) With 60% plot coverage, your building footprint is: 2000m\u00b2 \u00d7 0.6 = 1,200m\u00b2 per floor, 4) Calculate maximum number of floors: 16,000m\u00b2 \u00f7 1,200m\u00b2 = 13.33 floors, 5) Therefore, you can build up to 13 full floors. However, you must also comply with: a) Setback requirements which increase with building height per Form E in Schedule 6, b) Minimum parking requirements based on building use, c) Other requirements for buildings exceeding 15m in height (fire safety, lifts, etc.), d) Any height restrictions in the specific Development Plan for your area. Note that as your building gets taller, upper floors may need to be smaller to accommodate increased setback requirements, potentially allowing more than 13 floors with progressive setbacks."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I'm planning to build a 6-floor mixed-use building (commercial ground floor, residential upper floors) on my 800m\u00b2 lot with 15m frontage on a 12m-wide road in a zone with factor 1.75. What is the maximum floor area I can build, and how should I calculate open spaces?",
+    "answer": "For your mixed-use building: 1) Calculate Permissible Floor Area: a) Zone factor 1.75, land extent 750-1000m\u00b2, 12m-wide access road: Form A in Schedule 6 gives a Floor Area Ratio of 5.1, b) Maximum floor area: 800m\u00b2 \u00d7 5.1 = 4,080m\u00b2, 2) For open spaces, according to Form E in Schedule 6 for a building with 6 floors (approximately 18-24m height): a) Rear space: minimum 4.0m, b) Side spaces: minimum 3.0m on both sides, 3) Your building must comply with both residential and commercial requirements: a) Commercial ground floor: follows non-residential requirements for parking (1 space per 100m\u00b2), sanitation facilities, and floor heights (minimum 3.0m), b) Residential upper floors: follows residential requirements for unit sizes, light and ventilation, and parking (2 spaces per unit >150m\u00b2). Remember that 50% of open space must be unpaved/green area, and you need to show all parking arrangements on your site plan. With your 15m frontage, adequate space should be available for entrances to both commercial and residential portions."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I own a 400m\u00b2 corner lot at the intersection of a 9m road and a 6m road in a Medium Density Zone. How should I calculate both the corner splay and the permissible floor area?",
+    "answer": "For your corner lot: 1) Corner splay calculation: You must round or splay the corner by maintaining half the width of each road, which means: a) 4.5m (half of 9m) along the first road, and b) 3m (half of 6m) along the second road, from the corner point, 2) Permissible Floor Area calculation: a) Land extent: 400m\u00b2, b) Medium Density Zone with 400m\u00b2 plot in the 375-500m\u00b2 category, c) For 9m road access: Using Form C in Schedule 6, your Floor Area Ratio is 1.6, d) Maximum floor area: 400m\u00b2 \u00d7 1.6 = 640m\u00b2. 3) Note that the area lost to the corner splay is still counted in your total land area for floor area calculations, but reduces your actual buildable area. You must still comply with setback requirements based on building height (Form E in Schedule 6) and ensure that the corner remains splayed or rounded to a height of at least 6.0m above street level to maintain traffic visibility."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I'm planning a renovation that includes a 2.5m cantilevered balcony on the second floor of my building, which is 2.0m from the side boundary. Is this permitted under the regulations, and what specific conditions apply?",
+    "answer": "Your proposed 2.5m cantilevered balcony would not be permitted as designed because: 1) According to Regulation 60(1), overhangs, canopies, wings or sun-shading devices may only extend to a maximum of 1.2m beyond the Building Line or toward the rear space, 2) Since your balcony exceeds 1.2m (at 2.5m), the excess portion (1.3m) would be included in your Permissible Floor Area calculation per Regulation 46(5), 3) According to Regulation 60(2), when a balcony faces an adjacent property, a minimum of 1.0m distance must be maintained from the outer edge of the balcony to the relevant boundary, 4) Since your building is 2.0m from the boundary, a balcony extending 2.5m would only leave -0.5m to the boundary, violating the 1.0m minimum requirement. You would need to redesign the balcony to extend no more than 1.0m from the building face to maintain the required 1.0m from the boundary, or alternatively, construct a 2m high Guard Wall at the boundary if building the balcony up to the boundary."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I have a 1500m\u00b2 property with a 15m-wide access road. I want to build the maximum possible floor area with a stepped design (smaller upper floors). How should I calculate setbacks at different heights to maximize my buildable area?",
+    "answer": "To maximize buildable area with a stepped design: 1) Determine your Permissible Floor Area Ratio from Schedule 6 based on your zone factor, 2) For setbacks, use Form E in Schedule 6, which provides a sliding scale: a) For height 0-7.5m (approx. 1-2 floors): Rear space 2.3m, Side spaces 1.0m, b) For height 7.5-12.0m (approx. 3-4 floors): Rear space 3.0m, Side spaces 2.0m, c) For height 12.0-18.0m (approx. 4-6 floors): Rear space 4.0m, Side spaces 3.0m, d) For height 18.0-24.0m (approx. 6-8 floors): Rear space 5.0m, Side spaces 4.0m, e) For height 24.0-30.0m (approx. 8-10 floors): Rear space 6.0m, Side spaces 5.0m, f) For heights above 30.0m: Rear space 7.0m, Side spaces 6.0m. 3) Design your building with a base that uses the minimum setbacks, then step back upper floors to accommodate increased setback requirements. This creates a terraced effect where each height threshold requires more setback. Calculate the maximum buildable area at each level and ensure the total doesn't exceed your permissible floor area."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to complete a subdivision application for a 2.5-hectare parcel where I plan to create 25 residential lots. What specific documentation is required, and how much open space must I reserve?",
+    "answer": "For your 2.5-hectare (25,000m\u00b2) subdivision with 25 lots: 1) Submit Form B with Annexures I-IV from Schedule 1, 2) Since the land exceeds 0.5 hectare and has more than 8 lots, include a report from a Qualified Person certifying compliance with regulations and development plans (Regulation 7), 3) Provide a detailed survey plan (1:1000 scale) showing proposed lots, dimensions, streets, open spaces, and uses, 4) Since the land exceeds 1.0 hectare, reserve at least 10% (2,500m\u00b2) excluding roads and drains for community, recreation, and open space use in an appropriate location with easy access, 5) This space must be gifted to the Relevant Authority free of charge via deed of gift (Annexure VI of Form B), 6) Include a waste management space of at least 20m\u00b2 (since there are more than 10 lots with less than 250m\u00b2), 7) Pay the processing fee per Schedule 2 (based on the number and size of lots). The access roads must comply with Form B in Schedule 4, with appropriate widths based on the number of lots served."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I'm planning to convert an existing warehouse (950m\u00b2 floor area) into a mixed retail and office complex. What specific permits do I need, and what documentation must be provided regarding the structural capacity of the existing building?",
+    "answer": "For converting your warehouse to retail/office use: 1) Apply for Change of Use permit using Form G in Schedule 1 with copies of approved Survey Plan, Building Plan, existing CoC, and assessment receipt, 2) Pay the processing fee (for 950m\u00b2, approximately Rs. 3,000) plus permit fee of Rs. 500/m\u00b2 for non-residential to non-residential change (950m\u00b2 \u00d7 Rs. 500 = Rs. 475,000), 3) Provide a structural capacity certificate from a Chartered Civil/Structural Engineer confirming they've examined the building and it can bear any increased loads from the new use, 4) Submit plans showing all modifications marked in red and removed elements in black dotted lines, 5) Show compliance with new parking requirements (for retail/office: approximately 10 spaces for 950m\u00b2), 6) Provide updated sanitary facilities per Schedule 13 requirements for commercial use, 7) If the building exceeds 400m\u00b2, include clearance for solid waste collection and disposal, 8) Since this is a significant change, a new CoC will be required after completion. The Change of Use permit is valid for one year and may be renewed for one additional year if needed."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to apply for early piling approval before obtaining my full Development Permit for a 12-story residential building. What specific documentation must I provide, and what are the limitations on this early approval?",
+    "answer": "For early piling approval: 1) Submit a written request to the Relevant Authority stating your intention to commence piling before full permit issuance, 2) Provide site plan showing building location, piling positions, and distances to boundaries, 3) Submit geotechnical investigation report with soil bearing capacity and boring details, 4) Include structural calculations for pile design certified by a Chartered Structural/Civil Engineer, 5) Specify pile type, method of drilling, and machinery to be used, 6) Provide insurance coverage for works involving piling and ground excavation (mandatory per Regulation 81(5)), 7) Include indemnity letter accepting responsibility for any damages to adjacent properties, 8) Pay appropriate portion of permit fee. Limitations: 1) Only piling works can commence; no foundation work is permitted, 2) Full Development Permit must be obtained before proceeding with foundation work, 3) Any changes required by the full permit process may necessitate modifications to piling work already done, at your cost, 4) Insurance must remain valid throughout the piling process, 5) The Authority accepts no responsibility if the full Development Permit is not subsequently approved."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I'm preparing detailed floor plans for a G+3 commercial building with mixed retail and office uses. What specific information must be shown on these plans according to Regulation 35, and at what scale must they be drawn?",
+    "answer": "Your floor plans must be drawn at 1:100 scale (or 1:200 if the floor is too large for standard paper) and include: 1) Labels specifying the purpose of every part of each floor (retail areas, offices, storage, etc.), 2) Materials used for walls, superstructure, and floor slabs, including maximum permissible live loads, 3) All rooms, compartments, corridors, staircases, fire compartments, lift cores, verandas, etc. with wall thickness shown, 4) Different usage units clearly marked in different colors, 5) Dimensions of air wells, courtyards, open spaces, and distances from external walls to road center lines, reservations, and drainage, 6) Dimensions between all walls, columns, and piers, 7) Positions of all sanitary appliances, vent pipes, floor traps, and drain connections, 8) Surface drainage with flow directions and outlet drain sizes, 9) Fire escape routes, assembly areas, fire lobbies, EXIT signs, fire engine access, 10) Fire protection equipment including hydrants and extinguishers, 11) Air-conditioned areas and equipment locations, 12) Allocated spaces for parking, ramps, service rooms, water storage, etc., 13) Rainwater harvesting systems, 14) Garbage disposal points. For a mixed-use building, clearly differentiate between retail and office portions with distinct color coding."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to submit elevation drawings for my 5-story mixed-use building on a sloping site. What specific details must be included in these elevations according to Regulation 37?",
+    "answer": "Your elevation drawings must include: 1) All external walls, columns, parapet walls, doors, windows, ventilation openings, canopies, balconies, and roofs with dimensions in figures, 2) Materials used for all external elements clearly indicated, 3) Since your site is sloping, show the existing ground levels along each elevation and any proposed changes to these levels, 4) Include part elevations of any existing buildings within your premises or on adjoining premises, showing their heights, floor levels, external features, and materials (if required by the Authority), 5) Show levels of all adjoining footways, veranda ways, streets, and ground levels, 6) Include levels of all proposed counterfort walls of footways, veranda ways, streets, and ground, 7) Clearly indicate the relationship between the building and the sloping site, showing any retaining walls, cut-and-fill areas, or terracing, 8) For a mixed-use building, clearly differentiate between different functional areas. Draw front, rear, and side elevations to show all faces of the building, and ensure consistency with your floor plans and section drawings."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to submit a structural design brief for a Category A building (G+7 residential tower). What specific information must be included in this brief, and who is qualified to certify it?",
+    "answer": "Your structural design brief must include: 1) Superimposed loads for each floor system (dead loads, live loads per floor usage), 2) Results of soil tests and calculations for soil bearing capacity, 3) Complete boring investigation and soil details, 4) Foundation type with detailed specifications, 5) If using piles: type, method of drilling, and machinery to be used, 6) Structural system description (frame, shear wall, etc.), 7) Material specifications (concrete grades, steel types), 8) Design standards and codes followed, 9) Loading considerations (wind, seismic if applicable), 10) Special considerations for a tall building (dynamic response factors), 11) Connection details between structural elements, 12) Quality assurance measures during construction. This brief must be certified by a Chartered Structural Engineer or Chartered Civil Engineer registered with the Engineering Council Sri Lanka. For a Category A building (G+7 residential tower), you must also submit detailed structural drawings and calculations, with both physical and electronic copies, if requested by the Relevant Authority."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to apply for a Certificate of Conformity for my completed 3-story office building, but I've made some minor deviations from the approved plan. What specific process should I follow to address these deviations?",
+    "answer": "To address minor deviations when applying for CoC: 1) Submit Form F in Schedule 1 with a cover letter explaining the nature of deviations, 2) Provide as-built drawings clearly showing all deviations from approved plans (mark changes in red), 3) Include certificates from Qualified Persons acknowledging and approving the deviations, confirming they don't affect structural integrity, safety, or compliance with regulations, 4) Pay the applicable fees per Schedule 2, 5) If deviations increased floor area, pay additional fees for the extra area, 6) For minor non-compliance that isn't detrimental to safety or well-being, the Relevant Authority may still grant the CoC per Regulation 87(1). However, significant deviations may require: 1) Submission of an amended building application, 2) Payment of covering approval service charges (Rs. 200-500/m\u00b2 for residential or Rs. 500-2,000/m\u00b2 for non-residential depending on construction stage), 3) Possible structural modifications if deviations violate critical requirements. It's important to address deviations proactively rather than concealing them, as the Authority may conduct inspections before issuing the CoC."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I'm preparing a complete application for Development Permit for a Category B building with a basement on a sloped site (12-degree incline). What is the full list of documents I must submit, and who must certify each document?",
+    "answer": "For your Category B building with basement on a sloped site, submit: 1) Form C from Schedule 1 with: a) Annexure I & II: Property and development details, b) Annexure III: Declaration by Chartered Architect certifying building design compliance, c) Annexure IV: Declaration by Chartered Structural/Civil Engineer for structural design, d) Annexure V: Declaration by Chartered Engineer for mechanical/electrical systems, e) Annexure VI: Applicant's declaration, f) Annexure VII: Indemnity letter for any boundary construction, 2) Site plan (1:1000 scale) showing contours/spot levels (mandatory for slopes >10\u00b0), 3) Floor plans and sections (1:100 scale), 4) Elevations showing relationship to slope, 5) Structural Design Brief certified by Chartered Structural/Civil Engineer, 6) Geotechnical investigation report (mandatory for slopes >10\u00b0), 7) Basement excavation plans showing 1.0m minimum from boundaries, 8) Retaining wall designs certified by Structural Engineer, 9) Building services designs if floor area exceeds 500m\u00b2, 10) NBRO clearance for development on slope, 11) Drainage management plan showing slope water management, 12) Insurance coverage documentation for piling/excavation, 13) Appropriate fee from Schedule 2. Submit these online where possible, with 4 original copies of plans."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing a mixed-use building with underground parking. What specific fire safety and ventilation requirements apply to the basement levels, and how should emergency exits be designed?",
+    "answer": "For basement parking in a mixed-use building: 1) Fire safety requirements: a) Separate the basement from upper floors with 2-hour fire-rated construction, b) Provide at least two means of escape, with maximum travel distance of 30m to exits, c) Include fire detection and alarm systems, d) Install sprinkler systems throughout, e) Provide fire extinguishers at 30m intervals, f) Install emergency lighting and signage, g) Ensure Fireman's access with dedicated fire lifts if building exceeds 15m height, 2) Ventilation requirements: a) Provide 100% mechanical ventilation with minimum three air changes per hour, b) Install carbon monoxide monitoring systems, c) Use separate air handling systems from upper floors, d) Ensure emergency power backup for ventilation, 3) Emergency exit design: a) Stairways must be protected with 2-hour fire-resistant enclosures, b) Minimum stair width of 1050mm, c) Maximum riser height of 150mm and minimum tread of 300mm, d) Direct discharge to exterior at ground level, not through the building, e) Pressurized stairwells to prevent smoke infiltration, f) Clear directional signage visible in smoke conditions. Additionally, maintain minimum 2.4m clear height throughout, including under beams/services."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I need to design an Air Well for a 55m tall residential building. What are the exact minimum dimensions required, and what restrictions apply to projections into the Air Well?",
+    "answer": "For your 55m tall residential building (between 50-75m height category per Schedule 9): 1) For all habitable rooms (bedrooms, living rooms, etc.): a) Minimum clear width: 6.0m, b) Minimum area: 36.0m\u00b2, 2) For utility rooms (toilets, stores, etc.): a) Minimum clear width: 1.5m, b) Minimum area: 2.25m\u00b2, 3) Restrictions on projections: a) If the shortest side of the Air Well is less than 5.0m, overhangs, canopies, sun-shading devices, eaves, or balconies projected over such short side shall not exceed 0.5m, b) Since your minimum width must be 6.0m, you could have projections up to 0.5m if any dimension is less than 5.0m, or potentially larger projections if all sides exceed 5.0m, 4) The floor of the Air Well must be either paved or turfed and maintained as an internal garden with proper drainage, 5) The Air Well must not be obstructed at any level to ensure proper light and ventilation. The Air Well dimensions are essential for ensuring adequate natural light and ventilation reach interior spaces as the building height increases."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I need to design compliant stairs for a Public Building that will have high occupancy. What are the exact dimensional requirements, and what additional safety features must be incorporated?",
+    "answer": "For stairs in a high-occupancy Public Building: 1) Dimensional requirements per Schedule 8: a) Minimum width: 1050mm, b) Minimum height clearance: 2.1m, c) Maximum riser height: 150mm, d) Minimum tread depth: 300mm, 2) Additional safety features required: a) Handrails at minimum height of 1.1m on both sides (Regulation 68(2b)), b) Non-slip treads or surface treatment, c) Contrasting color strips on step edges, d) Tactile warning strips at landings for vision-impaired users, e) Intermediate handrails for stairs wider than 2.1m, f) No winders or irregularly shaped steps allowed, g) Maximum 15 steps between landings, h) Landings at least as wide as the stair width, i) Emergency lighting along entire stair route, j) Clear directional signage to exits, k) Fire-resistant enclosure (minimum 2-hour rating), l) Doors opening in direction of escape with panic hardware, m) For buildings exceeding 15m height: pressurized stairwells to prevent smoke infiltration. All stairs must also comply with the Protection of Rights of Persons with Disabilities Act, providing equal access for all users."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing ramps for vehicle access to my multi-level commercial parking garage. What are the specific gradient, width, and safety requirements for these ramps?",
+    "answer": "For vehicle ramps in your commercial parking garage: 1) Gradient requirements: a) Maximum gradient of 1:8 (12.5%) for ramps of 12.0m or less, b) Maximum gradient of 1:10 (10%) for longer ramps, c) For upward ramps entering streets: provide a 6.0m flat section from the Street Line inward, d) For downward ramps approaching streets: provide a 3.0m flat section from the Street Line inward, 2) Width requirements: a) For separate entry/exit ramps: minimum 4.5m clear width each (commercial standard), b) For combined entry/exit ramps: minimum 6.0m clear width, c) Ramps must be clear of all footways and obstructions, 3) Safety requirements: a) Non-slip surface treatment, b) Adequate drainage to prevent water accumulation, c) Clear directional signage and traffic control markings, d) Protective barriers along edges where drop-offs exist, e) Minimum 2.4m vertical clearance throughout ramp length, f) Adequate lighting throughout, g) Security barriers/ticket booths placed minimum 6.0m from street edge, h) Turning radiuses: minimum 4.2m inner and 7.3m outer for cars, larger for commercial vehicles (per Schedule 11, Form C)."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I need to design a mechanical car parking system for 120 vehicles in a limited space. What specific technical and safety requirements apply to mechanical parking systems per the regulations?",
+    "answer": "For your 120-vehicle mechanical parking system, follow Schedule 11 requirements: 1) For fully-automated systems: a) Car lobby: 6.2m long \u00d7 2.6m wide internal dimension, b) Entrance width: 2.6m clear, c) Platform size: 5.4m long \u00d7 2.4m wide, d) Headroom clearance: 2.2m minimum, e) Holding bays at entrance/exit, f) Queuing spaces for 18 vehicles (15% of 120) or minimum 2 vehicles, 2) For stack & puzzle systems: a) Platform size: 5.4m \u00d7 2.4m minimum, b) Clear entry/exit width: 2.4-3.0m depending on obstructions, c) Headroom clearance: 2.2m minimum, d) Independent movability required (dependent stackers not allowed), 3) If using car lifts: a) Internal dimension: 6.2m \u00d7 2.6m, b) Minimum speed: 30m/min, c) Discharge capacity: minimum 30 cars/hour, d) Maximum 200 parking lots served by car-lifts. Additional requirements: 1) Emergency power backup, 2) Safety interlocks preventing movement when occupied, 3) Regular maintenance access, 4) Clear operating instructions, 5) Ventilation system for enclosed parking areas."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing natural ventilation for an office building where some internal spaces are more than 10m from external windows. What specific mechanical ventilation requirements apply to these interior zones?",
+    "answer": "For interior office spaces beyond 10m from windows: 1) You must provide mechanical ventilation since natural ventilation requirements cannot be met (Regulation 70(6) states no part of a room should be more than 10.0m from openings), 2) The mechanical system must provide minimum three air changes per hour (Regulation 72(3)), 3) For exclusively mechanically ventilated spaces, a minimum of one-third of area on every floor must still have openings for natural ventilation (Regulation 72(5a)), 4) Air conditioning plant spaces and service machinery are excluded from Permissible Floor Area calculations, 5) If using 24-hour exhaust fans, these must be at least 2.3m from adjacent property boundaries (Regulation 72(5d)), 6) For open-plan offices beyond the 10m limit, you can either: a) Create internal light/air wells meeting Schedule 9 requirements, b) Use borrowed light/ventilation through partial-height partitions, or c) Implement full mechanical ventilation, 7) All mechanically ventilated spaces must have emergency power backup, 8) Systems must be designed by Relevant Qualified Persons as set out in Schedule 3. Remember that good mechanical ventilation design should consider air quality, temperature control, energy efficiency, and noise levels."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I need to conduct a Traffic Impact Assessment for my proposed shopping mall with 180 parking spaces. According to Regulation 73(16), what specific studies must be included, and what form should the final report take?",
+    "answer": "For your shopping mall TIA (exceeding 25 parking stalls threshold): 1) Study area: Examine 1km radius from project boundary, focusing on surrounding developments from past 10 years and proposed developments, 2) Data collection: a) Traffic surveys conducted within 6 months of report submission, b) Traffic flow distribution and vehicle type analysis, c) Rush hour and weekend peak period analysis (critical for shopping malls), 3) Required drawings showing: a) Building limits, road center lines, and shoulder widths, b) Existing lane configurations, pedestrian crossings, footwalks, guard rails, c) Bus stops/bays and distances from mall entrances/exits, d) Site frontage length and entry/exit gate designs, e) Road signs, signals, markings, medians, lamp posts, f) Pavement areas and junctions near development, 4) Analysis of: a) Entering/leaving vehicle movements and conflict points, b) Internal circulation patterns, c) Loading/unloading facilities, d) Public transport integration, e) Pedestrian facilities and safety, 5) Format: Submit per Schedule 12 with: Part A (General Information), Part B (Project Details), Part C (Traffic Analysis), Part D (Land Transferring if applicable), Part E (Conclusions and recommendations). The report must be prepared by a Chartered Civil Engineer specializing in Traffic, Highway, or Transportation, and submitted with the fee of Rs. 60,000."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I'm developing a 2,500m\u00b2 commercial building in an area with 1800mm annual rainfall. How do I calculate the exact rainwater storage capacity required, and how should I distribute this between storage and infiltration?",
+    "answer": "For your 2,500m\u00b2 commercial building in 1800mm rainfall area: 1) Identify your rainfall band from Schedule 14: 1500-2000mm, 2) For commercial buildings in this band, the requirement is 3m\u00b3 per 100m\u00b2 of roof and paved area, 3) Assuming 1,800m\u00b2 roof area and 500m\u00b2 paved area: Total catchment = 2,300m\u00b2, 4) Required capacity: (2,300m\u00b2 \u00f7 100m\u00b2) \u00d7 3m\u00b3 = 69m\u00b3, 5) Distribution between storage and infiltration is determined by the local authority based on: a) Groundwater table fluctuation, b) Available space, c) Topography, d) Soil permeability. Typically, at least 50% should be storage with the remainder as infiltration. Your storage options include: above ground (tanks), on ground (ponds), or below ground (cisterns). Infiltration can include: unpaved ground (100m\u00b2 counts as 0.5m\u00b3), wastewater pits, unlined ponds, dug wells, or boreholes. All systems must be designed by qualified persons, discharge first flush rain, and use pipes/appurtenances differentiated by color and markings."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to fulfill Green Building requirements for my 3,500m\u00b2 office complex. What specific features would earn me the most points in the Energy Efficiency category toward a Gold certification?",
+    "answer": "To maximize Energy Efficiency points (27 available) for Gold certification (60-69 points): 1) Renewable energy implementation (8 points maximum): a) Install rooftop solar PV system covering at least 10% of energy needs, b) Consider solar hot water systems for washrooms, 2) High performance energy efficiency (5 points): a) Use high-efficiency HVAC systems with energy recovery, b) Implement intelligent building management systems, c) Install high-performance glazing with low solar heat gain coefficients, 3) Zoning of lighting sources/equipment (2 points): a) Design separate lighting controls for perimeter zones with daylight, b) Implement motion sensors for intermittently used areas, 4) Electricity sub-metering (2 points): Install separate meters for major systems for monitoring and management, 5) Efficiency of electric illumination (2 points): a) Use LED lighting throughout, b) Design for appropriate light levels without over-illumination, 6) Power factor correction (2 points): Install power factor correction equipment, 7) Improvement and operation of energy efficiency (4 points): a) Commission all systems properly, b) Implement monitoring and targeting programs, c) Train facility managers on optimal system operation, 8) Sustainable maintenance (2 points): Develop comprehensive maintenance protocols and schedules. Focus on these measures as Energy Efficiency has the highest point allocation in the rating system."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I'm designing waste management for a 75-unit apartment complex. What are the exact space requirements and design specifications for communal waste storage areas?",
+    "answer": "For your 75-unit apartment complex: 1) Calculate minimum storage capacity: 0.25m\u00b3 per dwelling \u00d7 75 units = 18.75m\u00b3 total capacity, 2) Provide separated containers for: perishable food waste, recyclable waste, and non-recyclable waste, 3) Communal storage area specifications: a) Minimum 2m height with sufficient ventilation, b) Impervious floor with washing-down facilities, c) Floor drainage connected to system suitable for polluted effluent, d) Gullies with traps that maintain seals during disuse, e) Located away from windows/ventilators, preferably shaded, f) Not interfering with pedestrian/vehicle access, g) Maximum 100m carrying distance from apartments, h) No more than 3 steps between storage and collection point (or slopes not exceeding 1:12), i) Minimum dimensions for servicing and handling containers, 4) Vehicle access requirements: a) Dedicated parking space for waste collection vehicle, b) Clear approach path free of obstacles, c) Appropriate turning radius if vehicles need to turn around, 5) If using waste chutes: a) Minimum 450mm diameter, b) Smooth non-absorbent surface, c) Close-fitting access doors at each floor, d) Ventilation at top and bottom. Consult with local authority regarding specific container types and collection frequency."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I'm planning a 20-unit housing development in an area without public sewers. What specific wastewater treatment options are permitted, and what design criteria must be met?",
+    "answer": "For your 20-unit development without public sewers, you have these options: 1) Wastewater treatment plant: a) Required for developments exceeding 15 units per Regulation 75(8), b) Must include appropriate primary, secondary, and tertiary treatment as needed, c) Must be designed and certified by a qualified civil/environmental engineer, d) Must not harm health or contaminate water sources, e) Must provide adequate maintenance access, f) Must include contingency measures for power failures, 2) Cluster treatment systems: a) May be used if individual septic tanks aren't feasible, b) Maximum 5 units per cluster per Regulation 75(7), c) Requires four cluster systems for your 20 units, 3) Alternative systems: a) May be considered if recommended by a Relevant Qualified Person, b) Must be approved by Relevant Authority or Institute. Design criteria: 1) All systems must comply with National Environmental (Protection & Quality) Act provisions, 2) Pipe networks must include proper traps, water seals, and maintenance access points, 3) Alternative sources like wells must be located at least 18m from wastewater disposal sites, 4) For units with significant occupancy, periodic water quality testing by accredited laboratories is required. Given your 20-unit development size, a properly designed wastewater treatment plant is likely your best option."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I'm planning a 35,000m\u00b2 mixed-use development with extensive landscaping. What specific landscaping requirements apply, and what must be included in my Landscape Plan?",
+    "answer": "For your 35,000m\u00b2 mixed-use development: 1) You must submit a Landscape Plan prepared by a qualified Landscape Architect because: a) Your development exceeds 10,000m\u00b2 floor area (Regulation 55(4b)), 2) Specific requirements include: a) 50% of required open space must be unpaved/permeable (Regulation 55(4a)), b) This area should be maintained as green turf or soft landscape materials, c) In community/recreational areas, building coverage cannot exceed 25% with 5.0m maximum height (Regulation 26(2)), 3) Your Landscape Plan must include: a) Detailed planting schedule with species selection, sizes, quantities, and locations, b) Irrigation systems and water conservation measures, c) Hardscape elements (pathways, plazas, etc.), d) Site furniture and lighting, e) Phasing plan for implementation, 4) For a mixed-use development, consider: a) Creating distinct landscape character for different zones (residential, commercial, public), b) Providing appropriate screening between uses, c) Incorporating stormwater management features that double as landscape elements, d) Ensuring accessibility throughout the site, e) Including shade trees for microclimate control, f) Providing adequate maintenance access. The plan must be coordinated with your drainage management plan, particularly regarding permeable surfaces and rainwater harvesting systems."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to design water supply systems for a 120-unit apartment complex. What storage capacity is required, and what measures must be included to protect water quality?",
+    "answer": "For your 120-unit apartment complex: 1) Storage requirements: a) Minimum 36-hour potable water supply for all occupants (Regulation 74(5a)), b) Calculating for average 4 persons per unit at 150 liters per person per day: 120 units \u00d7 4 persons \u00d7 150 L/day \u00d7 1.5 days = 108,000 liters (108m\u00b3) minimum storage, c) Additional storage for fire reserves as specified by Fire Services Department, 2) Water quality protection measures: a) Separate drinking water systems from non-potable uses, b) Install backflow prevention devices at all potential cross-connection points, c) If using alternative sources: locate at least 18m from wastewater disposal sites, d) For buildings with >20 persons: obtain water quality certification from PHI/MOH with annual water quality testing by accredited labs, e) If using treatment systems: include contingency measures for component failures, maintenance lapses, and power outages, 3) Distribution system requirements: a) Water-efficient fixtures to prevent undue consumption, b) System designed to maintain adequate pressure throughout, c) Metering for consumption monitoring, d) Clear color-coding and marking of different water system pipes, e) No direct cross-connections between rainwater and public/drinking water systems. The systems must be designed by a qualified engineer according to local water authority standards."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to prepare a drainage management plan for a sloped site where I'm building a 5,000m\u00b2 commercial complex. What specific elements must I include to handle stormwater runoff?",
+    "answer": "For your sloped site's drainage management plan: 1) First, prepare a detailed site analysis showing: a) Existing topography with contour lines and spot levels, b) Watershed boundaries and flow patterns, c) Existing drainage features (natural and man-made), d) Soil types and infiltration rates, e) Areas prone to erosion, 2) Your plan must include: a) Roof drainage system with pipe sizes and locations, b) Surface drainage with arrows showing flow direction, c) Inlet locations and types, d) Pipe/channel sizes and slopes, e) Detention/retention facilities, f) Outlet points with energy dissipation, g) Erosion control measures on slopes, 3) Calculate Equivalent Rainwater Holding Provision per Schedule 14 based on your rainfall zone and commercial building type, 4) Design stormwater management using: a) Terraced retention basins following site contours, b) Check dams in swales to slow runoff, c) Pervious pavements where appropriate (50% of open space must be permeable), d) Vegetated filter strips parallel to contours, e) Level spreaders to distribute concentrated flows, 5) Show cross-sections of: a) Cut/fill areas with stabilization measures, b) Retaining walls with drainage provisions, c) Detention pond profiles, 6) Include maintenance schedule and access provisions. Remember that rainwater must not discharge to sewers or adjacent properties, and your system must handle peak flows from design storms while preventing erosion and sedimentation."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I'm developing a hotel with 200 rooms and multiple restaurants and conference facilities. What are the exact number and types of sanitary facilities required?",
+    "answer": "For your hotel development: 1) Guest Rooms: Typically provide private bathrooms for each room, 2) Public Areas (based on Schedule 13 for Restaurants, Hotels): a) For Restaurants/Dining areas (per 100m\u00b2): Female: 1 toilet, 1 washbasin per 300m\u00b2, Male: 1 toilet per 200m\u00b2, 1 urinal per 200m\u00b2, 1 washbasin per 300m\u00b2, b) For Lobbies (use Public spaces category per 100 persons): 1 toilet, 1 washbasin each for male and female, 3) Conference Facilities (use Cinemas, Theatres category per seat capacity): a) Female: 1 toilet per 40 seats, 1 washbasin per 50 seats, b) Male: 1 toilet per 120 seats, 1 urinal per 40 seats, 1 washbasin per 120 seats, 4) Staff Facilities (use Offices category): 1 toilet per 100m\u00b2 and 1 washbasin per 100m\u00b2 for female, 1 toilet per 200m\u00b2, 1 urinal per 200m\u00b2, and 1 washbasin per 100m\u00b2 for male, 5) Additionally: a) Accessible facilities meeting Protection of Rights of Persons with Disabilities Act requirements in all public areas, b) Baby changing facilities in public restrooms, c) Separate facilities for food handling staff with hands-free operation, d) Janitor closets with service sinks on each floor. Precise numbers depend on exact floor areas and seating capacities, which should be calculated for each space category."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to develop a comprehensive solid waste management plan for a new shopping mall with 85 retail units, food court, and cinema. What specific facilities and procedures must be included?",
+    "answer": "For your shopping mall waste management plan: 1) Collection infrastructure: a) Dedicated waste rooms for each retail category (general retail, food service, cinema), b) Central compaction and storage facility (minimum 150m\u00b2) with separate areas for different waste streams, c) Service corridors for waste movement without crossing public areas, d) Loading dock designed for waste collection vehicles, e) Refrigerated storage for food waste (minimum 30m\u00b3), 2) Design specifications: a) Impervious floors with washing and drainage provisions connected to grease interceptors, b) Minimum 2.5m ceiling height in waste rooms, c) Mechanical ventilation with odor control, d) Vermin-proof construction, e) Sufficient space for waste handling equipment, 3) Waste stream separation: a) Recyclables (paper, cardboard, plastics, metals, glass), b) Food waste (from food court and restaurants), c) General waste, d) Hazardous waste (batteries, electronics, cleaning chemicals), e) Bulk waste (packaging materials), 4) Operational procedures: a) Collection schedules and routes, b) Tenant requirements and responsibilities, c) Staff training protocols, d) Monitoring and reporting system, 5) Equipment: a) Compactors for cardboard and general waste, b) Balers for recyclables, c) Food waste pulpers/dehydrators, d) Appropriate containers for different waste types. Submit this plan to obtain clearance from the Relevant Institution as required for non-residential buildings exceeding 300m\u00b2 (Regulation 77(2))."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "I accidentally started construction of my house foundation before receiving my Development Permit. The foundation is complete up to plinth level for a 200m\u00b2 residential building. What penalties will I face, and what is the process to regularize my construction?",
+    "answer": "For your unauthorized foundation work: 1) You'll face service charges as per Schedule 2: Rs. 200 per m\u00b2 for residential foundation works up to plinth level = 200m\u00b2 \u00d7 Rs. 200 = Rs. 40,000, 2) To regularize your construction: a) Submit a covering approval application with Form C and all required annexures, b) Include structural certification from a qualified engineer confirming the foundation meets standards, c) Pay the regular processing fee plus the service charge, d) Submit photographs of the current construction, e) Provide an undertaking that no further work will proceed until the permit is issued, 3) The Authority will inspect the site to verify the extent of unauthorized work, 4) If the construction complies with regulations, a Development Permit will be issued with specific conditions, possibly including: a) Structural testing requirements, b) Additional supervision by Qualified Persons, c) More frequent inspections. Note that these service charges are administrative fees for processing unauthorized work, not legitimizing violations. If your foundation doesn't comply with setbacks, depth, or other requirements, you may be required to demolish and reconstruct it correctly."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "A building under construction in my neighborhood appears to be violating height restrictions and setback requirements. What is the specific process for reporting this violation, and what actions can the Authority take?",
+    "answer": "To report a potential building violation: 1) Submit a written complaint to the Relevant Authority (Urban Development Authority or Local Authority) including: a) Your contact information, b) Precise location of the questionable development, c) Nature of suspected violations (height, setbacks, etc.), d) Any supporting evidence (photographs, observations), e) Approximate timeframe of construction activities, 2) The Authority will then: a) Dispatch officers to inspect the site, b) Check if a valid Development Permit exists, c) Compare actual construction against approved plans, d) Issue a notice to the developer if violations are confirmed. If violations are confirmed, the Authority may: 1) Issue an enforcement notice requiring immediate cessation of unauthorized work, 2) Require modifications to comply with regulations, 3) Impose service charges (ranging from Rs. 200-2,000/m\u00b2 depending on building type and construction stage), 4) In severe cases, issue demolition orders for non-compliant portions, 5) Revoke any previously granted Development Permit or Certificate of Conformity, 6) Initiate legal proceedings under Section 28 of the Urban Development Authority Law if non-compliance continues. The Authority may also require the developer to display their approved plans and permit on site for public verification."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "I obtained approval for a 3-story residential building but would like to add another floor during construction. What are the penalties if I build the extra floor without permission, and what is the proper procedure to amend my approval?",
+    "answer": "Adding an unauthorized floor would result in: 1) Service charges per Schedule 2: For completed construction without approval - Rs. 500/m\u00b2 for residential buildings, 2) Potential structural safety issues as foundation/structure wasn't designed for additional floor, 3) Possible demolition order if structural integrity is compromised or regulatory limits are exceeded, 4) Inability to obtain Certificate of Conformity, preventing legal occupancy, 5) Difficulties with utility connections, insurance, and future property transactions. The proper procedure is: 1) Submit an amendment application before constructing the additional floor, including: a) Form C with Annexures I-VI, b) Revised architectural plans showing the additional floor in red, c) Updated structural calculations certified by a Chartered Engineer confirming the structure can support the addition, d) Revised services designs (electrical, plumbing, etc.), e) Payment of fees: 25% of already paid processing fee + fees for the additional floor area, 2) Wait for approval before proceeding with construction, 3) If approved, the original Development Permit will be amended with new conditions. This approach ensures proper assessment of structural safety, compliance with height restrictions, floor area ratios, and parking requirements for the additional floor."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "I completed my building according to approved plans but haven't applied for a Certificate of Conformity yet. I've been occupying it for 3 months. What penalties apply, and what is the process to obtain the Certificate now?",
+    "answer": "For occupying without a Certificate of Conformity: 1) You face penalties of Rs. 100 per day for 3 months (approximately 90 days) = Rs. 9,000, 2) To obtain your CoC now: a) Submit Form F from Schedule 1 with all required documentation, b) Pay the standard CoC fee based on building type and size, plus the penalty for unauthorized occupation, c) Include certificates from Qualified Persons confirming the building was constructed according to approved plans, d) For residential buildings, include certificates for structural elements, services, utilities, etc. if applicable, 3) The Authority will inspect your building to verify compliance with approved plans, 4) If any deviations are found, you may need to: a) Submit as-built drawings showing actual construction, b) Pay additional service charges for covering approval, c) Make modifications to comply with critical requirements if needed. While applying late for CoC is a violation, the Authority typically focuses on ensuring the building meets safety and regulatory standards rather than punitive measures. However, continued occupation without CoC exposes you to increasing penalties and potential enforcement action, including utility disconnection in some jurisdictions."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "I've been operating a small retail business in what was approved as a residential property for the past 6 months without obtaining a Change of Use permit. What penalties apply, and how do I regularize this situation?",
+    "answer": "For unauthorized change from residential to commercial use: 1) You face potential penalties including: a) Fines under local authority bylaws for unauthorized commercial activity, b) Liability for operating without proper trade permits, c) Potential tax irregularities for business operation in residential premises, 2) To regularize your situation: a) Immediately apply for Change of Use permit using Form G in Schedule 1, b) Submit copies of approved Survey Plan, Building Plan, Certificate of Conformity, and assessment receipt, c) Pay processing fee (based on floor area) plus change of use fee of Rs. 750/m\u00b2 for residential to non-residential conversion, d) Provide evidence the space meets commercial requirements (parking, accessibility, fire safety), e) Prepare for potential modifications to comply with commercial standards, 3) Additional requirements may include: a) Obtaining clearance for solid waste collection if space exceeds 400m\u00b2, b) Installing proper commercial signage with relevant permits, c) Making structural modifications if needed (certified by engineers), d) Providing additional parking as per commercial standards. The Change of Use permit is valid for one year and may be renewed for one additional year. Note that not all residential areas permit commercial activities - approval depends on zoning regulations, compatibility with surrounding uses, and infrastructure adequacy."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "I'm concerned that a neighboring property has converted their required parking area into additional shop space. What specific violation has occurred, and what penalties apply to the property owner?",
+    "answer": "This situation constitutes a violation of Regulation 73(5) regarding change of approved parking space for other uses. Specifically: 1) The penalties include: a) A service charge of Rs. 20,000 per parking space converted to other use, b) An increment of 10% per annum until the space is converted back to parking as approved, c) This is in addition to the charge for not providing required parking spaces (Rs. 250,000-500,000 per space depending on the authority area), 2) Other violations may include: a) Change of use without permit (if commercial space was expanded), b) Deviation from approved building plans, c) Potential traffic/safety hazards from inadequate parking, 3) Enforcement actions available: a) The Authority can issue a notice requiring restoration of the parking area, b) If not complied with, the Authority may revoke the property's Certificate of Conformity, c) The Authority can initiate legal proceedings under Section 28 of the Urban Development Authority Law. To report this violation, submit a written complaint to the Relevant Authority with specific details of the property location and nature of the violation. The Authority will investigate, and if confirmed, will take appropriate enforcement action against the property owner."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "A developer near my property is advertising and selling lots in a new subdivision, but I don't believe they have obtained a Certificate of Conformity yet. What specific violation is this, and what risks do buyers face?",
+    "answer": "This constitutes a violation of Regulation 27(3), which states: \"No person shall have the right to advertise, promote or dispose of the land so subdivided to any other party until a Certificate of Conformity is issued by the Relevant Authority.\" The implications are: 1) For the developer: a) Violation of UDA regulations, subject to enforcement action, b) Potential legal proceedings under Section 28 of the Urban Development Authority Law, c) Possible revocation of Development Permit, d) Financial penalties, 2) Risks for buyers: a) Purchasing lots without guaranteed infrastructure completion (roads, drainage, utilities), b) Difficulty obtaining building permits on lots without CoC, c) Potential legal complications with property titles and registration, d) Risk of subdivision layout changes before finalization, e) No guarantee the 10% community/recreation space has been properly established, f) Potential delays or inability to commence construction, 3) To verify status: Potential buyers should request to see the subdivision's Certificate of Conformity or confirm status with the Relevant Authority before purchasing. To report this violation, submit a written complaint to the Authority with evidence of premature selling activities. The Authority can issue cease and desist orders regarding sales until proper certification is obtained."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "I notice that my neighbor has constructed a boundary wall exceeding the 2.0m height restriction by about 1 meter. What specific violation has occurred, and what is the process for addressing this?",
+    "answer": "Your neighbor has violated Regulation 57(2), which states: \"The height of a Boundary Wall or any erection on the boundary of the site shall not exceed 2.0m from the existing ground level excluding the gate, unless otherwise specified in the gazetted Development Plan or draft Development Plan or Development Guide Plan.\" This violation: 1) Exceeds the maximum permitted height by 1 meter (50% over limit), 2) Was likely constructed without proper approval, as exceeding this height would require specific exemption, 3) May cause issues with light, ventilation, or visual aesthetics for neighboring properties. To address this: 1) First approach: You may informally discuss the issue with your neighbor, pointing out the regulation, 2) Formal approach: a) Submit a written complaint to the Relevant Authority with specific details and photographs, b) The Authority will inspect and verify the violation, c) If confirmed, they'll issue a notice requiring modification to comply with the 2.0m limit, 3) Enforcement measures may include: a) Order to reduce the wall height to compliant level, b) Service charges for unauthorized construction (Rs. 200 per linear meter for residential boundary walls), c) Deadline for compliance, with escalating actions for non-compliance. Exceptions exist only for live fences (foliage/hedges), iron fences, or wire mesh, which may exceed 2.0m, but solid boundary walls are strictly limited to 2.0m unless specifically exempted in a Development Plan."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "I need to erect a temporary shed for a religious festival that will last for 14 days. What specific approval process applies, and what documentation must I submit?",
+    "answer": "For your temporary religious festival shed: 1) Submit a written request to the Relevant Authority with: a) A plan or sketch showing the shed's location, dimensions, and layout, b) Proposed construction materials and method, c) Duration of the temporary structure (14 days for your festival plus setup/takedown time), d) Safety provisions (fire safety, structural stability, emergency exits), e) Sanitation arrangements if applicable, f) Electricity and water provisions if needed, 2) Your temporary structure falls under Regulation 106(3)(b) as \"a shed for funeral, religious or other purposes,\" 3) Permission will be granted with or without conditions for a period not exceeding one year (your 14-day festival is well within this limit), 4) Typical conditions may include: a) Structural stability certification if the structure is large, b) Proper anchoring against wind loads, c) Fire safety precautions and emergency exits, d) Removal deadline after the event, e) Site restoration requirements, f) Public liability insurance coverage. Since religious structures have special considerations, the Authority may exempt or reduce certain fees under Regulation 1(7), though administrative expenses of Rs. 5,000 may still apply. The structure must be completely removed after the festival, and the site restored to its original condition."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "I need to install a digital advertising board (4m\u00b2) on my commercial building facade. What specific permits are required, what are the fees, and what restrictions apply?",
+    "answer": "For your 4m\u00b2 digital advertising board: 1) Required permits: a) Submit written application to the Relevant Authority with location details, dimensions, and design, b) Include a sketch plan of the proposed installation, c) Provide structural certification if mounted on building facade, d) Include electrical safety certification for digital components, 2) Fees per Schedule 2: a) Preliminary Planning Clearance: Rs. 5,000/m\u00b2 \u00d7 4m\u00b2 = Rs. 20,000, b) Development Permit: Rs. 2,500/m\u00b2 \u00d7 4m\u00b2 = Rs. 10,000, 3) Restrictions per Regulation 104: a) Must not cover more than 25% of building frontage, b) Must not obstruct doors, windows, emergency exits, or ventilation, c) Must be compatible with building architecture and area character, d) Colors/shapes/fonts must not resemble traffic signs, e) Must not contain nude/obscene images or content detrimental to area character, f) Must be properly maintained in good condition, g) Must not be supported by trees, utility posts, or traffic signs, 4) Technical requirements: a) Secure mounting to building structure, b) Proper electrical connections meeting safety codes, c) Controlled brightness (especially at night), d) Weather protection for electronic components. Submit your application online where possible. Note that additional local authority permits or trade licenses may be required for commercial advertising, and content may be subject to separate regulations regarding advertising standards."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "I need to install a rooftop communication antenna on my 6-story office building. What specific setback requirements apply, and what documentation must I submit for approval?",
+    "answer": "For your rooftop communication antenna: 1) Setback requirements per Schedule 15: a) For tower height up to 15m: Minimum 1.0m from edge of roof slab, b) For tower height exceeding 15m: Minimum 1.5m from edge of roof slab, c) Minimum 15m distance from public gathering places (schools, religious buildings, etc.), d) Minimum 100m from hospital buildings, 2) Required documentation: a) Application with details of antenna specifications, height, and purpose, b) Roof plan showing antenna location and setbacks from roof edges, c) Structural certification from a qualified engineer confirming the building can support the antenna load, d) Copy of approved building plan and Certificate of Conformity for the existing building, e) Telecommunication Regulatory Commission (TRC) recommendation or clearance, f) Technical specifications including radiation patterns if applicable, 3) If this is a substantial tower rather than a simple antenna, additional requirements apply: a) Lightning protection details, b) Aviation safety lighting if required by height, c) Access and safety provisions for maintenance personnel. Submit these documents to the Relevant Authority with appropriate fees according to Schedule 2. Note that rooftop installations generally face fewer restrictions than ground-based towers, but structural capacity of the existing building is a critical consideration that must be properly certified."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "I own a property with a building of architectural value that is over 75 years old. What specific restrictions apply if I want to renovate it while preserving its character?",
+    "answer": "For renovating your architecturally valuable building: 1) Legal framework: a) Per Regulation 101, you cannot make additions or alterations without prior approval from Relevant Institutions or the Authority, b) If designated as archaeological heritage (over 75 years), additional approvals from Department of Archaeology may be required, 2) Required approvals: a) Submit detailed plans showing existing conditions and proposed modifications, b) Provide historical documentation of the building's significance, c) Include conservation methodology statement, d) Obtain clearances from Archaeological Department, UDA, and possibly the local authority, 3) Permitted activities: a) Maintenance and conservation are allowed if in compliance with regulations, b) Change of use may be permitted if compatible with building character, c) Structural reinforcement that doesn't alter appearance may be approved, 4) Typical conditions for approval: a) Retention of original facade elements, materials, and proportions, b) Use of traditional construction techniques where visible, c) Reversibility of modern interventions, d) Documentation of historical elements before modification, e) Supervision by conservation specialists, 5) Documentation required: a) Detailed condition assessment, b) Architectural documentation of existing features, c) Materials specification for replacements, d) Structural assessment certified by experienced engineer. Remember that while modernization of services (electrical, plumbing) is generally permitted, modifications to character-defining elements are strictly controlled, and inappropriate alterations could result in enforcement action and restoration orders."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "I want to establish a small boutique hotel by converting an existing large residence. What specific zoning and change of use requirements apply?",
+    "answer": "For converting a residence to a boutique hotel: 1) Zoning verification: a) Check if hotel/tourist accommodation is permitted in your zone under the gazetted Development Plan, b) If no plan exists, compatibility with surrounding uses will be assessed, 2) Change of Use application: a) Submit Form G in Schedule 1 with copies of approved Survey Plan, Building Plan, CoC, and assessment receipt, b) Pay processing fee based on floor area plus Rs. 750/m\u00b2 for residential to non-residential conversion, 3) Building modifications: a) Submit plans showing all proposed changes (marked in red), b) Ensure compliance with commercial building standards including: i) Fire safety requirements (exits, alarms, etc.), ii) Increased parking requirements (verify in Schedule 10), iii) Accessibility for persons with disabilities, iv) Enhanced structural requirements for higher occupancy loads, 4) Additional requirements: a) Sanitary facilities per Schedule 13 hotel standards, b) Solid waste management plan if exceeding 400m\u00b2, c) Water supply with 36-hour storage capacity, d) Possibly increased electrical capacity, e) Signage permissions. The permit will be valid for one year if: 1) The proposed use complies with zoning regulations, 2) It's compatible with existing land use patterns, 3) There are no adverse environmental impacts, 4) Adequate parking, infrastructure, and access roads exist, 5) Neighbor safety and security are ensured. Tourism board registration and health department approvals may also be required separately."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What safety measures should be taken during excavation?",
+    "answer": "Adequate safety measures shall be taken during excavation to prevent accidents and damage to adjoining properties."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What safety measures should be taken during construction?",
+    "answer": "Adequate safety measures shall be taken during construction to protect workers and the public from hazards."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What safety measures should be taken during demolition?",
+    "answer": "Adequate safety measures shall be taken during demolition to prevent accidents and damage to adjoining properties."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for scaffolding?",
+    "answer": "Scaffolding shall be erected and maintained in a safe and stable condition."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for hoardings?",
+    "answer": "Hoardings shall be erected to protect the public from hazards during construction or demolition."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for lighting?",
+    "answer": "Adequate lighting shall be provided at the site during construction or demolition."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for ventilation?",
+    "answer": "Adequate ventilation shall be provided at the site during construction or demolition."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for sanitation?",
+    "answer": "Adequate sanitation facilities shall be provided at the site during construction or demolition."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for fire safety?",
+    "answer": "Adequate fire safety measures shall be taken at the site during construction or demolition."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for first aid?",
+    "answer": "Adequate first aid facilities shall be provided at the site during construction or demolition."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for safety training?",
+    "answer": "All workers shall be given adequate safety training before commencing work at the site."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for safety equipment?",
+    "answer": "All workers shall be provided with adequate safety equipment, including personal protective equipment (PPE)."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for safety supervision?",
+    "answer": "All work at the site shall be carried out under adequate safety supervision."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for safety records?",
+    "answer": "Adequate safety records shall be kept at the site."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for safety audits?",
+    "answer": "Regular safety audits shall be carried out at the site."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for safety improvements?",
+    "answer": "Safety measures shall be continuously improved at the site."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for safety compliance?",
+    "answer": "All work at the site shall comply with the relevant safety standards and regulations."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What environmental regulations should be considered in development activities?",
+    "answer": "Development activities shall be carried out in accordance with the relevant environmental regulations."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What measures should be taken to minimize environmental pollution?",
+    "answer": "Measures shall be taken to minimize air, water, and noise pollution during development activities."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What measures should be taken to protect natural resources?",
+    "answer": "Measures shall be taken to protect natural resources, including trees, water bodies, and wildlife habitats."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What measures should be taken to manage waste?",
+    "answer": "Waste generated during development activities shall be managed in an environmentally sound manner."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What measures should be taken to conserve energy?",
+    "answer": "Energy conservation measures shall be implemented in development activities."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What measures should be taken to promote sustainable development?",
+    "answer": "Sustainable development practices shall be promoted in development activities."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What is the requirement for an Environmental Impact Assessment (EIA)?",
+    "answer": "An Environmental Impact Assessment (EIA) may be required for certain development activities."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What is the purpose of an EIA?",
+    "answer": "The purpose of an EIA is to assess the potential environmental impacts of a development activity."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "Who is responsible for conducting an EIA?",
+    "answer": "The Developer is responsible for conducting an EIA, if required."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What is the procedure for obtaining environmental clearance?",
+    "answer": "Environmental clearance may be required from the relevant environmental authority before commencing a development activity."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the consequences of non-compliance with environmental regulations?",
+    "answer": "Non-compliance with environmental regulations may result in penalties and legal action."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding building lines?",
+    "answer": "Building lines shall be as specified in the Development Plan in force for the area."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding setbacks?",
+    "answer": "Setbacks shall be as specified in the Development Plan in force for the area."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding building height?",
+    "answer": "Building height shall be as specified in the Development Plan in force for the area."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding building coverage?",
+    "answer": "Building coverage shall be as specified in the Development Plan in force for the area."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding floor area ratio (FAR)?",
+    "answer": "Floor area ratio (FAR) shall be as specified in the Development Plan in force for the area."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding land use?",
+    "answer": "Land use shall be in accordance with the zoning regulations specified in the Development Plan."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding residential zones?",
+    "answer": "Residential zones shall be used for dwelling houses and related uses."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding commercial zones?",
+    "answer": "Commercial zones shall be used for shops, offices, and other commercial uses."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding industrial zones?",
+    "answer": "Industrial zones shall be used for factories, warehouses, and other industrial uses."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding special zones?",
+    "answer": "Special zones may be designated for specific purposes, such as conservation or recreation."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding mixed-use development?",
+    "answer": "Mixed-use development may be permitted in certain zones, subject to specific regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding parking?",
+    "answer": "Parking requirements shall be as specified in the Development Plan."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding access?",
+    "answer": "Access to the site shall be provided in accordance with the regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding landscaping?",
+    "answer": "Landscaping shall be provided in accordance with the regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding signage?",
+    "answer": "Signage shall be in accordance with the regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding utilities?",
+    "answer": "Utilities shall be provided in accordance with the regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding public spaces?",
+    "answer": "Public spaces shall be provided in accordance with the regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding heritage conservation?",
+    "answer": "Heritage conservation shall be in accordance with the regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding environmental protection?",
+    "answer": "Environmental protection shall be in accordance with the regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding disaster management?",
+    "answer": "Disaster management measures shall be incorporated into development plans."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding accessibility?",
+    "answer": "Accessibility for people with disabilities shall be provided in accordance with the regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding sustainable building practices?",
+    "answer": "Sustainable building practices may be encouraged or required in certain zones."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the regulations regarding innovative development?",
+    "answer": "Innovative development proposals may be considered on a case-by-case basis."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How can zoning regulations be amended?",
+    "answer": "Zoning regulations can be amended through a formal process involving public consultation."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the role of the zoning authority?",
+    "answer": "The zoning authority is responsible for administering and enforcing zoning regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How are zoning regulations enforced?",
+    "answer": "Zoning regulations are enforced through permits, inspections, and legal action."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is a zoning variance?",
+    "answer": "A zoning variance is an exception to the zoning regulations granted in specific circumstances."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is a zoning appeal?",
+    "answer": "A zoning appeal is a challenge to a zoning decision made by the zoning authority."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the purpose of zoning?",
+    "answer": "The purpose of zoning is to regulate land use and development to promote public health, safety, and welfare."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How do zoning regulations affect property values?",
+    "answer": "Zoning regulations can affect property values by restricting or permitting certain types of development."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the relationship between zoning and land use planning?",
+    "answer": "Zoning is a tool used to implement land use plans."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How do zoning regulations address environmental justice?",
+    "answer": "Zoning regulations can be used to address environmental justice concerns by ensuring equitable distribution of environmental benefits and burdens."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What are the challenges of implementing zoning regulations?",
+    "answer": "Challenges include balancing competing interests, adapting to changing needs, and ensuring compliance."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How is public participation incorporated into the zoning process?",
+    "answer": "Public participation is typically incorporated through public hearings, comment periods, and advisory committees."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What role does technology play in zoning administration?",
+    "answer": "Technology can be used for mapping, data management, and public access to zoning information."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What details should floor plans of each floor and roof plan of the building include? (Continued)",
+    "answer": "(6) dimensions of all rooms and thickness of walls, columns and beams; (7) position and width of all staircases, ramps, corridors and passageways; (8) position and width of all doors, windows and other openings; (9) position of all sanitary fittings, including manholes, gullies and other drainage appurtenances; (10) direction of the roof slope and position of all rainwater down pipes; (11) section lines indicating the position of all sections; (12) location of all fire protection appliances; (13) the height of each floor and the height of the building; (14) North direction; (15) floor area of each floor."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What details should sections of the building include?",
+    "answer": "Sections of the building shall be prepared to indicate the details stipulated hereunder: (1) the level of the site in relation to the level of the adjoining street, or in relation to the highest known flood level, if the site is subject to inundation; (2) the height of each storey of the building; (3) the height of the building and the height of the rooms; (4) the materials to be used for the walls and roof covering; (5) the position of the damp proof course, if any; (6) the position of the ventilators, if any; (7) the section lines and their reference to the relevant floor plan; (8) the depth and the nature of the foundation, if necessary."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What details should elevations of the building include?",
+    "answer": "Elevations of the building shall be prepared to indicate the details stipulated hereunder: (1) the materials to be used for the external walls and roof covering; (2) the levels of the ground floor and of the top of the parapet in relation to the level of the adjoining street; (3) the position and dimensions of all doors, windows and other openings; (4) the outline of any building on the adjoining land, if relevant."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What are the general requirements for the size and ventilation of rooms?",
+    "answer": "Every room shall be of such dimensions as to secure adequate ventilation and shall have a clear height of not less than 2.7m from the floor level to the underside of the ceiling or roof."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the minimum size requirement for a habitable room?",
+    "answer": "Every habitable room shall have a minimum floor area of 9.0 square meters with a minimum width of 2.4m, except in the case of a room in a servant\u2019s quarter, which shall have a minimum floor area of 7.5 square meters with a minimum width of 2.1m."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What percentage of the floor area should windows and other openings in a habitable room be?",
+    "answer": "Windows and other openings in a habitable room shall have an aggregate area of not less than one-tenth (1/10) of the floor area of such room."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building abutting a street?",
+    "answer": "In the case of a building abutting a street, no door, window or other opening shall be allowed to project over the Street Line."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building abutting a street with a verandah?",
+    "answer": "In the case of a building abutting a street with a verandah, no portion of such verandah, other than the pillars or supports thereof, shall be allowed to project over the Street Line."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building not abutting a street?",
+    "answer": "In the case of a building not abutting a street, no door, window, or other opening shall be allowed to be installed within 1.2m from the boundary of the adjoining land."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building not abutting a street with a verandah?",
+    "answer": "In the case of a building not abutting a street with a verandah, no portion of such verandah, other than the pillars or supports thereof, shall be allowed to be installed within 1.2m from the boundary of the adjoining land."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with eaves?",
+    "answer": "In the case of a building with eaves, the eaves shall not project more than 0.6m over the Street Line or over the boundary of the adjoining land, as the case may be."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with gutters?",
+    "answer": "In the case of a building with gutters, the gutters shall not project more than 0.3m over the Street Line or over the boundary of the adjoining land, as the case may be."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with down pipes?",
+    "answer": "In the case of a building with down pipes, the down pipes shall be fixed inside the Street Line or inside the boundary of the adjoining land, as the case may be."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the maximum height of a building?",
+    "answer": "The maximum height of a building shall be as specified in the Development Plan in force for the area."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the maximum number of floors for a building?",
+    "answer": "The maximum number of floors for a building shall be as specified in the Development Plan in force for the area."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the maximum height of a parapet wall?",
+    "answer": "The maximum height of a parapet wall shall be 1.2m."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the maximum height of a boundary wall?",
+    "answer": "The maximum height of a boundary wall shall be 1.8m."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a roof?",
+    "answer": "In the case of a building with a roof, such roof shall be so constructed as to discharge all rain water falling on it, on to the land within the premises and no rain water shall be allowed to fall on any street."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a flat roof?",
+    "answer": "In the case of a building with a flat roof, such roof shall be provided with parapet walls of not less than 0.6m in height."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the maximum permitted site coverage for a building?",
+    "answer": "The maximum permitted site coverage for a building shall be as specified in the Development Plan in force for the area."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the minimum distance between buildings?",
+    "answer": "The minimum distance between buildings shall be as specified in the Development Plan in force for the area."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a basement?",
+    "answer": "In the case of a building with a basement, such basement shall be constructed in such a manner as to prevent the ingress of ground water."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a septic tank?",
+    "answer": "In the case of a building with a septic tank, such septic tank shall be located at least 15m away from any well or other source of water supply."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a soakage pit?",
+    "answer": "In the case of a building with a soakage pit, such soakage pit shall be located at least 15m away from any well or other source of water supply."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a swimming pool?",
+    "answer": "In the case of a building with a swimming pool, such swimming pool shall be located at least 3m away from any building or boundary."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a fuel storage tank?",
+    "answer": "In the case of a building with a fuel storage tank, such fuel storage tank shall be located at least 15m away from any building or boundary."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a transformer?",
+    "answer": "In the case of a building with a transformer, such transformer shall be located at least 3m away from any building or boundary."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a generator?",
+    "answer": "In the case of a building with a generator, such generator shall be located at least 3m away from any building or boundary."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a lift?",
+    "answer": "In the case of a building with a lift, such lift shall be located in a fire-resistant shaft."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a staircase?",
+    "answer": "In the case of a building with a staircase, such staircase shall be constructed of fire-resistant materials."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a fire escape?",
+    "answer": "In the case of a building with a fire escape, such fire escape shall be located at least 3m away from any building or boundary."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a fire hydrant?",
+    "answer": "In the case of a building with a fire hydrant, such fire hydrant shall be located at least 15m away from any building or boundary."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a fire sprinkler system?",
+    "answer": "In the case of a building with a fire sprinkler system, such fire sprinkler system shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a fire alarm system?",
+    "answer": "In the case of a building with a fire alarm system, such fire alarm system shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a lightning protection system?",
+    "answer": "In the case of a building with a lightning protection system, such lightning protection system shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with an air conditioning system?",
+    "answer": "In the case of a building with an air conditioning system, such air conditioning system shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a ventilation system?",
+    "answer": "In the case of a building with a ventilation system, such ventilation system shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a plumbing system?",
+    "answer": "In the case of a building with a plumbing system, such plumbing system shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with an electrical system?",
+    "answer": "In the case of a building with an electrical system, such electrical system shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a communication system?",
+    "answer": "In the case of a building with a communication system, such communication system shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with an automation system?",
+    "answer": "In the case of a building with an automation system, such automation system shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for a building with a special feature?",
+    "answer": "In the case of a building with a special feature, such special feature shall be designed and installed in accordance with the relevant standards."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the procedure for submission of an amended plan?",
+    "answer": "In the event of any amendment to the approved plan, the Developer or his Agent shall submit an amended plan to the Relevant Authority for approval."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for the amended plan?",
+    "answer": "The amended plan shall comply with all the regulations herein and shall be accompanied by a written statement explaining the reasons for the amendment."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What are the powers of the Relevant Authority regarding unauthorized development activity?",
+    "answer": "The Relevant Authority shall have the power to take action against any unauthorized Development Activity."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What actions can the Relevant Authority take against unauthorized development activity?",
+    "answer": "The Relevant Authority may issue a notice to the Developer or his Agent to stop the unauthorized Development Activity, to demolish any unauthorized structure, or to restore the land to its original condition."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What happens if the Developer or his Agent fails to comply with the notice issued by the Relevant Authority?",
+    "answer": "If the Developer or his Agent fails to comply with the notice issued by the Relevant Authority, the Relevant Authority may take action to demolish the unauthorized structure or to restore the land to its original condition, and the expenses incurred by the Relevant Authority in taking such action shall be recovered from the Developer or his Agent."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What is the penalty for any person who contravenes or fails to comply with any of the provisions of these regulations?",
+    "answer": "Any person who contravenes or fails to comply with any of the provisions of these regulations shall be guilty of an offence and shall be liable on conviction after summary trial before a Magistrate to a fine not exceeding one hundred thousand rupees or to imprisonment of either description for a period not exceeding six months or to both such fine and imprisonment."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What is the additional penalty for a continuing offence?",
+    "answer": "Where an offence under these regulations is continued after conviction, the offender shall be guilty of a further offence and shall be liable on conviction after summary trial before a Magistrate to a fine not exceeding five thousand rupees for each day on which the offence is so continued."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What does \u2018Development Activity\u2019 mean?",
+    "answer": "\u2018Development Activity\u2019 means the parcelling or sub division of any land, the errection or re- errection of structures and the construction of works thereon, the carrying out of building, engineering and other operations on, over or under such land and any change in the use for which the land or any structure thereof is used, other than the use of any land for purposes of agriculture, horticulture and the use of any land within the curtilage of a dwelling house for any purpose incidential to the enjoyement of a dwelling house, not involving any building operation that would require the submission of a new building plan."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What does \u2018Development Permit\u2019 mean?",
+    "answer": "\u2018Development Permit\u2019 means the permission granted by the Relevant Authority under these regulations for the carrying out of a Development Activity."
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "category": "Zoning Regulations",
+    "question": "How do I calculate the Permissible Floor Area for my property that is 2,500m\u00b2 in area, has a 20m road frontage, faces a 12m wide road, and is located in a zone with factor 1.50?",
+    "answer": "To calculate your Permissible Floor Area, refer to Form A in Schedule 6. For a 2,500m\u00b2 plot with access from a 12m wide road in a zone with factor 1.50, the Permissible Floor Area Ratio is 5.5. Therefore, your Permissible Floor Area is 2,500m\u00b2 \u00d7 5.5 = 13,750m\u00b2. Note that parking facilities required by regulations, air-conditioning plants, and service machinery are excluded from this calculation."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I have a corner lot at the intersection of a 9m road and a 6m road. How should I calculate the required corner splay?",
+    "answer": "For a corner lot at the intersection of a 9m road and a 6m road, you must round off or splay the corner by maintaining half the width of each road from the corner point. This means you need a splay of 4.5m (half of 9m) along one road and 3m (half of 6m) along the other road from the corner point. This requirement ensures visibility at the intersection for traffic safety."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "My property is 400m\u00b2 with a 12m frontage on a 9m wide road, located in a Medium Density Zone. What is the maximum number of floors I can build?",
+    "answer": "For a 400m\u00b2 property with frontage on a 9m wide road in a Medium Density Zone, refer to Form C in Schedule 6. According to the table, your Permissible Floor Area Ratio is 1.6. To determine the maximum number of floors, you must consider other factors like plot coverage (typically 65% for residential zones) and setback requirements from Form E in Schedule 6. With 65% plot coverage on a 400m\u00b2 lot, your building footprint would be 260m\u00b2. With a total permissible floor area of 640m\u00b2 (400m\u00b2 \u00d7 1.6), you could potentially build approximately 2-3 floors depending on your exact layout and setbacks."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I'm planning to develop a land with irregular shape. The site has only 4m frontage on the road but widens to 15m width after 5m depth. What are the special provisions that apply?",
+    "answer": "For your irregularly shaped land with 4m frontage widening to 15m: 1) Since your frontage exceeds the minimum requirement of 3m, development is permitted, 2) You can develop the portion of land beyond the point where the width becomes 6m wide, 3) The Relevant Authority may direct alternative means of providing open space if it's impractical to provide the standard rear space, 4) You must still comply with all other regulatory requirements regarding plot coverage, height limitations, and setbacks. Be aware that buildings on sites with road frontage less than 6m cannot exceed 10m in height unless otherwise specified in a Development Plan."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "My property has frontages on three roads: 20m on a 12m-wide main road, 15m on a 6m-wide side road, and 10m on a 4.5m-wide back road. How do I calculate the road frontage for Permissible Floor Area purposes?",
+    "answer": "For a property with multiple road frontages, calculate as follows: 1) For the main road (12m wide): Use the full frontage of 20m, 2) For the side road (6m wide): Since this is 6m or more in width, calculate the proportionate frontage as 20m \u00d7 (6m \u00f7 12m) = 10m, 3) For the back road (4.5m wide): Since this is less than 6m wide, use the full width of the road itself, which is 4.5m. Your total calculated road frontage would be 20m + 10m + 4.5m = 34.5m. Use this value when determining your Permissible Floor Area from the appropriate table in Schedule 6."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I plan to build a 16m high residential building on my 800m\u00b2 plot that has a 9m wide access road. How much rear space and side spaces do I need to maintain?",
+    "answer": "For a 16m high residential building on an 800m\u00b2 plot with 9m wide access road, refer to Form E in Schedule 6. For buildings between 12.0-18.0m in height: 1) Rear space requirement is 4.0m, 2) Side space requirement is 3.0m on both sides. These open spaces must be maintained to ensure adequate light, ventilation, and safety. Additionally, 50% of these open spaces should not be covered by impermeable material but should be maintained as green turf or soft landscape."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I need to fill the Form B in Schedule 1 for a land subdivision application. What specific information and annexures must I include?",
+    "answer": "For Form B (land subdivision application), you must include: 1) Basic information about yourself (name, address, contact details) and the property (location, deed number, survey plan number), 2) Annexure I: Information about the land (extent, existing/proposed uses, zone, development plan details), 3) Annexure II: Information about existing/proposed infrastructure and services, 4) Annexure III: Declaration by the Qualified Person certifying the development complies with regulations, 5) Annexure IV: Declaration by the applicant, 6) If required, Annexure V: Indemnity for proposed development, 7) Survey plan prepared to scale 1:1000 showing proposed lots, dimensions, streets, open spaces, and proposed uses, 8) Relevant fee as specified in Schedule 2. The application should be submitted online where possible."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "I'm developing a residential property with a 20m deep terrace house. What special ventilation requirements apply?",
+    "answer": "For a terrace house deeper than 12.0m, you must provide permanent means of ventilation from front to rear by suitable vents in all front, back, and cross walls at each floor. These vents must have a net opening area of not less than 0.5m\u00b2. This requirement ensures adequate cross-ventilation in deep terrace houses where interior spaces might otherwise be far from natural light and air sources. This is in addition to the standard requirement that the area of windows and openings must not be less than 1/5 of the floor area of each room."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "My property backs onto a river with a 15m reservation. Can I count this reservation toward my required rear space?",
+    "answer": "Yes, when the rear side of your plot is adjacent to a reservation of a river, canal, wetland, forest, or similar natural feature prescribed in development plans or by relevant authorities, such reservation may be considered for calculating the rear space requirement. This means you may not need to provide additional rear space within your property boundary if the river reservation already provides sufficient buffer. However, you must still comply with all other regulatory requirements regarding plot coverage, height limitations, and side setbacks."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I'm filling out Form C for a building permit application. What specific declaration must be included in Annexure III regarding structural design?",
+    "answer": "In Annexure III of Form C, you must include a declaration by the Qualified Person (Chartered Engineer) stating: \"I hereby certify that the structural design of the proposed building has been prepared by me and that I undertake to supervise the construction to ensure structural stability of the building. I further certify that the design and construction comply with all applicable regulations and standards. I am aware that I am fully responsible for the accuracy and validity of this declaration.\" This must be signed with the engineer's name, registration number, and date. Remember to also include contact information and professional qualifications."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to apply for a Preliminary Planning Clearance for a residential development of 1,200m\u00b2 floor area. What specific form should I use, what are the fees, and what details must I provide?",
+    "answer": "For your 1,200m\u00b2 residential development: 1) Use Form A in Schedule 1 with Annexures I & II, 2) Fee calculation: Since your floor area exceeds 1,000m\u00b2, the fee would be Rs. 50,000 + Rs. 500 for every additional 100m\u00b2 (so Rs. 51,000), with Rs. 5,000 advance payment, 3) Required details include: property information (deed, survey plan, extent), proposed development details (floor area, height, units), infrastructure services information, and a site plan showing access, surrounding features, and preliminary layout. Submit online with written declarations from Annexure I & II. Since your development exceeds 1,000m\u00b2 in floor area, it requires PPC per Regulation 1(3)(c)."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to obtain a Development Permit for Category B building with a basement. What specific documents and certifications must be included with Form C?",
+    "answer": "For a Category B building with basement, submit Form C with: 1) Annexures I & II with property and development details, 2) Annexure III: Declaration by Chartered Architect confirming building design compliance, 3) Annexure IV: Declaration by Chartered Structural/Civil Engineer for structural design, 4) Annexure V: Declaration for mechanical/electrical systems by Chartered Engineer, 5) Annexure VI: Applicant's declaration, 6) Annexure VII: Letter of Indemnity for any boundary construction, 7) Site plan (1:1000 scale), 8) Floor plans and sections (1:100 scale), 9) Elevations, 10) Structural Design Brief, 11) Geotechnical investigation report, 12) Building services designs if floor area exceeds 500m\u00b2, 13) Appropriate fee from Schedule 2. For the basement specifically, include plans showing the 1.0m minimum distance from boundaries to excavation lines and any required NBRO clearances."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to apply for a Certificate of Conformity for my newly constructed 4-story commercial building. What form should I use and what specific certificates must I provide?",
+    "answer": "For your 4-story commercial building's Certificate of Conformity: 1) Submit Form F in Schedule 1, 2) Pay fees per Schedule 2 based on floor area, 3) Provide certificates from: a) Chartered Architect confirming development complies with approved plans, b) Chartered Civil/Structural Engineer confirming structural compliance, c) Chartered Engineer for mechanical/electrical/plumbing systems, d) Relevant Authorities for fire services, electricity, water supply, sewage disposal, and solid waste management, e) Green Building Certification compliance (since commercial building exceeds 1,000m\u00b2), f) Final Post-Permit follow-up report, 4) Ensure all conditions in the Development Permit are fulfilled before applying. Submit these documents online where possible. After review, the Authority may inspect the building before issuing the Certificate."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to renew my Development Permit which is expiring next month. What form should I use, what documentation is required, and what are the fees?",
+    "answer": "To renew your Development Permit: 1) Submit Form D in Schedule 1, 2) Include the Post-Permit Follow-up and Observation Report obtained under Regulation 82, 3) Pay renewal fees per Schedule 2: For buildings up to 1000m\u00b2 - Rs. 5,000; For buildings over 1000m\u00b2 - Rs. 10,000, 4) Provide a brief progress report showing that development has commenced but not been completed due to unforeseeable circumstances, 5) Attach a copy of the original Development Permit and approved building plans. Note that permits can only be extended for a maximum of 2 years beyond the original 1-year validity. After a total of 3 years, you must apply for a fresh Development Permit."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I'm preparing site plans for a Development Permit application. What specific information must be shown on the site plan according to Regulation 34?",
+    "answer": "Your site plan must show: 1) Boundaries with dimensions and distances between proposed/existing buildings and boundaries, 2) Scale, north-line, and assessment numbers of adjoining properties, 3) Access means to the site, 4) All Street Lines, Building Lines, road widening lines, service roads, drainage reservations as per Development Plan or authorities, 5) Distances from proposed building to existing drains, watercourses, sewers, manholes, fences, retaining walls, and slopes, 6) Highest known flood level if applicable, 7) Contours/spot levels if slope exceeds 10 degrees, 8) Any new slopes/embankments with retaining walls, 9) Proposed surface drains with discharge points, 10) Proposed sewer lines and manholes with connection points, 11) Proposed landscaping, 12) All parking arrangements. The plan should be drawn to scale 1:1000 or suitable scale depending on land extent."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to transfer my Development Permit to another party who is buying my property. What is the specific process and documentation required?",
+    "answer": "To transfer your Development Permit to another party: 1) Submit a written request to the Relevant Authority stating your intention to transfer the permit and identifying the new owner, 2) Provide an affidavit confirming the transfer arrangement, 3) Submit relevant documents including the sale agreement or deed transfer documents, 4) Pay the transfer fee of Rs. 25,000 as specified in Schedule 2, 5) Include copies of the original Development Permit and approved plans, 6) Provide contact information for both yourself and the new owner. The request must be submitted by you (the original permit holder) and not by the new owner. The transfer preserves all privileges and conditions of the original permit for the remaining validity period."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I'm applying for approval of a condominium development to be built in phases. What specific requirements apply to this type of application?",
+    "answer": "For a phased condominium development: 1) Submit Form C with all annexures for the entire development at the first stage, 2) Provide a master plan showing all phases and their timelines, 3) Ensure the plan complies with requirements of the Apartment Ownership Law No. 11 of 1973, 4) All regulatory requirements will be assessed for the total development, not just the initial phase, 5) If any changes are made to the Approved Plan, the entire plan with amendments must be resubmitted, 6) For condominiums exceeding 15 units, include designs for an appropriately designed wastewater treatment plant, 7) No further subdivision of condominium units will be permitted unless meeting regulations, 8) Include Common Area Management Plans as required by the Apartment Ownership Law. This approach ensures comprehensive planning while allowing staged construction."
+  },
+  {
+    "category": "Building Permits",
+    "question": "I need to submit a Post-permit follow-up request for my 1200m\u00b2 office building currently under construction. What form should I use and what are the fees?",
+    "answer": "For a Post-permit follow-up report for your 1200m\u00b2 office building: 1) Submit a written request to the Authority requesting the report, 2) Pay the fee of Rs. 3,000 as specified in Schedule 2 for buildings between 900m\u00b2-2000m\u00b2, 3) Provide the Development Permit number and approval date, 4) Include current construction status information, 5) Supply contact details for site access, 6) Attach any previous interim follow-up reports if applicable. The Authority will then conduct an inspection to verify that construction is proceeding according to the approved plans. Remember that for buildings exceeding 900m\u00b2 or G+4 stories, the Authority conducts these inspections every six months, and you should respond to any issues raised within 14 days."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing a staircase for a Public Building. What are the exact minimum dimensions required for width, height clearance, riser, and tread?",
+    "answer": "For a Public Building staircase, you must comply with the following minimum dimensions as specified in Schedule 8: 1) Minimum width: 1050mm, 2) Minimum height clearance: 2.1 meters, 3) Maximum riser height: 150mm, 4) Minimum tread depth: 300mm. These requirements ensure safe egress during emergencies and appropriate accessibility for public use. Additionally, you must comply with requirements of the Protection of Rights of Persons with Disabilities Act, including appropriate handrails at a minimum height of 1.1m and proper tactile warnings at landings."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing an Air Well for natural ventilation in a 40m tall building. What minimum dimensions are required?",
+    "answer": "For a 40m tall building, your Air Well dimensions must comply with Schedule 9 requirements for buildings between 30-50m in height: 1) For rooms requiring natural light and ventilation (living spaces, bedrooms, etc.): Minimum clear width of 5.0m and minimum area of 25.0m\u00b2, 2) For utility rooms (toilets, store rooms, etc.): Minimum clear width of 1.0m and minimum area of 2.0m\u00b2. Additionally, remember that internal Air Wells must not be obstructed, any overhangs into the Air Well must not exceed 0.5m if the shortest side is less than 5.0m, and the floor must be either paved or turfed with proper drainage."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I need to calculate parking requirements for my mixed-use development with 20 residential units (150m\u00b2 each) and 1000m\u00b2 of office space. How many parking spaces are required?",
+    "answer": "For your mixed-use development, calculate parking requirements per Schedule 10: 1) For 20 residential units at 150m\u00b2 each: 2 spaces per unit = 40 spaces, 2) For 1000m\u00b2 office space: 1 space per 100m\u00b2 = 10 spaces. Total required: 50 parking spaces. Each standard car parking space must be 2.4m \u00d7 4.8m (angle parking) or 2.4m \u00d7 5.5m (parallel parking) per Schedule 11. Aisle widths depend on parking arrangement, with 6.0m for perpendicular parking. Since your development exceeds 25 parking stalls, you may need a Traffic Impact Assessment if it meets other criteria in Regulation 73(16)."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "My building is 18m tall with 6 floors. What specific fire safety requirements must I include in my design?",
+    "answer": "For your 18m, 6-floor building, you must include: 1) Fireman's lifts and Firefighting lifts for emergency evacuation and firefighter access, installed in 2-hour rated fire lobbies, 2) Lift materials must be fire-retarded with 1-hour fire-rated landing doors, 3) At least one Fireman's lift per 900m\u00b2 floor area, 4) Fire certificates with evacuation route plans displayed on each floor, 5) Emergency exit signs and evacuation routes clearly marked, 6) Fire engine access and hard standing locations, 7) External pillar hydrants, breeching inlets, and extinguishing equipment, 8) Designated water storage for firefighting, 9) Emergency generator backup, 10) Compliance with specific requirements from the Fire Services Department. Additionally, the building must have a designated Safety Officer if it's a Public Building or has an occupancy load exceeding 500 persons."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing a basement car park. What specific clearances and ventilation requirements apply?",
+    "answer": "For your basement car park: 1) Maintain minimum 1.0m distance from lot boundaries to excavation lines (may be increased based on geotechnical recommendations), 2) Ensure minimum 2.4m clear height from floor to underside of beams/services, 3) Provide 100% mechanical ventilation with minimum three air changes per hour, 4) Install emergency power generator backup, 5) For access ramps: maximum gradient 1:8 for ramps \u226412m and 1:10 for longer ramps, 6) Provide 6.0m flat section before ramp meets street for upward ramps or 3.0m for downward ramps, 7) Ensure 3.5m minimum width for one-way ramps or 6.0m for two-way, 8) Security barriers must be at least 6.0m from street edge, 9) Comply with parking stall dimensions (2.4m \u00d7 4.8m) and aisle widths (6.0m for perpendicular parking) per Schedule 11."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I need to complete a Traffic Impact Assessment for my commercial development. What specific information must be included according to Schedule 12?",
+    "answer": "Your Traffic Impact Assessment per Schedule 12 must include: Part A (General Information): 1) Project name, developer details, nature, location, extent, timeline; Part B (Project Details): 1) Description of project components, 2) Layout plan showing vehicle circulation, entrances/exits, aisle widths, turning radii, ramp details, parking dimensions, drop-off areas, security checkpoints; Part C (Traffic Impact Analysis): 1) Study of 1km radius area, 2) Traffic flow data (collected within past 6 months), 3) Vehicle distributions, 4) Drawings showing road details, building lines, lane configurations, bus stops, median openings, junctions, 5) Analysis of entry/exit movement conflicts, 6) Parking arrangements, 7) Off-site vehicle movement; Part D (Land Transferring requirements if applicable); Part E (Conclusions and recommendations). The study must be prepared by a Chartered Civil Engineer specializing in Traffic, Highway, or Transportation."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "I'm designing natural ventilation for a deep office building. What are the maximum distances from windows that any part of a room can be located?",
+    "answer": "For your office building: 1) No part of any room should be more than 10.0m away from a window/opening in a direction perpendicular to the plane of the opening, 2) No part should be more than 3.0m away from the edge of the opening in a direction parallel to the plane of the opening, 3) The total area of windows/openings must be at least 1/5 of the floor area of the room, 4) At least 50% of these openings must be able to be opened, 5) If the room extends beyond these distances, mechanical ventilation providing at least three air changes per hour is required, 6) If windows open onto a balcony/veranda, the depth from the outer face of the balcony enclosure wall cannot exceed 10.0m, and the balcony front must have openings for at least 75% of its height."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific electrical safety clearances must I maintain between my building and the 33,000-volt power line that runs near the property?",
+    "answer": "For a 33,000-volt power line (falling in the 11,000-33,000 Volts category per Schedule 16), you must maintain: 1) Vertical clearance: minimum 3.00 meters from any position to which a conductor may swing under wind influence, 2) Horizontal clearance: minimum 2.00 meters from any position to which a conductor may swing. These clearances represent minimum safe distances to prevent electrical arcing or accidental contact. You should also obtain clearances from the relevant electricity authority before commencing construction, as they may have additional requirements based on specific conditions. Remember that these are minimum requirements, and greater clearances are recommended where feasible for additional safety."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What specific safety requirements must be included for a lift in a 6-story hospital building?",
+    "answer": "For lifts in a 6-story hospital: 1) Provide at least one bed lift regardless of building height, 2) For normal passenger lifts: comply with relevant national/international safety standards, design based on acceptable traffic analysis, 3) Since the building exceeds 4 floors, include fire emergency return operation, 4) Since the building likely serves disabled/elderly people, at least one lift must be a Fireman's lift per 900m\u00b2 floor area, 5) Install lifts in fire lobbies rated for 2 hours, accessible to firemen, 6) Use fire-retarded materials for lift construction with 1-hour fire-rated landing doors, 7) Ensure accessibility compliance with Protection of Rights of Persons with Disabilities Act requirements, 8) Test all lifts according to safety regulations and manufacturer's instructions, 9) Include emergency power backup, 10) Provide certification from a Qualified Person when applying for the Certificate of Conformity."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to calculate the minimum rainwater harvesting capacity for my 500m\u00b2 commercial building with 300m\u00b2 of roof area and 150m\u00b2 of paved area in a region with 2200mm annual rainfall. What capacity is required?",
+    "answer": "To calculate your rainwater harvesting capacity: 1) Identify your annual rainfall band from Schedule 14: 2000-2500mm, 2) For commercial buildings in this rainfall band, the minimum volume required is 3m\u00b3 per 100m\u00b2 of roof and paved area, 3) Calculate total roof and paved area: 300m\u00b2 + 150m\u00b2 = 450m\u00b2, 4) Calculate required capacity: (450m\u00b2 \u00f7 100m\u00b2) \u00d7 3m\u00b3 = 13.5m\u00b3. You must provide at least 13.5m\u00b3 of rainwater holding capacity, which can be distributed between storage (above ground, on ground, below ground) and ground infiltration (wastewater pit, unpaved ground, unlined pond, dug well, borehole) as appropriate for your site conditions and as approved by the local authority."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I'm applying for Green Building Certification for my 1500m\u00b2 office building. What specific criteria must I meet to achieve at least the minimum 'Green Certificate Level'?",
+    "answer": "To achieve minimum 'Green Certificate Level' (40-49 points) per Schedule 5, focus on these key areas: 1) Energy Efficiency (27 available points): Implement zoning of lighting (2pts), electricity sub-metering (2pts), renewable energy (2-8pts), high-performance energy efficiency (2-5pts), efficient illumination (2pts), 2) Sustainable Site Planning (23 available points): Proper site selection (4pts), environmental management plan (1pt), green ground cover (2pts), 3) Materials & Resources (20 available points): Use recycled materials (2pts), local materials (3pts), 4) Building Environment Quality (13 available points): Ensure CO\u2082 monitoring (2pts), daylight optimization (2pts), 5) Water Efficiency (10 available points): Implement rainwater harvesting (2pts), water metering (2pts), 6) Basic Innovation (1-2pts) and Socio-Cultural compatibility (1-2pts). Submit Form E with Form C, detailing how your design meets these criteria, with appropriate fee per Schedule 2."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "How do I calculate the exact minimum number of waste bins required for my 30-unit apartment building, and what specific design requirements apply to the waste storage area?",
+    "answer": "For your 30-unit apartment building: 1) Calculate minimum storage capacity: 0.25m\u00b3 per dwelling for weekly collection = 30 \u00d7 0.25m\u00b3 = 7.5m\u00b3 total capacity, 2) Provide separated containers for: perishable food waste, recyclable waste, and non-recyclable waste, 3) Design storage area requirements: a) Impervious floor with washing and drainage provisions connected to suitable polluted effluent system, b) Gullies with traps that maintain seals during disuse, c) Located away from windows/ventilators, preferably shaded, d) Not interfering with pedestrian/vehicle access, e) Maximum carrying distance for residents: 100m, f) Maximum 3 steps between storage and collection point (slopes not exceeding 1:12), g) For communal areas: minimum 2m height with sufficient ventilation, h) Dedicated parking space for waste collection vehicle. Consult with local authority for specific bin types and sizes required in your area."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to create a drainage management plan for my 2000m\u00b2 commercial development. What specific components must be included according to Regulation 76?",
+    "answer": "Your drainage management plan per Regulation 76 must include: 1) A sketch of the surrounding area showing existing drains and water courses, 2) Roof plan and floor plan showing: a) Areas with flat roofs, balconies, open areas, b) Sizes of all rainwater drainage pipes, c) Sizes and locations of rainwater storage, d) Infiltration areas, e) Outlet drains with flow direction arrows, 3) Cross and longitudinal sections of the building showing storage tanks, downpipes and related appurtenances, 4) Calculations for minimum Equivalent Rainwater Holding Provision based on Schedule 14 rainfall bands, 5) Demonstration that rainwater is diverted to harvesting system, soakaway, or infiltration system (not to sewers or adjacent properties), 6) Details of any common facilities with adjacent properties (if applicable, with owner consent). Remember that 50% of open space must remain unpaved, and design must be by qualified persons with structures covered, protected, and built in a structurally sound manner."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I need to calculate the exact number of sanitary facilities required for my 200-seat theater. How many toilets, urinals, and washbasins are needed for each gender?",
+    "answer": "For your 200-seat theater, calculate sanitary facilities per Schedule 13: For females: 1) Toilets: 1 per 40 seats = 200 \u00f7 40 = 5 toilets, 2) Washbasins: 1 per 50 seats = 200 \u00f7 50 = 4 washbasins. For males: 1) Toilets: 1 per 120 seats = 200 \u00f7 120 = 1.67 rounded to 2 toilets, 2) Urinals: 1 per 40 seats = 200 \u00f7 40 = 5 urinals, 3) Washbasins: 1 per 120 seats = 200 \u00f7 120 = 1.67 rounded to 2 washbasins. Total required: 7 toilets, 5 urinals, and 6 washbasins. Additionally, you must provide accessible facilities complying with the Protection of Rights of Persons with Disabilities Act, properly ventilated toilet areas, and all fixtures connected to appropriate drainage systems."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "I'm subdividing a 12,000m\u00b2 (3-acre) land for a residential development. What are the exact requirements for community, recreation, and open space provision?",
+    "answer": "For your 12,000m\u00b2 (>1.0 hectare) subdivision: 1) Reserve at least 10% (1,200m\u00b2) excluding roads and drains for community, recreation, and open space, 2) This space must be gifted free of charge to the Relevant Authority via deed of gift (Annexure VI of Form B), 3) The space must be: a) Located appropriately with easy access from every lot, b) Not comprised of unusable lots, c) Preferably adjacent to environmental features if applicable, 4) If used for community activities, any buildings (pavilions, pools, halls) must have maximum 25% plot coverage and 5.0m maximum height, 5) If there's a public open space exceeding 4,047m\u00b2 within 0.5km, you may deposit the equivalent land value instead, if the Authority demands it. Alternatively, if the subdivision has lots \u22651,012m\u00b2 with \u22642 housing units per lot, you may be exempted from this requirement, subject to Authority approval."
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "category": "Zoning Regulations",
+    "question": "What factors determine the Permissible Floor Area for a development?",
+    "answer": "The Permissible Floor Area depends on: 1) the extent of land, 2) the length of the boundary of the land directly abutting the road (road frontage), 3) width of the road providing access to the land, 4) the Zone Factor indicating development density for the area, and 5) other conditions imposed by relevant laws or regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How is the Permissible Floor Area computed for buildings?",
+    "answer": "The Permissible Floor Area is computed based on forms in Schedule 6. For areas with a gazetted Development Plan, it's computed using Form A or B with respect to the Zone Factor mentioned in the plan. For areas without a gazetted Development Plan, it's computed using Form C or D with respect to the Development Zone specified in the Draft Development Plan."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What does Zone Factor mean in development plans?",
+    "answer": "Zone Factor is a tool introduced to guide development to optimize the utility of developable lands and infrastructure, and to regulate the form of the physical environment and distribution of development density. It is computed as a ratio between the expected total floor space of a zone and its total buildable land area, indicating the future built density of a particular zone."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is excluded from the calculation of Permissible Floor Area?",
+    "answer": "The Permissible Floor Area excludes spaces allocated for parking facilities as per regulatory requirements, air-conditioning plants, and other service machinery serving for the functioning of the building."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "When is a floor area of a roof terrace included in the Permissible Floor Area?",
+    "answer": "The floor area of the roof terrace is included in the Permissible Floor Area when it is used for an activity other than reserving for Ancillary Facilities of such Building."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What happens when an area of 20% or more of a lot is within the Building Line?",
+    "answer": "When an area of 20% or more of a lot is within the Building Line, the Planning Committee may relax any of the regulatory requirements specified in the regulations."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the plot coverage requirement for buildings with height of 50m or more?",
+    "answer": "The plot coverage of a building having a height of 50m or more shall comply with the requirements specified in Form E in Schedule 6, if such requirement is less than the requirement specified in the gazetted Development Plan or draft Development Plan or Development Guide Plan."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What minimum width of an Access Road is required for a Lot in a new subdivision?",
+    "answer": "The minimum width of an Access Road to a Lot in a new subdivision shall be in accordance with Form B in Schedule 4 for residential uses."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the requirement for turning space in an Access Road in a land subdivision?",
+    "answer": "In subdivision of a land, an Access Road which is less than 9.0m in width and more than 30.0m in length must have a turning circle of at least 9.0m in diameter or a T-turn with a 9.0m span. For Access Roads 9.0m or wider, a turning circle of 12.0m in diameter or a T-turn with a 12.0m span is required."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is a Preliminary Planning Clearance (PPC) and when is it required?",
+    "answer": "A Preliminary Planning Clearance (PPC) is issued by the Urban Development Authority upon request of the Developer or Agent. It's required for: land subdivisions of 1.0 hectare or more, subdivisions exceeding 8 lots, residential developments exceeding 1,000m\u00b2 in floor area or 15.0m in height, non-residential developments exceeding 400m\u00b2 in floor area, developments in environmentally sensitive areas, industrial development projects under the National Environmental Act, construction of towers, quarrying or mining activities, and other activities determined by the planning committee."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the validity period of a Preliminary Planning Clearance (PPC)?",
+    "answer": "A PPC issued under these regulations is valid for a period of one year. The validity period can be extended annually, not exceeding two years, upon request by the Developer or Agent."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What documents are required for a Development Permit application for land subdivision?",
+    "answer": "To obtain a Development Permit, a Developer or Agent must submit: 1) Application according to Form B in Schedule 1, 2) Annexure I and II of Form B, 3) Written declarations as prescribed in Annexure III and IV of Form B endorsed by a Qualified Person, 4) If deemed necessary, an indemnity for the proposed development as specified in Annexure V of Form B, and 5) Relevant fee as specified in Schedule 2."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the minimum plot size allowed in a land subdivision?",
+    "answer": "The minimum plot size of a lot shall not be less than 150m\u00b2 in extent, unless otherwise specified by the Development Plan in effect for the particular Urban Development Area."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the requirement for open space in subdivisions exceeding 1.0 hectare?",
+    "answer": "For land subdivisions exceeding 1.0 hectare, an area of not less than 10% of the land (excluding roads and drains) shall be reserved for community, recreation, and open space uses. This space must be gifted to the Relevant Authority free of charge."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the validity period of a Development Permit?",
+    "answer": "A Development Permit is valid for a period of one year. The Relevant Authority may extend the validity period for a further period not exceeding 2 years if the Development Activity has commenced but not been completed due to unforeseeable circumstances. The maximum validity period is three years."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What are the building categories defined in the regulations?",
+    "answer": "The regulations define buildings in categories: A (G+4 floors or more or exceeding 15.0m height), B (buildings with walls bordering boundary lines, basements, deep foundations, roof spans exceeding 10.0m, public buildings, wind-sensitive buildings, buildings on slopes between 20-45 degrees, or buildings requiring dynamic response), and C (further subdivided into CI, CII, and CIII based on size and features)."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What minimum information must be included in a site plan for a Development Permit?",
+    "answer": "A site plan must include: boundaries with dimensions, scale and north-line, means of access, Street Lines and Building Lines, distances to existing drains and structures, flood levels if applicable, contours for sloped sites, proposed drainage, proposed sewer lines and manholes, proposed landscaping, and parking arrangements."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What documents are required when applying for a Certificate of Conformity (CoC)?",
+    "answer": "When applying for a CoC, the Developer must: fulfill all conditions in the Development Permit, pay relevant fees, and submit certificates from Qualified Persons confirming the development complies with approved plans and permit conditions. These may include structural certificates, certificates for mechanical/electrical/plumbing systems, certificates from relevant authorities for fire services, electricity, water supply, sewage disposal, and solid waste management, confirmation of Green Building Certification compliance, and the final Post-Permit follow-up report."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the minimum requirements for stair dimensions in buildings?",
+    "answer": "For internal stairs serving only one upper floor, the minimum width is 750mm, minimum height clearance is 2.1m, maximum riser is 175mm, and minimum tread is 250mm. For stairs in Public Buildings, Condominium Buildings, and all other categories, the minimum width is 1050mm, minimum height clearance is 2.1m, maximum riser is 150mm, and minimum tread is 300mm."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "When are vertical transportation systems (elevators) required in buildings?",
+    "answer": "A vertical transportation system must be designed and installed for buildings exceeding four floors or more than 15.0m in height. It must comply with relevant national and international safety standards and be designed based on an acceptable traffic analysis."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the fire protection requirements for buildings?",
+    "answer": "Fire requirements must be complied with for: residential buildings exceeding 15.0m in height or with five or more units, non-residential buildings exceeding 15.0m in height or 500m\u00b2 of floor area, and Public Buildings. These requirements are specified by the Relevant Authority or relevant Fire Services Department."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What safety features are required for lifts in buildings exceeding 15m in height?",
+    "answer": "Buildings 15m or more in height must be provided with Fireman's lifts and Firefighting lifts for emergency evacuation and for providing transportation for firefighters. These lifts must be installed in fire lobbies rated for 2 hours and accessible to firemen. The lift must be made with fire retarded material and landing doors rated for 1 hour against fire. At least one Fireman's lift must be installed for every 900m\u00b2 floor area."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What is the requirement for a Safety Officer in Public Buildings?",
+    "answer": "The owner, occupier, or agent of a Public Building with access for the general public or an occupancy load of more than 500 persons must designate a responsible person as a Safety Officer. This officer enforces housekeeping rules and fire safety precautions, supervises maintenance of fire escapes and protection systems, organizes fire drills, and supervises safety and security surveillance systems."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for natural light and ventilation in rooms?",
+    "answer": "Every building must have natural lighting and ventilation through windows, skylights, fanlights, doors, or other approved media. The area of such openings must not be less than 1/5 of the floor area of the room, and at least 50% of the openings must be able to be opened. No part of a room (except in factories/warehouses) should be more than 10m away from such openings."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the minimum dimensions for Air Wells used for natural light and ventilation?",
+    "answer": "For buildings less than 7m in height, minimum clear width is 2.3m and minimum area is 5.0m\u00b2. For buildings 7-15m, dimensions are 3.0m width and 9.0m\u00b2 area. For 15-30m, dimensions are 4.0m width and 16.0m\u00b2 area. For 30-50m, dimensions are 5.0m width and 25.0m\u00b2 area. For 50-75m, dimensions are 6.0m width and 36.0m\u00b2 area. For buildings over 75m, minimum width is 6.0m and the area increases by 1m\u00b2 for every additional 3m of height."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What is the requirement for displaying fire safety information in buildings?",
+    "answer": "For buildings exceeding 15.0m in height or five units (residential) or 400m\u00b2 floor area (non-residential) and Public Buildings, the fire certificate together with the particular floor plan showing evacuation routes in case of fire must be displayed at a suitable location on each floor."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the minimum safety clearances required from electricity lines?",
+    "answer": "For lines not exceeding 1000 Volts: 2.40m vertical, 1.50m horizontal. For 1000-11,000 Volts: 2.70m vertical, 1.50m horizontal. For 11,000-33,000 Volts: 3.00m vertical, 2.00m horizontal. For 33,000-132,000 Volts: 4.10m vertical, 4.10m horizontal. For 132,000-220,000 Volts: 5.18m vertical, 5.18m horizontal."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the requirements for Green Building Certification?",
+    "answer": "Green Building Certification from the Urban Development Authority is required for every Development Activity with a floor area of 1000m\u00b2 or more (except industrial buildings and factories). Every such development must comply with at least the 'Green Certificate Level' of the Green Building Rating system as set out in Schedule 5, which evaluates energy efficiency, sustainable site planning, materials and resource management, building environment quality, water efficiency, green innovation, and socio-cultural compatibility."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the rainwater harvesting requirements for buildings?",
+    "answer": "Buildings must provide adequate drainage for roof water, with paved areas properly drained. Rainwater must be diverted to a rainwater harvesting system, soakaway, or infiltration system. If that's not practicable, it can go to roadside storm drains or watercourses. The minimum rainwater holding provision varies by rainfall band and building type as specified in Schedule 14, with capacities ranging from 0.5 to 10 cubic meters per 100m\u00b2 of roof and paved area."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the design considerations for rainwater harvesting systems?",
+    "answer": "Rainwater harvesting systems must be designed by qualified persons, be constructed competently, discharge the first flush of rain, store water in an appropriately sized structure, and infiltrate into the ground through soakage pits, wells, ponds, or similar measures. Storage structures must be covered and protected against accidents, built in a structurally sound manner, have methods to eliminate dust and contaminants, not conflict with other regulations, and be located for maximum use. Pipes and appurtenances must be clearly differentiated by color and markings."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the wastewater treatment requirements for buildings?",
+    "answer": "Wastewater must be conveyed to an adequate drainage system and discharged to: 1) a public sewer if available, 2) a wastewater treatment system with appropriate primary, secondary, and tertiary treatment if sewers aren't available, 3) an on-site collection and off-site disposal system, or 4) an on-site collection and on-site disposal system. Wastewater must be pre-treated to conform to acceptable standards before disposal to public sewerage systems."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the solid waste management requirements for buildings?",
+    "answer": "All buildings must have adequate provisions within the premises to collect and store solid waste. For residential or non-residential buildings exceeding 400m\u00b2 and 300m\u00b2 respectively, clearance for collection and disposal must be obtained from the Relevant Institution or Authority. Developments must follow strategies to reduce, reuse, and recycle solid waste, with provision for waste separation within the premises."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What is the requirement for unpaved or green areas in development projects?",
+    "answer": "50% of the open space outside the building that is required to be maintained must not be covered by any type of impermeable material. It should preferably be maintained as a green turf or covered with appropriate soft landscape materials."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "When is a Landscape Plan required for developments?",
+    "answer": "A Landscape Plan prepared by a Qualified Person is required when: 1) the development exceeds 10,000m\u00b2 floor area, 2) the development is proposed on land exceeding 1.0 hectare, or 3) the development is located in a zone where special landscaping requirements are specified in the gazetted Development Plan or Development Guide Plan."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What provisions are required for waste separation in buildings?",
+    "answer": "For residential developments, dedicated space must be provided for storage of containers for separated waste (perishable food waste, recyclable waste, and non-recyclable waste) with a combined capacity of 0.25m\u00b3 per dwelling for collection frequency less than a week. In high-rise residential developments, separate storage for recyclable and compostable waste is required, with storage areas provided according to local authority requirements."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What environmental safeguards are required for groundwater when using alternative water sources?",
+    "answer": "When using alternative water sources, the source must be dependable and reliable in terms of yield and water quality. If developing shallow wells, surface water intakes, etc., they must be located at least 18m away from wastewater disposal sites, septic tanks, and soakage pits. Such locations must be selected with the recommendation of the Local Authority and Relevant Institutions."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What happens if a development does not comply with the Green Building Rating level?",
+    "answer": "If the owner or Developer fails to conform to the certificate level or agreed level of the Green Building Rating, the Authority may impose a surcharge on the development as set out in Schedule 2."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What actions can the Authority take regarding unauthorized construction?",
+    "answer": "For unauthorized construction, the Authority imposes service charges in addition to processing fees. These range from Rs. 200-500 per m\u00b2 for residential buildings and Rs. 500-2,000 per m\u00b2 for non-residential buildings, depending on the stage of construction. For telecommunication towers, the charges are Rs. 150,000 for ground base and Rs. 100,000 for roof top constructions."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What penalties apply for occupying a building without a Certificate of Conformity?",
+    "answer": "Occupying or using a building without obtaining a Certificate of Conformity (CoC) incurs a penalty of Rs. 100 per day."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "Can the Authority revoke a Development Permit or Certificate of Conformity?",
+    "answer": "Yes, the relevant Authority may revoke the Development Permit or the Certificate of Conformity issued for a development at any time if the Authority discovers that the Developer had violated a term or condition stipulated in the Development Permit or the CoC."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What penalties apply for not providing required parking spaces?",
+    "answer": "For each car parking space not provided within the premises, service charges range from Rs. 250,000 to Rs. 500,000 depending on the local authority area. For lorries, the charge is Rs. 1,000,000, and for multi-axle vehicles including containers, it's Rs. 2,500,000 in Municipal Council areas."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What penalties apply for changing approved parking spaces to other uses?",
+    "answer": "Changing approved parking space for other uses incurs a charge of Rs. 20,000 per parking space with an increment of 10% per annum until it is converted back to parking as approved."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What are the consequences of constructing a building in violation of the Development Permit?",
+    "answer": "No person shall carry out or engage in any physical development of a site or any part thereof that violates the terms and conditions of the Development Permit issued by the Relevant Authority. Doing so is an offense under the regulations."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What are the consequences for providing false information in permit applications?",
+    "answer": "The Relevant Authority may revoke any approval or permit if there is a contravention of the provisions of the regulations, if false or incorrect information is provided, if there is failure to comply with the terms and conditions of approval or permit, or if there is failure to submit required plans and particulars."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "Can a developer advertise or sell subdivided land before obtaining a Certificate of Conformity?",
+    "answer": "No person shall have the right to advertise, promote, or dispose of land so subdivided to any other party until a Certificate of Conformity (CoC) is issued by the Relevant Authority."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What are the requirements for temporary buildings?",
+    "answer": "For a Temporary Building, a plan or sketch with a written request must be submitted to the Relevant Authority. Permission is granted with or without conditions and is valid for a specified period not exceeding one year. Temporary buildings include entertainment sheds, funeral or religious sheds, builder working sheds, containers used temporarily, protective hoardings, scaffolding on streets, and stalls for trade fairs or exhibitions."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What are the requirements for advertising boards and hoardings?",
+    "answer": "No person or institution shall erect, display, or maintain commercial advertisements, billboards, hoardings, exhibition stalls, or telephone booths without prior approval of the Relevant Authority. Installations must comply with Development Guide Plan provisions, must not cover important buildings or landmarks, must be compatible with the landscape, must not disturb vehicular movements, must not obstruct building elements, and must be maintained properly."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What are the specifications for communication towers?",
+    "answer": "Communication towers must adhere to location-specific Planning and Development Regulations. Ground-based antenna structures under 100m require 5m distance from boundaries and 15m from public gathering places. Towers over 100m require 10m from boundaries and 30m from public gatherings. All towers must be 100m from hospitals. Roof-top antennas have specific setback requirements based on height."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What are the requirements for changing the use of a building?",
+    "answer": "To change the use of a building, the owner must notify the Authority and obtain approval. An application using Form G in Schedule 1 must be submitted with copies of the approved Survey Plan, Building Plan, CoC, and payment receipt. Change of use permits are valid for one year if the proposed use complies with zoning regulations, is compatible with existing land use, has no adverse environmental impacts, and has adequate parking and infrastructure."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What provisions are made for qualified persons to certify building works?",
+    "answer": "Different types of qualified persons are specified for different development activities. These include Registered Licensed Surveyors for land subdivision, Town Planners for development impact assessments, Civil Engineers for construction works, Chartered Architects and various engineers for building design and certification, Landscape Architects for landscape plans, and Traffic Engineers for Traffic Impact Assessments, among others."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What happens if the services of a Qualified Person are terminated during construction?",
+    "answer": "If the services of a Relevant Qualified Person are terminated, the Developer must notify the Authority in writing within 14 days. Building work must not be commenced, carried out, or resumed unless another Qualified Person has been appointed and the Relevant Authority notified. The termination notice must include a summary report and certification of completed building works."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What are the requirements for developments near expressways?",
+    "answer": "Developments on either side of an existing or proposed Expressway must comply with the specifications in Schedule 17, which outlines setback requirements and permitted land uses in different zones from the edge of the expressway."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What is the requirement for display notices during construction?",
+    "answer": "For land subdivision exceeding 10 acres in extent, a notice board having 2.5m in length and 1.5m in width must be displayed, including details and contact information of the owner and Developer and the date and number of the approved plan. Similarly, for construction projects exceeding 900m\u00b2 or having G+4 or more stories, a similar notice board must be displayed."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "How long is a Development Plan valid?",
+    "answer": "A Development Plan is valid for a period of ten years from the date of publication through a gazette notification. It can be amended or revised from time to time. If necessary updates or revisions are not completed before the expiry period, an additional period of one year may be granted by the Authority."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum plot size for a subdivided land, according to the regulations?",
+    "answer": "The minimum plot size of a lot shall not be less than **150 m2** in extent, unless otherwise specified [1, 2]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "How is the Permissible Floor Area of a building computed when a gazetted Development Plan is available?",
+    "answer": "When a gazetted Development Plan is available, the Permissible Floor Area of a building located in a lot shall be computed based on **Form A or B as set out in Schedule 6**, with respect to the **Zone Factor** mentioned in such Development Plan [3]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum width required for an access road serving more than one but not more than four non-residential lots?",
+    "answer": "Where a street serves more than one but not more than four non-residential lots or sites, the minimum required road width is **6.0 m** [4]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the maximum plot coverage allowed for buildings with a height of 50 m or more when a gazetted Development Plan is available?",
+    "answer": "The plot coverage of a building having a height of **50 m or more** shall comply with the requirements specified in **Form E as set out in Schedule 6** if such requirement is less than the requirement specified in the gazetted Development Plan or draft Development Plan or Development Guide Plan [5]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the general minimum setback required from the edge of a road if a Building Line, Street Line, or other road reservation is not prescribed?",
+    "answer": "If a Building Line, a Street Line or any other road reservation is not prescribed for a particular road to which a plot of land is adjoining, a proposed building development shall maintain a **1.0 m Setback** from the edge of such road [6]."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What can the Authority do if a developer fails to conform to the agreed level of Green Building Rating?",
+    "answer": "Where the owner or the Developer fails to conform to the certificate level or the agreed level of the Green Building Rating, the Authority may impose a **surcharge** on the development as set out in the Schedule 2 [7]."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "Under what circumstances can the Relevant Authority revoke a Development Permit or a Certificate of Conformity?",
+    "answer": "The Relevant Authority may revoke the Development Permit or the CoC at any time if it discovers that the Developer had **violated a term or condition** stipulated in the Development Permit or the CoC [8]."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What is the consequence of providing incomplete or inaccurate information in an application for a Preliminary Planning Clearance, Development Permit, or CoC?",
+    "answer": "No application for a Preliminary Planning Clearance, Development Permit or CoC shall be accepted if the **information and the particulars provided in the application are incomplete or inaccurate** [9]."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What is a Preliminary Planning Clearance (PPC) and who issues it?",
+    "answer": "A Preliminary Planning Clearance (**PPC**) is issued by the **Urban Development Authority** upon the request of the Developer or his Agent for any Development Activity specified under Section 29 of the Urban Development Authority Law, No. 41 of 1978 and its amendments [10]."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "For how long is a Development Plan typically valid?",
+    "answer": "A Development Plan shall be valid for a period of **ten years** from the date of publish through a gazette notification [11]."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What are the requirements for obtaining a Certificate of Conformity (CoC) after completing a development?",
+    "answer": "To obtain a CoC, an application must be made to the Relevant Authority using **Form F in Schedule 1** along with relevant documents [12]. The Developer or his Agent must ensure all conditions of the Development Permit are fulfilled [13, 14] and may need to submit certificates from **Relevant Qualified Persons** confirming compliance with approved plans for subdivision/amalgamation [14], engineering works [14], overall development [15], structural details [15], building services [16], fire services, electricity, water supply, sewage, solid waste management [17], Green Building Certification [17], and the Landscape Plan [17]."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What is the definition of a 'Development Activity' according to these regulations?",
+    "answer": "A 'Development Activity' means the **parcelling or sub division of any land, the errection or re- errection of structures and the construction of works thereon, the carrying out of building, engineering and other operations on, over or under such land and any change in the use** for which the land or any structure thereof is used, other than specific agricultural uses [18]."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the fire safety requirements for residential buildings exceeding 15.0 m in height?",
+    "answer": "Residential buildings exceeding **15.0 m in height** shall comply with fire requirements specified by the Relevant Authority or relevant Fire Services Department [19]."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What is the maximum permissible gradient for parking ramps of 12.0 m or less?",
+    "answer": "The maximum gradient of ramps shall **not be steeper than 1:8** for ramps of **12.0 m or less** [20]."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What is the minimum clear height that must be maintained in a multi-storied parking area?",
+    "answer": "In a multi-storied parking area, a minimum clear height of **2.4 m** shall be maintained from the lowest level [21]."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the general drainage requirements for all buildings?",
+    "answer": "For all buildings, **adequate drainage facilities** shall be provided to drain off water from the roof, paved areas around the building shall be adequately drained, and a **rainwater collection system** shall be discharged appropriately [22]."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are the requirements for wastewater discharge if a public sewer is available?",
+    "answer": "If a public sewer or a private sewer connected with a public sewer is available, **wastewater shall be discharged to such sewers via an interceptor chamber** constructed within and close to the boundary of the premises [23]."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What are some of the considerations for designing a rainwater harvesting system?",
+    "answer": "A rainwater harvesting system shall be designed by qualified persons [24] and should be **constructed competently** [25], be capable of discharging the **first flush of rain** [25], store water in an **appropriately sized structure** [25], and facilitate **infiltration into the ground** or optimal use for home, garden, and landscaping [25]. The storage structure must be **covered and protected** against accidents and contaminants [25, 26]."
+  },
+  {
+    "category": "Building Permits",
+    "question": "Is a Development Permit required for any construction, alteration, or renovation of a building?",
+    "answer": "Yes, **no person shall carry out any construction, alteration or renovation of a building** with respect to any Development Activity **without a Development Permit** from the Relevant Authority [27]."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What forms need to be submitted to apply for a Development Permit for building construction?",
+    "answer": "To obtain a Development Permit for building construction, a Developer or his Agent shall make an application to the Relevant Authority according to **Form C as set out in Schedule 1**, together with **Annexure I and II of Form C** and written declarations as prescribed in **Annexure III to VI of Form C** endorsed by a Qualified Person as set out in Schedule 3 [27]."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is required when applying for a Building Permit for a Public Building?",
+    "answer": "Every application for a Development Permit of a Public Building shall be made using **Form C in Schedule 1** with written declarations in **Annexure I to VI in Form C** endorsed by Relevant Qualified Persons in Schedule 3 [28]. Additionally, it must be accompanied by a **certificate from a Relevant Qualified Person** confirming the building's structural soundness for the maximum anticipated occupancy [29] and a **statement of the intended use and occupants** [29]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum frontage and depth required for a subdivided lot, unless specified otherwise in a Development Plan or Development Guide Plan?",
+    "answer": "Unless provided otherwise in the Development Plan or Development Guide Plan, a sub-divided lot shall not be less than **6.0 m in frontage** and **12.0 m in depth** [1]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum width requirement for a street to allow for non-residential use or building construction for such use?",
+    "answer": "No site or lot abutting a street less than **nine meters (9 m) in width** shall be used for non-residential use or construction of any building for such use [2]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum width for an access road when a land is subdivided into a large number of lots requiring a main access road of 9.0m or more, for the lots beyond the main access?",
+    "answer": "When a land is subdivided into a large number of lots where the width of the main Access Road is required to be 9.0m or more, the lots located beyond the point up to which the main Access Road serves, shall be served by Access Roads which have a **minimum width of 6.0m** [3]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum diameter or span required for a turning circle or T-turn on an access road less than 9.0 m in width and more than 30.0 m in length in a land subdivision?",
+    "answer": "In subdivision of a land, an Access Road which is less than 9.0 m in width and more than 30.0 m in length, shall be provided with a turning circle of not less than **9.0 m in diameter** or a T-turn with a **9.0m span** at a suitable location on the road to turn the vehicles [4]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum percentage of land area required to be reserved for community, recreation, and open space uses when a land parcel exceeding 1.0 hectare is subdivided?",
+    "answer": "Where a parcel of land or site to be sub divided exceed 1.0 hectare or more, an area of not less than **ten per centum (10%)** of the land or site excluding roads and drains shall be reserved for community, recreation and open space uses in an appropriate location for the purpose of such community [5]."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What happens if an owner or occupier uses a building for a purpose other than what is specified in the Certificate of Conformity (CoC)?",
+    "answer": "No Building shall be occupied for any purpose except the purpose for which the CoC was issued [6]. In such a case, the Authority may carry out a survey, notify the violator, and inform them to apply for a change of use if desired [6, 7]."
+  },
+  {
+    "category": "Penalties & Violations",
+    "question": "What is the consequence if the owner or Developer of a building with an occupant load of more than five hundred persons fails to comply with regulations related to occupancy and safety?",
+    "answer": "The owner or Developer of a building or part thereof, which has an occupant load of more than five hundred persons (500) at a given time contravenes or fails to comply with Regulations 91 and 93 herein commits an **offence under the Section 28 of Urban Development Authority Act, No. 41 of 1978** [8]."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What is the validity period of a Preliminary Planning Clearance (PPC)?",
+    "answer": "The sources do not explicitly state the general validity period of a Preliminary Planning Clearance. However, it mentions transferring a PPC **during its validity period** [9]."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "How many certified copies of the original survey plan are required to be submitted?",
+    "answer": "The original plan shall be submitted with **five certified copies** [10]."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What should be indicated in a Development Survey Plan if previous survey plans are not available?",
+    "answer": "Where such survey plans are not available, a **note to that effect with the ratification by the owner of the land and a note in respect of the original source used for the preparation of the plan** shall be mentioned in the plan [11]."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What is the minimum distance to be maintained between the boundary of a lot and the excavation line of a Basement?",
+    "answer": "A minimum of **1.0m distance** shall be maintained between the boundary of a lot and the excavation line of the Basement [12]."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What is the minimum distance required from the outer edge of a balcony or a terrace facing an adjacent property to the relevant boundary?",
+    "answer": "Where a Balcony or a terrace is faced to an adjacent property, a minimum of **1.0 m distance** shall be maintained from the outer edge of such Balcony or terrace to the relevant boundary [13]."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "In a building less than 15m in height, what fire safety feature related to lifts is required if the building is to be occupied by disabled or elderly people?",
+    "answer": "A building which is less than 15m in height shall be facilitated with fire emergency return operation and where the building is to be occupied with disable or elderly people, at least **one lift shall be a Fireman’s lift** for serving maximum 900 m2 floor area [14]."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What is the minimum plot size required in areas where there are no pipe-borne water supply systems installed?",
+    "answer": "In areas where there are no pipe-borne water supply systems installed, the minimum plot size shall be **250 m2** [15]."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "For residential or non-residential buildings exceeding specific floor areas, what is required regarding solid waste management?",
+    "answer": "For residential or non-residential buildings with a floor area that exceeds **400 m2 and 300 m2 respectively**, a clearance for collection and disposal of solid waste shall be obtained from the Relevant Institution or the Relevant Authority [16]."
+  },
+  {
+    "category": "Environmental Regulations",
+    "question": "What is a key guideline for managing solid waste in residential developments regarding the collection and storage chamber?",
+    "answer": "The solid waste collection and storage chamber shall have a **sufficient area in compliance to the requirements of the local authority** to accommodate the required number of bins or any other suitable receptacles of which the size (or volume) and design shall conform to the requirements of the local authority [17]."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the validity period of a Development Permit?",
+    "answer": "The validity period of the Development Permit shall expire after a lapse of **three (3) years** [18]."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What can a Developer or their Agent do if they wish to extend the validity of a Development Permit beyond the initial three-year period?",
+    "answer": "If the Developer or his Agent desires to further extend the period of the Development Permit upon the expiry of the validity period of three (3) years, they may apply for a **fresh Development Permit** along with copies of the previous Development Permit and the approved building plan and the relevant fee [18]."
+  },
+  {
+    "category": "Building Permits",
+    "question": "How many original copies of the building plan are required to be submitted with a Development Permit application?",
+    "answer": "Every plan shall be submitted with **four original copies** [19]."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What is the minimum plot size of a lot in a land subdivision?",
+    "answer": "The minimum plot size of a lot shall be not less than 150 $m^{2}$ unless otherwise specified by the Development Plan in effect for the particular Urban Development Area."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What should a survey plan for a proposed subdivision indicate?",
+    "answer": "The survey plan shall indicate the proposed lots and the corresponding dimensions, direction, widths and levels of all streets, open spaces and space for other amenities and the proposed use of every lot."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "When can a land be subdivided without reserving ten per centum (10%) of the land for community, recreation and open space uses?",
+    "answer": "When a land is subdivided for the purpose of commercial or industrial uses, if the plot size of each subdivided lot is not less than 2,024 $m^{2}$ and all the road widths are not less than 9.0m, the land may be subdivided without reserving ten per centum (10%) of the land for community, recreation and open space uses."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the procedure to obtain a Development Permit?",
+    "answer": "To obtain a Development Permit, a Developer or his Agent shall make an application to the Relevant Authority according to Form C as set out in Schedule 1 herein, together with Annexure I and II of Form C and written declarations as prescribed in Annexure III to VI of Form C endorsed by a Qualified Person as set out in Schedule 3 herein. An application with the relevant documents shall be forwarded to the Relevant Authority online wherever possible. Every application shall be forwarded to the Relevant Authority with the relevant fee as specified under Schedule 2 herein."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What is the validity period of a Development Permit?",
+    "answer": "A Development Permit issued under these regulations shall be valid for a period of one year. The Relevant Authority on request by the Developer or his Agent, may extend the validity period of a permit for a further period not exceeding 2 years if the Relevant Authority is satisfied that the Development Activity referred to in the Development Permit has been commenced but not been completed due to unforeseeable circumstances. The validity period of the Development Permit shall expire after a lapse of three (3) years."
+  },
+  {
+    "category": "Building Permits",
+    "question": "What plans should the Developer or Agent retain at the site?",
+    "answer": "The Developer or his Agent shall retain copies of the approved survey plan, approved building plan and relevant Development Permits at the site and shall present such copies to an officer of the Relevant Authority where necessary."
+  },
+  {
+    "category": "Safety Standards",
+    "question": "What are the requirements for an Access Road in land subdivision?",
+    "answer": "The minimum width of an Access Road to a Lot in a new subdivision shall be in accordance with the Form B in Schedule 4 herein for residential uses. In subdivision of a land, an Access Road which is less than 9.0 m in width and more than 30.0 m in length, shall be provided with a turning circle of not less than 9.0 m in diameter or a T-turn with a 9.0m span at a suitable location on the road to turn the vehicles. In subdivision of a land, an Access Road which is 9.0m or more in width shall be provided with a turning circle of 12.0m in diameter or a T-turn with a 12.0m span at a suitable location on the road to turn the vehicles."
+  },
+  {
+    "category": "Other Miscellaneous",
+    "question": "What does ‘Development Activity’ mean?",
+    "answer": "‘Development Activity’ means the parcelling or sub division of any land, the errection or re- errection of structures and the construction of works thereon, the carrying out of building, engineering and other operations on, over or under such land and any change in the use for which the land or any structure thereof is used, other than the use of any land for purposes of agriculture, horticulture and the use of any land within the curtilage of a dwelling house for any purpose incidential to the enjoyement of a dwelling house, not involving any building operation that would require the submission of a new building plan."
+  },
+  {
+    "category": "Zoning Regulations",
+    "question": "What factors determine the Permissible Floor Area for a development?",
+    "answer": "The Permissible Floor Area depends on: 1) the extent of land, 2) the length of the boundary of the land directly abutting the road (road frontage), 3) width of the road that provides access to the land, 4) the Zone Factor which indicates the development density specified for the area, and 5) other conditions imposed by the other relevant Laws or regulations."
+  }
+]
+
