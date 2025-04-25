@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+PyMuPDF==1.23.8
+=======
+PyMuPDF
+openai
+transformers
+huggingface_hub
+torch
+accelerator
+bitsandbytes
+peft
+tqdm
+datasets
+sentencepiece
+protobuf
+pyarrow
+numpy
+pandas
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+requests
+llama-cpp-python
+tqdm
+matplotlib
+>>>>>>> 7f6f21a (Committing the pipelines and updated README)
